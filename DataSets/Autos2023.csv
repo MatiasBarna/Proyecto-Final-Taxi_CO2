@@ -1,0 +1,991 @@
+Model year,Make,Model,Vehicle class,CO2 emissions (g/km),CO2 rating,Smog rating,City (kWh/100 mi),Highway (kWh/100 mi),Range (mi),Recharge time (h),Type_Car,City (Gal/mi),Highway (Gal/mi)
+2023,Acura,Integra,Full-size,167,6.0,7.0,,,,,Gasoline,0.012967756765148001,0.010341375648156001
+2023,Acura,Integra A-SPEC,Full-size,172,6.0,7.0,,,,,Gasoline,0.013296054404772,0.01066967328778
+2023,Acura,Integra A-SPEC,Full-size,181,6.0,6.0,,,,,Gasoline,0.014609244963268004,0.01066967328778
+2023,Acura,MDX SH-AWD,Sport utility vehicle: Small,263,4.0,5.0,,,,,Gasoline,0.020682751296312002,0.015429989062328002
+2023,Acura,MDX SH-AWD Type S,Sport utility vehicle: Standard,291,4.0,5.0,,,,,Gasoline,0.022652537134056003,0.018384667818944
+2023,Acura,RDX SH-AWD,Sport utility vehicle: Small,232,5.0,6.0,,,,,Gasoline,0.018056370179320002,0.014116798503831999
+2023,Acura,RDX SH-AWD A-SPEC,Sport utility vehicle: Small,242,5.0,6.0,,,,,Gasoline,0.018548816638756002,0.014937542602892002
+2023,Acura,TLX SH-AWD,Compact,230,5.0,7.0,,,,,Gasoline,0.018384667818944,0.013131905584960002
+2023,Acura,TLX SH-AWD A-SPEC,Compact,231,5.0,7.0,,,,,Gasoline,0.018548816638756002,0.013296054404772
+2023,Acura,TLX Type S,Compact,256,5.0,5.0,,,,,Gasoline,0.020190304836876,0.015429989062328002
+2023,Alfa Romeo,Giulia,Mid-size,205,5.0,5.0,,,,,Gasoline,0.016414881981200002,0.011818715026464002
+2023,Alfa Romeo,Giulia AWD,Mid-size,217,5.0,5.0,,,,,Gasoline,0.01723562608026,0.012639459125524001
+2023,Alfa Romeo,Giulia Quadrifoglio,Mid-size,271,4.0,3.0,,,,,Gasoline,0.022160090674620003,0.015265840242516003
+2023,Alfa Romeo,Stelvio,Sport utility vehicle: Small,218,5.0,5.0,,,,,Gasoline,0.016907328440636003,0.013296054404772
+2023,Alfa Romeo,Stelvio AWD,Sport utility vehicle: Small,226,5.0,5.0,,,,,Gasoline,0.017728072539696004,0.013624352044396002
+2023,Alfa Romeo,Stelvio AWD Quadrifoglio,Sport utility vehicle: Small,288,4.0,3.0,,,,,Gasoline,0.022816685953868,0.016907328440636003
+2023,Alfa Romeo,Tonale AWD,Sport utility vehicle: Small,231,5.0,7.0,,,,,Gasoline,0.018384667818944,0.013460203224584
+2023,Aston Martin,DB11 V8,Minicompact,271,4.0,5.0,,,,,Gasoline,0.02133934657556,0.016086584341576
+2023,Aston Martin,DB11 V12,Minicompact,324,3.0,3.0,,,,,Gasoline,0.026920406449168,0.017563923719884002
+2023,Aston Martin,DBS V12,Minicompact,324,3.0,3.0,,,,,Gasoline,0.026920406449168,0.017563923719884002
+2023,Aston Martin,DBX V8,Sport utility vehicle: Standard,343,3.0,5.0,,,,,Gasoline,0.027577001728416,0.019533709557628003
+2023,Aston Martin,DBX707,Sport utility vehicle: Standard,329,3.0,5.0,,,,,Gasoline,0.025771364710484003,0.01969785837744
+2023,Aston Martin,Vantage V8,Two-seater,270,4.0,5.0,,,,,Gasoline,0.021503495395372,0.015758286701952
+2023,Aston Martin,V12 Vantage,Two-seater,337,3.0,3.0,,,,,Gasoline,0.028233597007663997,0.017728072539696004
+2023,Audi,A3 40 TFSI quattro,Subcompact,183,6.0,7.0,,,,,Gasoline,0.014280947323644,0.011162119747216
+2023,Audi,A4 Sedan 45 TFSI quattro,Compact,203,5.0,5.0,,,,,Gasoline,0.015922435521764002,0.012147012666088001
+2023,Audi,A4 allroad 45 TFSI quattro,Station wagon: Small,214,5.0,5.0,,,,,Gasoline,0.016579030801011998,0.012967756765148001
+2023,Audi,A5 Cabriolet 45 TFSI quattro,Subcompact,208,5.0,5.0,,,,,Gasoline,0.016250733161388,0.012475310305712
+2023,Audi,A5 Coupé 45 TFSI quattro,Subcompact,203,5.0,5.0,,,,,Gasoline,0.015922435521764002,0.012147012666088001
+2023,Audi,A5 Sportback 45 TFSI quattro,Mid-size,203,5.0,5.0,,,,,Gasoline,0.015922435521764002,0.012147012666088001
+2023,Audi,A6 45 TFSI quattro,Mid-size,207,5.0,5.0,,,,,Gasoline,0.016414881981200002,0.012311161485900002
+2023,Audi,A6 55 TFSI quattro,Mid-size,224,5.0,5.0,,,,,Gasoline,0.018220518999132,0.012803607945336
+2023,Audi,A6 allroad 55 TFSI quattro,Station wagon: Mid-size,224,5.0,5.0,,,,,Gasoline,0.018220518999132,0.012803607945336
+2023,Audi,A7 Sportback 55 TFSI quattro,Mid-size,224,5.0,5.0,,,,,Gasoline,0.018220518999132,0.012803607945336
+2023,Audi,A8 L Sedan 55 TFSI quattro,Full-size,247,5.0,5.0,,,,,Gasoline,0.020518602476500003,0.013624352044396002
+2023,Audi,Q3 40 TFSI quattro,Sport utility vehicle: Small,224,5.0,6.0,,,,,Gasoline,0.017892221359508003,0.013131905584960002
+2023,Audi,Q3 45 TFSI quattro,Sport utility vehicle: Small,233,5.0,7.0,,,,,Gasoline,0.018384667818944,0.013788500864208
+2023,Audi,Q5 40 TFSI quattro,Sport utility vehicle: Small,217,5.0,1.0,,,,,Gasoline,0.016743179620824,0.013460203224584
+2023,Audi,Q5 45 TFSI quattro,Sport utility vehicle: Small,223,5.0,5.0,,,,,Gasoline,0.017399774900072003,0.013460203224584
+2023,Audi,Q5 Sportback 45 TFSI quattro,Sport utility vehicle: Small,223,5.0,5.0,,,,,Gasoline,0.017399774900072003,0.013460203224584
+2023,Audi,Q7 45 TFSI quattro,Sport utility vehicle: Standard,257,4.0,5.0,,,,,Gasoline,0.020026156017064003,0.015594137882140001
+2023,Audi,Q7 55 TFSI quattro,Sport utility vehicle: Standard,281,4.0,5.0,,,,,Gasoline,0.021175197755748002,0.017892221359508003
+2023,Audi,Q8 55 TFSI quattro,Sport utility vehicle: Standard,273,4.0,5.0,,,,,Gasoline,0.021011048935936003,0.017071477260448005
+2023,Audi,R8 Coupé Performance,Two-seater,320,3.0,1.0,,,,,Gasoline,0.027248704088792004,0.016743179620824
+2023,Audi,R8 Coupé Performance quattro,Two-seater,361,2.0,1.0,,,,,Gasoline,0.029054341106724,0.021011048935936003
+2023,Audi,R8 Spyder Performance,Two-seater,320,3.0,1.0,,,,,Gasoline,0.027248704088792004,0.016743179620824
+2023,Audi,R8 Spyder Performance quattro,Two-seater,361,2.0,1.0,,,,,Gasoline,0.029054341106724,0.021011048935936003
+2023,Audi,R8 GT Coupé,Two-seater,328,3.0,1.0,,,,,Gasoline,0.026592108809544,0.018384667818944
+2023,Audi,RS 5 Coupé quattro,Subcompact,266,4.0,5.0,,,,,Gasoline,0.021667644215184002,0.015101691422704
+2023,Audi,RS 5 Sportback quattro,Mid-size,267,4.0,5.0,,,,,Gasoline,0.021667644215184002,0.015265840242516003
+2023,Audi,RS 6 Avant quattro,Station wagon: Mid-size,328,3.0,3.0,,,,,Gasoline,0.026920406449168,0.018220518999132
+2023,Audi,RS 7 Sportback quattro,Mid-size,328,3.0,3.0,,,,,Gasoline,0.026920406449168,0.018220518999132
+2023,Audi,RS Q8 quattro,Sport utility vehicle: Standard,349,3.0,3.0,,,,,Gasoline,0.028726043467100008,0.019533709557628003
+2023,Audi,S3 quattro,Subcompact,207,5.0,5.0,,,,,Gasoline,0.016743179620824,0.011982863846276
+2023,Audi,S4 Sedan quattro,Compact,226,5.0,5.0,,,,,Gasoline,0.018220518999132,0.013131905584960002
+2023,Audi,S5 Cabriolet quattro,Subcompact,233,5.0,5.0,,,,,Gasoline,0.018548816638756002,0.013788500864208
+2023,Audi,S5 Coupé quattro,Subcompact,226,5.0,5.0,,,,,Gasoline,0.018220518999132,0.013131905584960002
+2023,Audi,S5 Sportback quattro,Mid-size,226,5.0,5.0,,,,,Gasoline,0.018220518999132,0.013131905584960002
+2023,Audi,S6 quattro,Mid-size,254,5.0,5.0,,,,,Gasoline,0.020190304836876,0.014773393783080001
+2023,Audi,S7 quattro,Mid-size,254,5.0,5.0,,,,,Gasoline,0.020190304836876,0.014773393783080001
+2023,Audi,S8 Sedan quattro,Full-size,313,4.0,3.0,,,,,Gasoline,0.026099662350108,0.016907328440636003
+2023,Audi,SQ5 quattro,Sport utility vehicle: Small,262,4.0,5.0,,,,,Gasoline,0.020518602476500003,0.015922435521764002
+2023,Audi,SQ5 Sportback quattro,Sport utility vehicle: Small,262,4.0,5.0,,,,,Gasoline,0.020518602476500003,0.015922435521764002
+2023,Audi,SQ7 quattro,Sport utility vehicle: Standard,325,3.0,3.0,,,,,Gasoline,0.026427959989732002,0.018548816638756002
+2023,Audi,SQ8 quattro,Sport utility vehicle: Standard,325,3.0,3.0,,,,,Gasoline,0.026427959989732002,0.018548816638756002
+2023,Audi,TT Coupé 45 TFSI quattro,Subcompact,221,5.0,7.0,,,,,Gasoline,0.01723562608026,0.013131905584960002
+2023,Audi,TT Roadster 45 TFSI quattro,Two-seater,221,5.0,7.0,,,,,Gasoline,0.01723562608026,0.013131905584960002
+2023,Audi,TTS Coupé quattro,Subcompact,209,5.0,3.0,,,,,Gasoline,0.016414881981200002,0.012639459125524001
+2023,Bentley,Bentayga,Sport utility vehicle: Standard,328,3.0,3.0,,,,,Gasoline,0.026592108809544,0.018384667818944
+2023,Bentley,Bentayga EWB,Sport utility vehicle: Standard,328,3.0,3.0,,,,,Gasoline,0.026592108809544,0.018384667818944
+2023,Bentley,Bentayga Speed,Sport utility vehicle: Standard,383,2.0,3.0,,,,,Gasoline,0.031680722223716005,0.020846900116124
+2023,Bentley,Continental GT,Subcompact,307,4.0,3.0,,,,,Gasoline,0.025114769431236,0.017071477260448005
+2023,Bentley,Continental GT Speed,Subcompact,379,2.0,3.0,,,,,Gasoline,0.032173168683152,0.01969785837744
+2023,Bentley,Continental GTC,Minicompact,315,4.0,3.0,,,,,Gasoline,0.025935513530296002,0.01723562608026
+2023,Bentley,Continental GTC Speed,Minicompact,395,2.0,3.0,,,,,Gasoline,0.033322210421836,0.021175197755748002
+2023,Bentley,Flying Spur,Mid-size,319,3.0,3.0,,,,,Gasoline,0.026099662350108,0.017728072539696004
+2023,Bentley,Flying Spur Speed,Mid-size,373,2.0,3.0,,,,,Gasoline,0.031516573403904,0.020026156017064003
+2023,BMW,230i xDrive Coupe,Subcompact,195,6.0,3.0,,,,,Gasoline,0.015758286701952,0.011326268567028001
+2023,BMW,330i xDrive Sedan,Compact,200,6.0,7.0,,,,,Gasoline,0.016086584341576,0.01149041738684
+2023,BMW,430i xDrive Cabriolet,Subcompact,203,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.011654566206652001
+2023,BMW,430i xDrive Coupe,Subcompact,203,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.011654566206652001
+2023,BMW,530i xDrive Sedan,Mid-size,206,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.012311161485900002
+2023,BMW,540i xDrive Sedan,Mid-size,219,5.0,5.0,,,,,Gasoline,0.01723562608026,0.013296054404772
+2023,BMW,760i xDrive Sedan,Full-size,261,4.0,5.0,,,,,Gasoline,0.02133934657556,0.014937542602892002
+2023,BMW,ALPINA B8 Gran Coupe,Mid-size,284,4.0,3.0,,,,,Gasoline,0.023144983593492003,0.016250733161388
+2023,BMW,ALPINA XB7,Sport utility vehicle: Standard,314,4.0,5.0,,,,,Gasoline,0.024950620611424,0.019041263098192002
+2023,BMW,M2 Coupe,Subcompact,294,4.0,5.0,,,,,Gasoline,0.023965727692552,0.016907328440636003
+2023,BMW,M2 Coupe,Subcompact,287,4.0,5.0,,,,,Gasoline,0.023473281233116,0.016414881981200002
+2023,BMW,M240i xDrive Coupe,Subcompact,210,5.0,5.0,,,,,Gasoline,0.017071477260448005,0.012147012666088001
+2023,BMW,M3 Sedan,Compact,293,4.0,5.0,,,,,Gasoline,0.024129876512363996,0.016579030801011998
+2023,BMW,M3 Competition M xDrive Sedan,Compact,296,4.0,5.0,,,,,Gasoline,0.023965727692552,0.01723562608026
+2023,BMW,M340i xDrive Sedan,Compact,210,5.0,5.0,,,,,Gasoline,0.016907328440636003,0.012147012666088001
+2023,BMW,M4 Competition M xDrive Cabriolet,Subcompact,301,4.0,5.0,,,,,Gasoline,0.024786471791612003,0.017071477260448005
+2023,BMW,M4 Coupe,Subcompact,293,4.0,5.0,,,,,Gasoline,0.024129876512363996,0.016579030801011998
+2023,BMW,M4 Competition M xDrive Coupe,Subcompact,296,4.0,5.0,,,,,Gasoline,0.023965727692552,0.01723562608026
+2023,BMW,M4 CSL Coupe,Subcompact,301,4.0,5.0,,,,,Gasoline,0.024622322971800004,0.016907328440636003
+2023,BMW,M440i xDrive Cabriolet,Subcompact,216,5.0,5.0,,,,,Gasoline,0.017399774900072003,0.012639459125524001
+2023,BMW,M440i xDrive Coupe,Subcompact,216,5.0,5.0,,,,,Gasoline,0.017563923719884002,0.012475310305712
+2023,BMW,M5 Sedan,Mid-size,324,3.0,3.0,,,,,Gasoline,0.026427959989732002,0.018220518999132
+2023,BMW,M5 Competition Sedan,Mid-size,324,3.0,3.0,,,,,Gasoline,0.026427959989732002,0.018220518999132
+2023,BMW,M550i xDrive Sedan,Mid-size,277,4.0,3.0,,,,,Gasoline,0.02298083477368,0.015594137882140001
+2023,BMW,M8 Competition Cabriolet,Subcompact,321,3.0,3.0,,,,,Gasoline,0.026427959989732002,0.017892221359508003
+2023,BMW,M8 Competition Coupe,Subcompact,321,3.0,3.0,,,,,Gasoline,0.026427959989732002,0.017892221359508003
+2023,BMW,M8 Competition Gran Coupe,Mid-size,321,3.0,3.0,,,,,Gasoline,0.026427959989732002,0.017892221359508003
+2023,BMW,M850i xDrive Cabriolet,Subcompact,284,4.0,3.0,,,,,Gasoline,0.023144983593492003,0.016250733161388
+2023,BMW,M850i xDrive Coupe,Subcompact,284,4.0,3.0,,,,,Gasoline,0.023144983593492003,0.016250733161388
+2023,BMW,M850i xDrive Gran Coupe,Mid-size,284,4.0,3.0,,,,,Gasoline,0.023144983593492003,0.016250733161388
+2023,BMW,X1 xDrive28i,Sport utility vehicle: Small,195,6.0,8.0,,,,,Gasoline,0.015758286701952,0.01149041738684
+2023,BMW,X3 xDrive30i,Sport utility vehicle: Small,229,5.0,7.0,,,,,Gasoline,0.018056370179320002,0.013788500864208
+2023,BMW,X3 M,Sport utility vehicle: Small,323,3.0,3.0,,,,,Gasoline,0.025771364710484003,0.019205411918003998
+2023,BMW,X3 M Competition,Sport utility vehicle: Small,323,3.0,3.0,,,,,Gasoline,0.025771364710484003,0.019205411918003998
+2023,BMW,X3 M40i,Sport utility vehicle: Small,235,5.0,5.0,,,,,Gasoline,0.017892221359508003,0.014773393783080001
+2023,BMW,X4 xDrive30i,Sport utility vehicle: Small,229,5.0,7.0,,,,,Gasoline,0.018056370179320002,0.013788500864208
+2023,BMW,X4 M,Sport utility vehicle: Small,323,3.0,3.0,,,,,Gasoline,0.025771364710484003,0.019205411918003998
+2023,BMW,X4 M Competition,Sport utility vehicle: Small,323,3.0,3.0,,,,,Gasoline,0.025771364710484003,0.019205411918003998
+2023,BMW,X4 M40i,Sport utility vehicle: Small,235,5.0,5.0,,,,,Gasoline,0.017892221359508003,0.014773393783080001
+2023,BMW,X5 xDrive40i,Sport utility vehicle: Standard,242,5.0,3.0,,,,,Gasoline,0.018712965458568,0.015265840242516003
+2023,BMW,X5 M,Sport utility vehicle: Standard,364,2.0,3.0,,,,,Gasoline,0.029382638746347996,0.02133934657556
+2023,BMW,X5 M Competition,Sport utility vehicle: Standard,364,2.0,3.0,,,,,Gasoline,0.029382638746347996,0.02133934657556
+2023,BMW,X5 M50i,Sport utility vehicle: Standard,302,4.0,3.0,,,,,Gasoline,0.024129876512363996,0.017892221359508003
+2023,BMW,X6 xDrive40i,Sport utility vehicle: Standard,242,5.0,3.0,,,,,Gasoline,0.018712965458568,0.015265840242516003
+2023,BMW,X6 M,Sport utility vehicle: Standard,364,2.0,3.0,,,,,Gasoline,0.029382638746347996,0.02133934657556
+2023,BMW,X6 M Competition,Sport utility vehicle: Standard,364,2.0,3.0,,,,,Gasoline,0.029382638746347996,0.02133934657556
+2023,BMW,X6 M50i,Sport utility vehicle: Standard,302,4.0,3.0,,,,,Gasoline,0.024129876512363996,0.017892221359508003
+2023,BMW,X7 xDrive40i,Sport utility vehicle: Standard,243,5.0,7.0,,,,,Gasoline,0.018548816638756002,0.015594137882140001
+2023,BMW,X7 M60i xDrive,Sport utility vehicle: Standard,299,4.0,5.0,,,,,Gasoline,0.023473281233116,0.018220518999132
+2023,BMW,Z4 sDrive30i,Two-seater,194,6.0,7.0,,,,,Gasoline,0.015429989062328002,0.011654566206652001
+2023,BMW,Z4 M40i,Two-seater,210,5.0,5.0,,,,,Gasoline,0.017071477260448005,0.012311161485900002
+2023,Bugatti,Chiron,Two-seater,522,1.0,1.0,,,,,Gasoline,0.043991883709616,0.027248704088792004
+2023,Bugatti,Chiron Pur Sport,Two-seater,608,1.0,1.0,,,,,Gasoline,0.04973709240303601,0.034307103340707995
+2023,Bugatti,Chiron Super Sport,Two-seater,608,1.0,1.0,,,,,Gasoline,0.04973709240303601,0.034307103340707995
+2023,Buick,Enclave AWD,Sport utility vehicle: Standard,277,4.0,6.0,,,,,Gasoline,0.022324239494432,0.015758286701952
+2023,Buick,Encore GX,Sport utility vehicle: Small,184,6.0,7.0,,,,,Gasoline,0.013131905584960002,0.012475310305712
+2023,Buick,Encore GX,Sport utility vehicle: Small,185,6.0,7.0,,,,,Gasoline,0.013460203224584,0.012147012666088001
+2023,Buick,Encore GX AWD,Sport utility vehicle: Small,202,5.0,7.0,,,,,Gasoline,0.014773393783080001,0.013624352044396002
+2023,Buick,Envision,Sport utility vehicle: Small,211,5.0,7.0,,,,,Gasoline,0.016743179620824,0.012311161485900002
+2023,Buick,Envision AWD,Sport utility vehicle: Small,222,5.0,7.0,,,,,Gasoline,0.01723562608026,0.013460203224584
+2023,Cadillac,CT4,Compact,206,5.0,7.0,,,,,Gasoline,0.016743179620824,0.01149041738684
+2023,Cadillac,CT4,Compact,221,5.0,6.0,,,,,Gasoline,0.018056370179320002,0.012475310305712
+2023,Cadillac,CT4 AWD,Compact,216,5.0,7.0,,,,,Gasoline,0.01723562608026,0.012475310305712
+2023,Cadillac,CT4 AWD,Compact,231,5.0,6.0,,,,,Gasoline,0.018548816638756002,0.013296054404772
+2023,Cadillac,CT4-V,Compact,239,5.0,6.0,,,,,Gasoline,0.019533709557628003,0.013460203224584
+2023,Cadillac,CT4-V AWD,Compact,244,5.0,6.0,,,,,Gasoline,0.01969785837744,0.013788500864208
+2023,Cadillac,CT4-V Blackwing,Compact,297,4.0,5.0,,,,,Gasoline,0.024622322971800004,0.015922435521764002
+2023,Cadillac,CT4-V Blackwing,Compact,303,4.0,5.0,,,,,Gasoline,0.024950620611424,0.016743179620824
+2023,Cadillac,CT5,Mid-size,207,5.0,7.0,,,,,Gasoline,0.016907328440636003,0.011654566206652001
+2023,Cadillac,CT5,Mid-size,252,5.0,5.0,,,,,Gasoline,0.020354453656688,0.014280947323644
+2023,Cadillac,CT5 AWD,Mid-size,222,5.0,7.0,,,,,Gasoline,0.017892221359508003,0.012803607945336
+2023,Cadillac,CT5 AWD,Mid-size,265,4.0,5.0,,,,,Gasoline,0.021503495395372,0.014937542602892002
+2023,Cadillac,CT5-V,Mid-size,263,4.0,5.0,,,,,Gasoline,0.021503495395372,0.014445096143456003
+2023,Cadillac,CT5-V AWD,Mid-size,265,4.0,5.0,,,,,Gasoline,0.021503495395372,0.014937542602892002
+2023,Cadillac,CT5-V Blackwing,Mid-size,347,3.0,3.0,,,,,Gasoline,0.029382638746347996,0.018056370179320002
+2023,Cadillac,CT5-V Blackwing,Mid-size,368,2.0,3.0,,,,,Gasoline,0.030203382845408,0.018712965458568
+2023,Cadillac,Escalade 4WD,Sport utility vehicle: Standard,281,4.0,3.0,,,,,Gasoline,0.019205411918003998,0.014773393783080001
+2023,Cadillac,Escalade 4WD,Sport utility vehicle: Standard,352,3.0,6.0,,,,,Gasoline,0.027248704088792004,0.021503495395372
+2023,Cadillac,Escalade-V AWD,Sport utility vehicle: Standard,436,1.0,3.0,,,,,Gasoline,0.03545614507939201,0.024458174151988
+2023,Cadillac,XT4,Sport utility vehicle: Small,214,5.0,7.0,,,,,Gasoline,0.016743179620824,0.012803607945336
+2023,Cadillac,XT4 AWD,Sport utility vehicle: Small,228,5.0,7.0,,,,,Gasoline,0.017892221359508003,0.013460203224584
+2023,Cadillac,XT5,Sport utility vehicle: Small,228,5.0,7.0,,,,,Gasoline,0.017892221359508003,0.013460203224584
+2023,Cadillac,XT5 AWD,Sport utility vehicle: Small,237,5.0,7.0,,,,,Gasoline,0.018384667818944,0.014280947323644
+2023,Cadillac,XT5 AWD,Sport utility vehicle: Small,265,4.0,6.0,,,,,Gasoline,0.021175197755748002,0.015265840242516003
+2023,Cadillac,XT6 AWD,Sport utility vehicle: Small,239,5.0,7.0,,,,,Gasoline,0.018384667818944,0.014773393783080001
+2023,Cadillac,XT6 AWD,Sport utility vehicle: Small,269,4.0,6.0,,,,,Gasoline,0.021503495395372,0.015594137882140001
+2023,Chevrolet,Blazer,Sport utility vehicle: Small,227,5.0,7.0,,,,,Gasoline,0.017399774900072003,0.013131905584960002
+2023,Chevrolet,Blazer AWD,Sport utility vehicle: Small,232,5.0,7.0,,,,,Gasoline,0.017728072539696004,0.014280947323644
+2023,Chevrolet,Blazer AWD,Sport utility vehicle: Small,259,4.0,6.0,,,,,Gasoline,0.020682751296312002,0.015101691422704
+2023,Chevrolet,Camaro,Subcompact,222,5.0,5.0,,,,,Gasoline,0.017892221359508003,0.012803607945336
+2023,Chevrolet,Camaro,Subcompact,249,5.0,5.0,,,,,Gasoline,0.020682751296312002,0.013624352044396002
+2023,Chevrolet,Camaro,Subcompact,253,5.0,6.0,,,,,Gasoline,0.021011048935936003,0.013460203224584
+2023,Chevrolet,Camaro,Subcompact,281,4.0,6.0,,,,,Gasoline,0.023637430052928003,0.014937542602892002
+2023,Chevrolet,Camaro SS,Subcompact,281,4.0,1.0,,,,,Gasoline,0.023965727692552,0.014609244963268004
+2023,Chevrolet,Camaro SS,Subcompact,297,4.0,1.0,,,,,Gasoline,0.024458174151988,0.016250733161388
+2023,Chevrolet,Camaro ZL1,Subcompact,355,3.0,1.0,,,,,Gasoline,0.030039234025596002,0.018384667818944
+2023,Chevrolet,Camaro ZL1,Subcompact,349,3.0,1.0,,,,,Gasoline,0.028233597007663997,0.01969785837744
+2023,Chevrolet,Colorado,Pickup truck: Small,252,5.0,7.0,,,,,Gasoline,0.019205411918003998,0.015594137882140001
+2023,Chevrolet,Colorado (Turbo Plus),Pickup truck: Small,277,4.0,7.0,,,,,Gasoline,0.02133934657556,0.016907328440636003
+2023,Chevrolet,Colorado 4WD,Pickup truck: Small,265,4.0,7.0,,,,,Gasoline,0.020190304836876,0.016743179620824
+2023,Chevrolet,Colorado 4WD (Turbo Plus),Pickup truck: Small,290,4.0,7.0,,,,,Gasoline,0.022160090674620003,0.018056370179320002
+2023,Chevrolet,Colorado 4WD Mud Terrain Tire (Turbo Plus),Pickup truck: Small,307,4.0,7.0,,,,,Gasoline,0.022816685953868,0.019862007197252
+2023,Chevrolet,Colorado ZR2 4WD,Pickup truck: Small,335,3.0,7.0,,,,,Gasoline,0.023473281233116,0.023473281233116
+2023,Chevrolet,Corvette,Two-seater,299,4.0,5.0,,,,,Gasoline,0.024622322971800004,0.016086584341576
+2023,Chevrolet,Corvette Z06,Two-seater,371,2.0,3.0,,,,,Gasoline,0.031844871043528004,0.018712965458568
+2023,Chevrolet,Corvette Z06 Carbon Aero,Two-seater,392,2.0,3.0,,,,,Gasoline,0.032829763962400005,0.020846900116124
+2023,Chevrolet,Equinox,Sport utility vehicle: Small,197,6.0,7.0,,,,,Gasoline,0.014609244963268004,0.012639459125524001
+2023,Chevrolet,Equinox AWD,Sport utility vehicle: Small,211,5.0,7.0,,,,,Gasoline,0.016250733161388,0.012967756765148001
+2023,Chevrolet,Malibu,Mid-size,181,6.0,7.0,,,,,Gasoline,0.014116798503831999,0.011162119747216
+2023,Chevrolet,Silverado,Pickup truck: Standard,281,4.0,7.0,,,,,Gasoline,0.020846900116124,0.018384667818944
+2023,Chevrolet,Silverado,Pickup truck: Standard,247,5.0,5.0,,,,,Gasoline,0.016414881981200002,0.013296054404772
+2023,Chevrolet,Silverado,Pickup truck: Standard,298,4.0,6.0,,,,,Gasoline,0.02298083477368,0.018220518999132
+2023,Chevrolet,Silverado FFV,Pickup truck: Standard,308,4.0,5.0,,,,,Gasoline,0.023473281233116,0.019205411918003998
+2023,Chevrolet,Silverado FFV,Pickup truck: Standard,293,4.0,5.0,,,,,Gasoline,0.032173168683152,0.025114769431236
+2023,Chevrolet,Silverado 4WD,Pickup truck: Standard,288,4.0,7.0,,,,,Gasoline,0.021175197755748002,0.01887711427838
+2023,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,318,3.0,7.0,,,,,Gasoline,0.022652537134056003,0.021667644215184002
+2023,Chevrolet,Silverado 4WD,Pickup truck: Standard,264,4.0,5.0,,,,,Gasoline,0.017563923719884002,0.014280947323644
+2023,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,288,4.0,5.0,,,,,Gasoline,0.018220518999132,0.016743179620824
+2023,Chevrolet,Silverado 4WD,Pickup truck: Standard,325,3.0,6.0,,,,,Gasoline,0.024294025332176002,0.019369560737816
+2023,Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,326,3.0,5.0,,,,,Gasoline,0.024950620611424,0.020026156017064003
+2023,Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,318,3.0,5.0,,,,,Gasoline,0.034963698619956005,0.027248704088792004
+2023,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,343,3.0,6.0,,,,,Gasoline,0.025935513530296002,0.021667644215184002
+2023,Chevrolet,Silverado 4WD Mud Terrain Tire FFV,Pickup truck: Standard,326,3.0,5.0,,,,,Gasoline,0.024950620611424,0.020026156017064003
+2023,Chevrolet,Silverado 4WD Mud Terrain Tire FFV,Pickup truck: Standard,318,3.0,5.0,,,,,Gasoline,0.034963698619956005,0.027248704088792004
+2023,Chevrolet,Silverado 4WD,Pickup truck: Standard,319,3.0,6.0,,,,,Gasoline,0.024458174151988,0.01969785837744
+2023,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,349,3.0,6.0,,,,,Gasoline,0.027412852908604003,0.020846900116124
+2023,Chevrolet,Silverado 4WD ZR2,Pickup truck: Standard,364,2.0,6.0,,,,,Gasoline,0.027412852908604003,0.02298083477368
+2023,Chevrolet,Suburban,Sport utility vehicle: Standard,272,4.0,3.0,,,,,Gasoline,0.018384667818944,0.014280947323644
+2023,Chevrolet,Suburban,Sport utility vehicle: Standard,327,3.0,6.0,,,,,Gasoline,0.025935513530296002,0.019369560737816
+2023,Chevrolet,Suburban 4WD,Sport utility vehicle: Standard,281,4.0,3.0,,,,,Gasoline,0.019205411918003998,0.014773393783080001
+2023,Chevrolet,Suburban 4WD,Sport utility vehicle: Standard,339,3.0,6.0,,,,,Gasoline,0.026263811169920003,0.020846900116124
+2023,Chevrolet,Suburban 4WD,Sport utility vehicle: Standard,352,3.0,6.0,,,,,Gasoline,0.027248704088792004,0.021503495395372
+2023,Chevrolet,Tahoe,Sport utility vehicle: Standard,265,4.0,3.0,,,,,Gasoline,0.018056370179320002,0.013952649684020001
+2023,Chevrolet,Tahoe,Sport utility vehicle: Standard,327,3.0,6.0,,,,,Gasoline,0.025935513530296002,0.019369560737816
+2023,Chevrolet,Tahoe 4WD,Sport utility vehicle: Standard,281,4.0,3.0,,,,,Gasoline,0.019205411918003998,0.014773393783080001
+2023,Chevrolet,Tahoe 4WD,Sport utility vehicle: Standard,327,3.0,6.0,,,,,Gasoline,0.025935513530296002,0.019369560737816
+2023,Chevrolet,Tahoe 4WD,Sport utility vehicle: Standard,352,3.0,6.0,,,,,Gasoline,0.027248704088792004,0.021503495395372
+2023,Chevrolet,Trailblazer,Sport utility vehicle: Small,184,6.0,7.0,,,,,Gasoline,0.013131905584960002,0.012475310305712
+2023,Chevrolet,Trailblazer,Sport utility vehicle: Small,180,6.0,7.0,,,,,Gasoline,0.013296054404772,0.011818715026464002
+2023,Chevrolet,Trailblazer AWD,Sport utility vehicle: Small,197,6.0,7.0,,,,,Gasoline,0.014609244963268004,0.012803607945336
+2023,Chevrolet,Traverse AWD,Sport utility vehicle: Standard,277,4.0,6.0,,,,,Gasoline,0.022324239494432,0.015758286701952
+2023,Chrysler,300,Full-size,242,5.0,5.0,,,,,Gasoline,0.020354453656688,0.012803607945336
+2023,Chrysler,300,Full-size,289,4.0,3.0,,,,,Gasoline,0.024129876512363996,0.015429989062328002
+2023,Chrysler,300 AWD,Full-size,258,4.0,5.0,,,,,Gasoline,0.021011048935936003,0.014280947323644
+2023,Chrysler,300C,Full-size,307,4.0,1.0,,,,,Gasoline,0.026099662350108,0.015758286701952
+2023,Chrysler,Grand Caravan,Minivan,249,5.0,7.0,,,,,Gasoline,0.020354453656688,0.013788500864208
+2023,Chrysler,Pacifica,Minivan,249,5.0,7.0,,,,,Gasoline,0.020354453656688,0.013788500864208
+2023,Chrysler,Pacifica AWD,Minivan,279,4.0,7.0,,,,,Gasoline,0.023144983593492003,0.015429989062328002
+2023,Dodge,Challenger,Mid-size,242,5.0,5.0,,,,,Gasoline,0.020354453656688,0.012803607945336
+2023,Dodge,Challenger (MDS),Mid-size,289,4.0,3.0,,,,,Gasoline,0.024129876512363996,0.015429989062328002
+2023,Dodge,Challenger,Mid-size,307,4.0,1.0,,,,,Gasoline,0.025607215890672,0.016579030801011998
+2023,Dodge,Challenger (MDS),Mid-size,307,4.0,1.0,,,,,Gasoline,0.026099662350108,0.015758286701952
+2023,Dodge,Challenger,Mid-size,325,3.0,1.0,,,,,Gasoline,0.027412852908604003,0.017071477260448005
+2023,Dodge,Challenger AWD,Mid-size,258,4.0,5.0,,,,,Gasoline,0.021011048935936003,0.014280947323644
+2023,Dodge,Challenger Widebody (MDS),Mid-size,307,4.0,1.0,,,,,Gasoline,0.026099662350108,0.015758286701952
+2023,Dodge,Challenger Widebody,Mid-size,325,3.0,1.0,,,,,Gasoline,0.027412852908604003,0.017071477260448005
+2023,Dodge,Challenger SRT Hellcat,Mid-size,339,3.0,1.0,,,,,Gasoline,0.028890192286912007,0.017563923719884002
+2023,Dodge,Challenger SRT Hellcat,Mid-size,352,3.0,1.0,,,,,Gasoline,0.029710936385972008,0.018712965458568
+2023,Dodge,Challenger SRT Hellcat Widebody,Mid-size,359,2.0,1.0,,,,,Gasoline,0.030531680485032006,0.018712965458568
+2023,Dodge,Challenger SRT Hellcat Widebody,Mid-size,352,3.0,1.0,,,,,Gasoline,0.029710936385972008,0.018712965458568
+2023,Dodge,Charger,Full-size,242,5.0,5.0,,,,,Gasoline,0.020354453656688,0.012803607945336
+2023,Dodge,Charger (MDS),Full-size,289,4.0,3.0,,,,,Gasoline,0.024129876512363996,0.015429989062328002
+2023,Dodge,Charger (MDS),Full-size,307,4.0,1.0,,,,,Gasoline,0.026099662350108,0.015758286701952
+2023,Dodge,Charger AWD,Full-size,258,4.0,5.0,,,,,Gasoline,0.021011048935936003,0.014280947323644
+2023,Dodge,Charger Widebody (MDS),Full-size,307,4.0,1.0,,,,,Gasoline,0.026099662350108,0.015758286701952
+2023,Dodge,Charger SRT Hellcat Widebody,Full-size,368,2.0,1.0,,,,,Gasoline,0.031188275764280002,0.01887711427838
+2023,Dodge,Durango AWD,Sport utility vehicle: Standard,266,4.0,7.0,,,,,Gasoline,0.02133934657556,0.015429989062328002
+2023,Dodge,Durango AWD,Sport utility vehicle: Standard,331,3.0,5.0,,,,,Gasoline,0.027412852908604003,0.017892221359508003
+2023,Dodge,Durango AWD SRT,Sport utility vehicle: Standard,363,2.0,1.0,,,,,Gasoline,0.030039234025596002,0.020026156017064003
+2023,Dodge,Durango AWD SRT Hellcat,Sport utility vehicle: Standard,410,1.0,1.0,,,,,Gasoline,0.033650508061460006,0.022652537134056003
+2023,Dodge,Hornet AWD,Sport utility vehicle: Small,231,5.0,7.0,,,,,Gasoline,0.018384667818944,0.013460203224584
+2023,FIAT,500X AWD,Sport utility vehicle: Small,221,5.0,6.0,,,,,Gasoline,0.016414881981200002,0.012967756765148001
+2023,Ford,Bronco 4WD,Sport utility vehicle: Small,273,4.0,5.0,,,,,Gasoline,0.019862007197252,0.018220518999132
+2023,Ford,Bronco 4WD,Sport utility vehicle: Small,272,4.0,5.0,,,,,Gasoline,0.019533709557628003,0.018384667818944
+2023,Ford,Bronco 4WD,Sport utility vehicle: Small,283,4.0,5.0,,,,,Gasoline,0.020518602476500003,0.01887711427838
+2023,Ford,Bronco Badlands 4WD,Sport utility vehicle: Small,324,3.0,5.0,,,,,Gasoline,0.022652537134056003,0.022652537134056003
+2023,Ford,Bronco Badlands 4WD,Sport utility vehicle: Small,336,3.0,5.0,,,,,Gasoline,0.024129876512363996,0.022652537134056003
+2023,Ford,Bronco Badlands 4WD,Sport utility vehicle: Small,331,3.0,5.0,,,,,Gasoline,0.023144983593492003,0.023144983593492003
+2023,Ford,Bronco Black Diamond 4WD,Sport utility vehicle: Small,308,4.0,5.0,,,,,Gasoline,0.021503495395372,0.021503495395372
+2023,Ford,Bronco Black Diamond 4WD,Sport utility vehicle: Small,329,3.0,5.0,,,,,Gasoline,0.024129876512363996,0.021503495395372
+2023,Ford,Bronco Raptor 4WD,Sport utility vehicle: Standard,358,2.0,5.0,,,,,Gasoline,0.025771364710484003,0.024294025332176002
+2023,Ford,Bronco Sasquatch 4WD,Sport utility vehicle: Small,314,4.0,5.0,,,,,Gasoline,0.021503495395372,0.022652537134056003
+2023,Ford,Bronco Sasquatch 4WD,Sport utility vehicle: Small,329,3.0,5.0,,,,,Gasoline,0.024129876512363996,0.021503495395372
+2023,Ford,Bronco Sasquatch 4WD,Sport utility vehicle: Small,331,3.0,5.0,,,,,Gasoline,0.023144983593492003,0.023144983593492003
+2023,Ford,Bronco Sport 4WD,Sport utility vehicle: Small,209,5.0,7.0,,,,,Gasoline,0.015265840242516003,0.013788500864208
+2023,Ford,Bronco Sport 4WD,Sport utility vehicle: Small,240,5.0,6.0,,,,,Gasoline,0.018220518999132,0.014773393783080001
+2023,Ford,Edge AWD,Sport utility vehicle: Small,239,5.0,6.0,,,,,Gasoline,0.019041263098192002,0.013952649684020001
+2023,Ford,Edge AWD,Sport utility vehicle: Small,238,5.0,6.0,,,,,Gasoline,0.01887711427838,0.013788500864208
+2023,Ford,Edge AWD,Sport utility vehicle: Small,262,4.0,6.0,,,,,Gasoline,0.020846900116124,0.015265840242516003
+2023,Ford,Escape,Sport utility vehicle: Small,188,6.0,8.0,,,,,Gasoline,0.014609244963268004,0.011326268567028001
+2023,Ford,Escape AWD,Sport utility vehicle: Small,197,6.0,8.0,,,,,Gasoline,0.015101691422704,0.012147012666088001
+2023,Ford,Escape AWD,Sport utility vehicle: Small,211,5.0,7.0,,,,,Gasoline,0.016743179620824,0.012475310305712
+2023,Ford,Escape Hybrid,Sport utility vehicle: Small,140,7.0,8.0,,,,,Gasoline,0.009192333909472,0.01066967328778
+2023,Ford,Escape Hybrid AWD,Sport utility vehicle: Small,140,7.0,8.0,,,,,Gasoline,0.009192333909472,0.01066967328778
+2023,Ford,Expedition 4X4,Sport utility vehicle: Standard,302,4.0,6.0,,,,,Gasoline,0.024129876512363996,0.017399774900072003
+2023,Ford,Expedition 4X4 (Without Stop-Start),Sport utility vehicle: Standard,318,3.0,6.0,,,,,Gasoline,0.025278918251048003,0.018384667818944
+2023,Ford,Expedition Timberline 4X4,Sport utility vehicle: Standard,318,3.0,6.0,,,,,Gasoline,0.023801578872740002,0.020190304836876
+2023,Ford,Expedition Timberline 4X4 (Without Stop-Start),Sport utility vehicle: Standard,327,3.0,6.0,,,,,Gasoline,0.024950620611424,0.020190304836876
+2023,Ford,Explorer AWD,Sport utility vehicle: Standard,241,5.0,7.0,,,,,Gasoline,0.019041263098192002,0.014280947323644
+2023,Ford,Explorer AWD (Without Stop-Start),Sport utility vehicle: Standard,251,5.0,7.0,,,,,Gasoline,0.01969785837744,0.014773393783080001
+2023,Ford,Explorer AWD,Sport utility vehicle: Standard,277,4.0,5.0,,,,,Gasoline,0.021995941854808,0.016086584341576
+2023,Ford,Explorer AWD (Without Stop-Start),Sport utility vehicle: Standard,280,4.0,5.0,,,,,Gasoline,0.022652537134056003,0.015758286701952
+2023,Ford,Explorer AWD (Without Stop-Start),Sport utility vehicle: Standard,282,4.0,5.0,,,,,Gasoline,0.022816685953868,0.015922435521764002
+2023,Ford,Explorer Timberline AWD,Sport utility vehicle: Standard,269,4.0,7.0,,,,,Gasoline,0.020026156017064003,0.01723562608026
+2023,Ford,Explorer Timberline AWD (Without Stop-Start),Sport utility vehicle: Standard,277,4.0,7.0,,,,,Gasoline,0.020518602476500003,0.018056370179320002
+2023,Ford,Explorer Hybrid AWD,Sport utility vehicle: Standard,225,5.0,6.0,,,,,Gasoline,0.016579030801011998,0.014773393783080001
+2023,Ford,F-150,Pickup truck: Standard,252,5.0,6.0,,,,,Gasoline,0.01969785837744,0.015101691422704
+2023,Ford,F-150 (Without Stop-Start),Pickup truck: Standard,269,4.0,6.0,,,,,Gasoline,0.02133934657556,0.015758286701952
+2023,Ford,F-150 FFV,Pickup truck: Standard,261,4.0,6.0,,,,,Gasoline,0.020026156017064003,0.016086584341576
+2023,Ford,F-150 FFV,Pickup truck: Standard,244,5.0,6.0,,,,,Gasoline,0.027577001728416,0.021011048935936003
+2023,Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,268,4.0,6.0,,,,,Gasoline,0.020518602476500003,0.016743179620824
+2023,Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,253,5.0,6.0,,,,,Gasoline,0.028726043467100008,0.020354453656688
+2023,Ford,F-150,Pickup truck: Standard,281,4.0,6.0,,,,,Gasoline,0.021995941854808,0.016743179620824
+2023,Ford,F-150 FFV,Pickup truck: Standard,291,4.0,5.0,,,,,Gasoline,0.023144983593492003,0.016743179620824
+2023,Ford,F-150 FFV,Pickup truck: Standard,270,4.0,5.0,,,,,Gasoline,0.031844871043528004,0.021667644215184002
+2023,Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,300,4.0,5.0,,,,,Gasoline,0.023965727692552,0.017071477260448005
+2023,Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,279,4.0,5.0,,,,,Gasoline,0.032665615142588,0.022652537134056003
+2023,Ford,F-150 4X4,Pickup truck: Standard,271,4.0,6.0,,,,,Gasoline,0.021011048935936003,0.016414881981200002
+2023,Ford,F-150 4X4 (Without Stop-Start),Pickup truck: Standard,280,4.0,6.0,,,,,Gasoline,0.022160090674620003,0.016743179620824
+2023,Ford,F-150 4X4 FFV,Pickup truck: Standard,277,4.0,6.0,,,,,Gasoline,0.020682751296312002,0.017563923719884002
+2023,Ford,F-150 4X4 FFV,Pickup truck: Standard,247,5.0,6.0,,,,,Gasoline,0.028069448187852,0.021503495395372
+2023,Ford,F-150 4X4,Pickup truck: Standard,284,4.0,6.0,,,,,Gasoline,0.022324239494432,0.016907328440636003
+2023,Ford,F-150 4X4 (Without Stop-Start),Pickup truck: Standard,308,4.0,6.0,,,,,Gasoline,0.023965727692552,0.018056370179320002
+2023,Ford,F-150 4X4 FFV,Pickup truck: Standard,298,4.0,5.0,,,,,Gasoline,0.023309132413304002,0.017892221359508003
+2023,Ford,F-150 4X4 FFV,Pickup truck: Standard,278,4.0,5.0,,,,,Gasoline,0.032337317502964,0.022652537134056003
+2023,Ford,F-150 4X4 FFV (Without Stop-Start),Pickup truck: Standard,309,4.0,5.0,,,,,Gasoline,0.024622322971800004,0.017892221359508003
+2023,Ford,F-150 4X4 FFV (Without Stop-Start),Pickup truck: Standard,286,4.0,5.0,,,,,Gasoline,0.033486359241648,0.023144983593492003
+2023,Ford,F-150 Raptor 4X4,Pickup truck: Standard,344,3.0,6.0,,,,,Gasoline,0.025935513530296002,0.021667644215184002
+2023,Ford,F-150 Raptor 4X4 (Without Stop-Start),Pickup truck: Standard,357,2.0,6.0,,,,,Gasoline,0.027577001728416,0.021667644215184002
+2023,Ford,F-150 Raptor 37 4X4,Pickup truck: Standard,359,2.0,6.0,,,,,Gasoline,0.026263811169920003,0.023637430052928003
+2023,Ford,F-150 Raptor 37 4X4 (Without Stop-Start),Pickup truck: Standard,370,2.0,6.0,,,,,Gasoline,0.027248704088792004,0.024294025332176002
+2023,Ford,F-150 Raptor R 4X4,Pickup truck: Standard,460,1.0,5.0,,,,,Gasoline,0.037425930917136,0.026099662350108
+2023,Ford,F-150 Tremor 4X4,Pickup truck: Standard,309,4.0,6.0,,,,,Gasoline,0.023473281233116,0.019369560737816
+2023,Ford,F-150 Tremor 4X4 (Without Stop-Start),Pickup truck: Standard,311,4.0,6.0,,,,,Gasoline,0.023965727692552,0.019041263098192002
+2023,Ford,F-150 Tremor 4X4 FFV,Pickup truck: Standard,321,3.0,5.0,,,,,Gasoline,0.024950620611424,0.019533709557628003
+2023,Ford,F-150 Tremor 4X4 FFV,Pickup truck: Standard,295,4.0,5.0,,,,,Gasoline,0.033322210421836,0.024950620611424
+2023,Ford,F-150 Tremor 4X4 FFV (Without Stop-Start),Pickup truck: Standard,322,3.0,5.0,,,,,Gasoline,0.025278918251048003,0.019369560737816
+2023,Ford,F-150 Tremor 4X4 FFV (Without Stop-Start),Pickup truck: Standard,298,4.0,5.0,,,,,Gasoline,0.033978805701084,0.024622322971800004
+2023,Ford,F-150 Hybrid,Pickup truck: Standard,236,5.0,6.0,,,,,Gasoline,0.016579030801011998,0.016579030801011998
+2023,Ford,F-150 Hybrid 4X4,Pickup truck: Standard,245,5.0,6.0,,,,,Gasoline,0.01723562608026,0.017071477260448005
+2023,Ford,Maverick AWD,Pickup truck: Small,230,5.0,6.0,,,,,Gasoline,0.017892221359508003,0.013788500864208
+2023,Ford,Maverick Tremor AWD,Pickup truck: Small,257,4.0,6.0,,,,,Gasoline,0.019533709557628003,0.016250733161388
+2023,Ford,Maverick Hybrid,Pickup truck: Small,149,7.0,7.0,,,,,Gasoline,0.009520631549096001,0.011654566206652001
+2023,Ford,Mustang,Subcompact,220,5.0,5.0,,,,,Gasoline,0.018056370179320002,0.012147012666088001
+2023,Ford,Mustang,Subcompact,235,5.0,5.0,,,,,Gasoline,0.019041263098192002,0.013296054404772
+2023,Ford,Mustang (High Performance),Subcompact,242,5.0,5.0,,,,,Gasoline,0.019205411918003998,0.014116798503831999
+2023,Ford,Mustang,Subcompact,238,5.0,5.0,,,,,Gasoline,0.019041263098192002,0.013624352044396002
+2023,Ford,Mustang (High Performance),Subcompact,246,5.0,5.0,,,,,Gasoline,0.019533709557628003,0.014280947323644
+2023,Ford,Mustang,Subcompact,299,4.0,5.0,,,,,Gasoline,0.024950620611424,0.015922435521764002
+2023,Ford,Mustang,Subcompact,317,3.0,5.0,,,,,Gasoline,0.026592108809544,0.016743179620824
+2023,Ford,Mustang Convertible,Subcompact,240,5.0,5.0,,,,,Gasoline,0.019369560737816,0.013624352044396002
+2023,Ford,Mustang Convertible,Subcompact,244,5.0,5.0,,,,,Gasoline,0.01969785837744,0.013952649684020001
+2023,Ford,Mustang Convertible (High Performance),Subcompact,252,5.0,5.0,,,,,Gasoline,0.019862007197252,0.014609244963268004
+2023,Ford,Mustang Convertible,Subcompact,244,5.0,5.0,,,,,Gasoline,0.019369560737816,0.014116798503831999
+2023,Ford,Mustang Convertible (High Performance),Subcompact,256,5.0,5.0,,,,,Gasoline,0.020190304836876,0.015101691422704
+2023,Ford,Mustang Convertible,Subcompact,313,4.0,5.0,,,,,Gasoline,0.025935513530296002,0.017071477260448005
+2023,Ford,Mustang Mach 1,Subcompact,303,4.0,5.0,,,,,Gasoline,0.024950620611424,0.016579030801011998
+2023,Ford,Mustang Mach 1,Subcompact,343,3.0,5.0,,,,,Gasoline,0.028397745827476006,0.018548816638756002
+2023,Ford,Ranger 4WD,Pickup truck: Standard,255,5.0,3.0,,,,,Gasoline,0.019369560737816,0.015758286701952
+2023,Ford,Ranger 4WD (Without Stop-Start),Pickup truck: Standard,261,4.0,3.0,,,,,Gasoline,0.020190304836876,0.015922435521764002
+2023,Ford,Ranger Tremor 4WD,Pickup truck: Standard,293,4.0,3.0,,,,,Gasoline,0.020354453656688,0.020190304836876
+2023,Ford,Transit Connect Van,Special purpose vehicle,221,5.0,6.0,,,,,Gasoline,0.016086584341576,0.014609244963268004
+2023,Ford,Transit Connect Wagon LWB,Special purpose vehicle,216,5.0,6.0,,,,,Gasoline,0.016414881981200002,0.013624352044396002
+2023,Genesis,G70 AWD,Compact,236,5.0,3.0,,,,,Gasoline,0.018712965458568,0.013460203224584
+2023,Genesis,G70 AWD,Compact,273,4.0,3.0,,,,,Gasoline,0.022160090674620003,0.014937542602892002
+2023,Genesis,G80 AWD,Full-size,225,5.0,5.0,,,,,Gasoline,0.017728072539696004,0.012967756765148001
+2023,Genesis,G80 AWD,Full-size,298,4.0,5.0,,,,,Gasoline,0.024294025332176002,0.016250733161388
+2023,Genesis,G90,Full-size,274,4.0,5.0,,,,,Gasoline,0.022324239494432,0.015758286701952
+2023,Genesis,GV70 AWD,Sport utility vehicle: Small,229,5.0,5.0,,,,,Gasoline,0.017563923719884002,0.013788500864208
+2023,Genesis,GV70 AWD,Sport utility vehicle: Small,275,4.0,5.0,,,,,Gasoline,0.021175197755748002,0.016414881981200002
+2023,Genesis,GV80 AWD,Sport utility vehicle: Standard,248,5.0,5.0,,,,,Gasoline,0.018548816638756002,0.015594137882140001
+2023,Genesis,GV80 AWD,Sport utility vehicle: Standard,279,4.0,5.0,,,,,Gasoline,0.021175197755748002,0.017071477260448005
+2023,GMC,Acadia AWD,Sport utility vehicle: Standard,232,5.0,7.0,,,,,Gasoline,0.017728072539696004,0.014280947323644
+2023,GMC,Acadia AWD,Sport utility vehicle: Standard,259,4.0,6.0,,,,,Gasoline,0.020682751296312002,0.015101691422704
+2023,GMC,Canyon,Pickup truck: Small,277,4.0,7.0,,,,,Gasoline,0.02133934657556,0.016907328440636003
+2023,GMC,Canyon 4WD,Pickup truck: Small,290,4.0,7.0,,,,,Gasoline,0.022160090674620003,0.018056370179320002
+2023,GMC,Canyon 4WD Mud Terrain Tire,Pickup truck: Small,308,4.0,7.0,,,,,Gasoline,0.022816685953868,0.01969785837744
+2023,GMC,Canyon AT4X 4WD,Pickup truck: Small,335,3.0,7.0,,,,,Gasoline,0.023473281233116,0.023473281233116
+2023,GMC,Sierra,Pickup truck: Standard,281,4.0,7.0,,,,,Gasoline,0.020846900116124,0.018384667818944
+2023,GMC,Sierra,Pickup truck: Standard,247,5.0,5.0,,,,,Gasoline,0.016414881981200002,0.013296054404772
+2023,GMC,Sierra,Pickup truck: Standard,303,4.0,6.0,,,,,Gasoline,0.023473281233116,0.018384667818944
+2023,GMC,Sierra FFV,Pickup truck: Standard,308,4.0,5.0,,,,,Gasoline,0.023473281233116,0.019205411918003998
+2023,GMC,Sierra FFV,Pickup truck: Standard,293,4.0,5.0,,,,,Gasoline,0.032173168683152,0.025114769431236
+2023,GMC,Sierra 4WD,Pickup truck: Standard,291,4.0,7.0,,,,,Gasoline,0.021503495395372,0.019041263098192002
+2023,GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,318,3.0,7.0,,,,,Gasoline,0.022652537134056003,0.021667644215184002
+2023,GMC,Sierra 4WD,Pickup truck: Standard,264,4.0,5.0,,,,,Gasoline,0.017563923719884002,0.014280947323644
+2023,GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,288,4.0,5.0,,,,,Gasoline,0.018220518999132,0.016743179620824
+2023,GMC,Sierra 4WD,Pickup truck: Standard,325,3.0,6.0,,,,,Gasoline,0.024294025332176002,0.019369560737816
+2023,GMC,Sierra 4WD FFV,Pickup truck: Standard,326,3.0,5.0,,,,,Gasoline,0.024950620611424,0.020026156017064003
+2023,GMC,Sierra 4WD FFV,Pickup truck: Standard,318,3.0,5.0,,,,,Gasoline,0.034963698619956005,0.027248704088792004
+2023,GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,346,3.0,6.0,,,,,Gasoline,0.026263811169920003,0.021667644215184002
+2023,GMC,Sierra 4WD Mud Terrain Tire FFV,Pickup truck: Standard,326,3.0,5.0,,,,,Gasoline,0.024950620611424,0.020026156017064003
+2023,GMC,Sierra 4WD Mud Terrain Tire FFV,Pickup truck: Standard,318,3.0,5.0,,,,,Gasoline,0.034963698619956005,0.027248704088792004
+2023,GMC,Sierra 4WD,Pickup truck: Standard,330,3.0,6.0,,,,,Gasoline,0.025278918251048003,0.020190304836876
+2023,GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,364,2.0,6.0,,,,,Gasoline,0.027412852908604003,0.02298083477368
+2023,GMC,Sierra 4WD AT4X,Pickup truck: Standard,364,2.0,6.0,,,,,Gasoline,0.027412852908604003,0.02298083477368
+2023,GMC,Terrain,Sport utility vehicle: Small,211,5.0,7.0,,,,,Gasoline,0.015922435521764002,0.013296054404772
+2023,GMC,Terrain AWD,Sport utility vehicle: Small,216,5.0,7.0,,,,,Gasoline,0.016250733161388,0.013624352044396002
+2023,GMC,Yukon,Sport utility vehicle: Standard,272,4.0,3.0,,,,,Gasoline,0.018384667818944,0.014280947323644
+2023,GMC,Yukon,Sport utility vehicle: Standard,327,3.0,6.0,,,,,Gasoline,0.025935513530296002,0.019369560737816
+2023,GMC,Yukon 4WD,Sport utility vehicle: Standard,281,4.0,3.0,,,,,Gasoline,0.019205411918003998,0.014773393783080001
+2023,GMC,Yukon 4WD,Sport utility vehicle: Standard,327,3.0,6.0,,,,,Gasoline,0.025935513530296002,0.019369560737816
+2023,GMC,Yukon 4WD,Sport utility vehicle: Standard,352,3.0,6.0,,,,,Gasoline,0.027248704088792004,0.021503495395372
+2023,GMC,Yukon XL,Sport utility vehicle: Standard,272,4.0,3.0,,,,,Gasoline,0.018384667818944,0.014280947323644
+2023,GMC,Yukon XL,Sport utility vehicle: Standard,327,3.0,6.0,,,,,Gasoline,0.025935513530296002,0.019369560737816
+2023,GMC,Yukon XL 4WD,Sport utility vehicle: Standard,281,4.0,3.0,,,,,Gasoline,0.019205411918003998,0.014773393783080001
+2023,GMC,Yukon XL 4WD,Sport utility vehicle: Standard,339,3.0,6.0,,,,,Gasoline,0.026263811169920003,0.020846900116124
+2023,GMC,Yukon XL 4WD,Sport utility vehicle: Standard,352,3.0,6.0,,,,,Gasoline,0.027248704088792004,0.021503495395372
+2023,Honda,Accord,Full-size,171,6.0,7.0,,,,,Gasoline,0.013296054404772,0.010505524467968002
+2023,Honda,Accord Hybrid Sport/Touring,Mid-size,124,8.0,7.0,,,,,Gasoline,0.008207440990600001,0.009356482729284
+2023,Honda,Civic Hatchback,Full-size,166,6.0,7.0,,,,,Gasoline,0.012639459125524001,0.010341375648156001
+2023,Honda,Civic Hatchback,Full-size,175,6.0,6.0,,,,,Gasoline,0.013952649684020001,0.010341375648156001
+2023,Honda,Civic Hatchback,Full-size,167,6.0,7.0,,,,,Gasoline,0.013131905584960002,0.010177226828344
+2023,Honda,Civic Hatchback,Full-size,186,6.0,6.0,,,,,Gasoline,0.014937542602892002,0.010833822107592001
+2023,Honda,Civic Sedan,Mid-size,162,7.0,7.0,,,,,Gasoline,0.012475310305712,0.010013078008532001
+2023,Honda,Civic Sedan,Mid-size,162,7.0,7.0,,,,,Gasoline,0.012639459125524001,0.00984892918872
+2023,Honda,Civic Sedan,Mid-size,165,6.0,7.0,,,,,Gasoline,0.012803607945336,0.010341375648156001
+2023,Honda,Civic Sedan Si,Mid-size,180,6.0,6.0,,,,,Gasoline,0.014280947323644,0.010505524467968002
+2023,Honda,Civic Type R,Full-size,224,5.0,6.0,,,,,Gasoline,0.017728072539696004,0.013624352044396002
+2023,Honda,CR-V,Sport utility vehicle: Small,181,6.0,7.0,,,,,Gasoline,0.013788500864208,0.011654566206652001
+2023,Honda,CR-V AWD,Sport utility vehicle: Small,197,6.0,6.0,,,,,Gasoline,0.014937542602892002,0.012475310305712
+2023,Honda,CR-V Hybrid AWD,Sport utility vehicle: Small,151,7.0,7.0,,,,,Gasoline,0.00984892918872,0.011326268567028001
+2023,Honda,HR-V,Station wagon: Small,194,6.0,7.0,,,,,Gasoline,0.014937542602892002,0.012147012666088001
+2023,Honda,HR-V AWD,Station wagon: Small,203,5.0,7.0,,,,,Gasoline,0.015429989062328002,0.012803607945336
+2023,Honda,Odyssey,Minivan,248,5.0,5.0,,,,,Gasoline,0.020026156017064003,0.013952649684020001
+2023,Honda,Passport AWD,Sport utility vehicle: Small,265,4.0,3.0,,,,,Gasoline,0.020518602476500003,0.016086584341576
+2023,Honda,Pilot AWD,Sport utility vehicle: Standard,258,4.0,7.0,,,,,Gasoline,0.020354453656688,0.015265840242516003
+2023,Honda,Pilot AWD Touring/Elite/Black,Sport utility vehicle: Standard,262,4.0,7.0,,,,,Gasoline,0.020846900116124,0.015429989062328002
+2023,Honda,Pilot AWD TrailSport,Sport utility vehicle: Standard,275,4.0,7.0,,,,,Gasoline,0.02133934657556,0.016907328440636003
+2023,Honda,Ridgeline AWD,Pickup truck: Standard,271,4.0,3.0,,,,,Gasoline,0.021011048935936003,0.016250733161388
+2023,Hyundai,Elantra,Mid-size,179,6.0,5.0,,,,,Gasoline,0.013788500864208,0.010833822107592001
+2023,Hyundai,Elantra,Mid-size,158,7.0,5.0,,,,,Gasoline,0.012475310305712,0.009356482729284
+2023,Hyundai,Elantra (ISG),Mid-size,151,7.0,5.0,,,,,Gasoline,0.011654566206652001,0.009028185089660001
+2023,Hyundai,Elantra N,Mid-size,241,5.0,3.0,,,,,Gasoline,0.019862007197252,0.012967756765148001
+2023,Hyundai,Elantra N,Mid-size,223,5.0,3.0,,,,,Gasoline,0.017892221359508003,0.012639459125524001
+2023,Hyundai,Elantra Hybrid,Mid-size,110,8.0,7.0,,,,,Gasoline,0.007879143350976,0.0073866968915400006
+2023,Hyundai,Kona,Sport utility vehicle: Small,174,6.0,7.0,,,,,Gasoline,0.013131905584960002,0.010833822107592001
+2023,Hyundai,Kona N,Sport utility vehicle: Small,246,5.0,3.0,,,,,Gasoline,0.019369560737816,0.014280947323644
+2023,Hyundai,Kona AWD,Sport utility vehicle: Small,193,6.0,5.0,,,,,Gasoline,0.014445096143456003,0.012147012666088001
+2023,Hyundai,Kona AWD,Sport utility vehicle: Small,187,6.0,7.0,,,,,Gasoline,0.013952649684020001,0.011818715026464002
+2023,Hyundai,Palisade AWD,Sport utility vehicle: Small,263,4.0,5.0,,,,,Gasoline,0.020682751296312002,0.015594137882140001
+2023,Hyundai,Santa Cruz AWD,Pickup truck: Small,250,5.0,5.0,,,,,Gasoline,0.019862007197252,0.014280947323644
+2023,Hyundai,Santa Fe AWD,Sport utility vehicle: Small,233,5.0,5.0,,,,,Gasoline,0.018056370179320002,0.013952649684020001
+2023,Hyundai,Santa Fe AWD,Sport utility vehicle: Small,235,5.0,7.0,,,,,Gasoline,0.017399774900072003,0.015265840242516003
+2023,Hyundai,Santa Fe Hybrid,Sport utility vehicle: Small,176,6.0,7.0,,,,,Gasoline,0.011654566206652001,0.012967756765148001
+2023,Hyundai,Sonata,Full-size,186,6.0,5.0,,,,,Gasoline,0.014773393783080001,0.01066967328778
+2023,Hyundai,Sonata,Full-size,208,5.0,5.0,,,,,Gasoline,0.016579030801011998,0.011818715026464002
+2023,Hyundai,Sonata,Full-size,182,6.0,7.0,,,,,Gasoline,0.014445096143456003,0.010505524467968002
+2023,Hyundai,Sonata Hybrid,Full-size,117,8.0,7.0,,,,,Gasoline,0.008699887450036001,0.007550845711352
+2023,Hyundai,Tucson,Sport utility vehicle: Small,200,6.0,7.0,,,,,Gasoline,0.015429989062328002,0.012147012666088001
+2023,Hyundai,Tucson AWD,Sport utility vehicle: Small,218,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.013624352044396002
+2023,Hyundai,Tucson Hybrid,Sport utility vehicle: Small,152,7.0,7.0,,,,,Gasoline,0.010341375648156001,0.010833822107592001
+2023,Hyundai,Venue,Mid-size,177,6.0,5.0,,,,,Gasoline,0.012967756765148001,0.011326268567028001
+2023,Infiniti,Q50 AWD,Mid-size,254,5.0,3.0,,,,,Gasoline,0.020518602476500003,0.014280947323644
+2023,Infiniti,Q50 AWD Red Sport,Mid-size,261,4.0,3.0,,,,,Gasoline,0.020518602476500003,0.015265840242516003
+2023,Infiniti,QX50 AWD,Sport utility vehicle: Small,228,5.0,6.0,,,,,Gasoline,0.017728072539696004,0.013624352044396002
+2023,Infiniti,QX55 AWD,Sport utility vehicle: Small,222,5.0,6.0,,,,,Gasoline,0.017071477260448005,0.013624352044396002
+2023,Infiniti,QX60 AWD,Sport utility vehicle: Standard,251,5.0,5.0,,,,,Gasoline,0.019533709557628003,0.015265840242516003
+2023,Infiniti,QX80 4WD,Sport utility vehicle: Standard,355,3.0,3.0,,,,,Gasoline,0.028726043467100008,0.020026156017064003
+2023,Jaguar,E-PACE P250,Sport utility vehicle: Small,247,5.0,7.0,,,,,Gasoline,0.01887711427838,0.015101691422704
+2023,Jaguar,F-PACE P250,Sport utility vehicle: Small,227,5.0,7.0,,,,,Gasoline,0.017563923719884002,0.014445096143456003
+2023,Jaguar,F-PACE P400,Sport utility vehicle: Small,253,5.0,7.0,,,,,Gasoline,0.019862007197252,0.014937542602892002
+2023,Jaguar,F-PACE P550 SVR,Sport utility vehicle: Small,316,3.0,3.0,,,,,Gasoline,0.025278918251048003,0.018056370179320002
+2023,Jaguar,F-TYPE P450 Convertible,Two-seater,286,4.0,3.0,,,,,Gasoline,0.023144983593492003,0.015922435521764002
+2023,Jaguar,F-TYPE P450 Convertible AWD,Two-seater,299,4.0,3.0,,,,,Gasoline,0.024950620611424,0.016086584341576
+2023,Jaguar,F-TYPE P450 Coupe,Two-seater,286,4.0,3.0,,,,,Gasoline,0.023144983593492003,0.015922435521764002
+2023,Jaguar,F-TYPE P450 Coupe AWD,Two-seater,299,4.0,3.0,,,,,Gasoline,0.024950620611424,0.016086584341576
+2023,Jaguar,F-TYPE R Convertible AWD,Two-seater,299,4.0,3.0,,,,,Gasoline,0.024950620611424,0.016086584341576
+2023,Jaguar,F-TYPE R Coupe AWD,Two-seater,299,4.0,3.0,,,,,Gasoline,0.024950620611424,0.016086584341576
+2023,Jaguar,XF P250,Mid-size,197,6.0,7.0,,,,,Gasoline,0.015429989062328002,0.011654566206652001
+2023,Jaguar,XF P300 AWD,Mid-size,219,5.0,7.0,,,,,Gasoline,0.017399774900072003,0.012639459125524001
+2023,Jeep,Cherokee 4X4 Active Drive I,Sport utility vehicle: Small,230,5.0,6.0,,,,,Gasoline,0.018384667818944,0.013131905584960002
+2023,Jeep,Cherokee 4X4 Trailhawk Active Drive Lock,Sport utility vehicle: Small,249,5.0,5.0,,,,,Gasoline,0.019369560737816,0.015101691422704
+2023,Jeep,Compass 4X4,Sport utility vehicle: Small,205,5.0,7.0,,,,,Gasoline,0.016250733161388,0.012147012666088001
+2023,Jeep,Gladiator 4X4 EcoDiesel,Pickup truck: Standard,263,4.0,1.0,,,,,Gasoline,0.017728072539696004,0.013952649684020001
+2023,Jeep,Gladiator 4X4 Rubicon EcoDiesel,Pickup truck: Standard,271,4.0,1.0,,,,,Gasoline,0.018056370179320002,0.014280947323644
+2023,Jeep,Gladiator 4X4,Pickup truck: Standard,290,4.0,7.0,,,,,Gasoline,0.022488388314244,0.017563923719884002
+2023,Jeep,Gladiator 4X4,Pickup truck: Standard,296,4.0,5.0,,,,,Gasoline,0.023473281233116,0.017071477260448005
+2023,Jeep,Grand Cherokee 4X4,Sport utility vehicle: Standard,256,5.0,7.0,,,,,Gasoline,0.020190304836876,0.015101691422704
+2023,Jeep,Grand Cherokee 4X4,Sport utility vehicle: Standard,331,3.0,5.0,,,,,Gasoline,0.027412852908604003,0.017892221359508003
+2023,Jeep,Grand Cherokee L 4X4,Sport utility vehicle: Standard,266,4.0,7.0,,,,,Gasoline,0.02133934657556,0.015429989062328002
+2023,Jeep,Grand Cherokee L 4X4,Sport utility vehicle: Standard,331,3.0,5.0,,,,,Gasoline,0.027412852908604003,0.017892221359508003
+2023,Jeep,Grand Wagoneer 4X4 (High Output),Sport utility vehicle: Standard,334,3.0,5.0,,,,,Gasoline,0.026756257629356003,0.019369560737816
+2023,Jeep,Grand Wagoneer 4X4,Sport utility vehicle: Standard,374,2.0,1.0,,,,,Gasoline,0.030531680485032006,0.021011048935936003
+2023,Jeep,Grand Wagoneer L 4X4 (High Output),Sport utility vehicle: Standard,352,3.0,5.0,,,,,Gasoline,0.027905299368040003,0.020518602476500003
+2023,Jeep,Renegade 4X4,Sport utility vehicle: Small,222,5.0,6.0,,,,,Gasoline,0.016579030801011998,0.013296054404772
+2023,Jeep,Renegade 4X4 Trailhawk,Sport utility vehicle: Small,231,5.0,6.0,,,,,Gasoline,0.017728072539696004,0.014280947323644
+2023,Jeep,Wagoneer 4X4,Sport utility vehicle: Standard,293,4.0,6.0,,,,,Gasoline,0.023801578872740002,0.016579030801011998
+2023,Jeep,Wagoneer 4X4,Sport utility vehicle: Standard,324,3.0,5.0,,,,,Gasoline,0.025607215890672,0.019205411918003998
+2023,Jeep,Wagoneer L 4X4,Sport utility vehicle: Standard,297,4.0,6.0,,,,,Gasoline,0.023801578872740002,0.017071477260448005
+2023,Jeep,Wrangler JL 4X4,Sport utility vehicle: Small,241,5.0,5.0,,,,,Gasoline,0.017563923719884002,0.016086584341576
+2023,Jeep,Wrangler JL 4X4,Sport utility vehicle: Small,274,4.0,7.0,,,,,Gasoline,0.021011048935936003,0.017071477260448005
+2023,Jeep,Wrangler JL 4X4 eTorque,Sport utility vehicle: Small,258,4.0,7.0,,,,,Gasoline,0.01969785837744,0.016086584341576
+2023,Jeep,Wrangler JL 4X4,Sport utility vehicle: Small,277,4.0,5.0,,,,,Gasoline,0.022488388314244,0.015758286701952
+2023,Jeep,Wrangler JL Unlimited 4X4,Sport utility vehicle: Small,251,5.0,5.0,,,,,Gasoline,0.01887711427838,0.016250733161388
+2023,Jeep,Wrangler JL Unlimited 4X4 EcoDiesel,Sport utility vehicle: Small,255,5.0,1.0,,,,,Gasoline,0.017399774900072003,0.013296054404772
+2023,Jeep,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,Sport utility vehicle: Small,275,4.0,1.0,,,,,Gasoline,0.018384667818944,0.014773393783080001
+2023,Jeep,Wrangler JL Unlimited 4X4,Sport utility vehicle: Small,275,4.0,7.0,,,,,Gasoline,0.021175197755748002,0.016743179620824
+2023,Jeep,Wrangler JL Unlimited 4X4 eTorque,Sport utility vehicle: Small,262,4.0,7.0,,,,,Gasoline,0.020190304836876,0.016250733161388
+2023,Jeep,Wrangler JL Unlimited 4X4,Sport utility vehicle: Small,285,4.0,5.0,,,,,Gasoline,0.022652537134056003,0.016579030801011998
+2023,Jeep,Wrangler JL Unlimited 4X4 392,Sport utility vehicle: Small,387,2.0,1.0,,,,,Gasoline,0.030367531665220004,0.023144983593492003
+2023,Kia,Carnival,Minivan,252,5.0,5.0,,,,,Gasoline,0.019862007197252,0.014609244963268004
+2023,Kia,Forte,Mid-size,184,6.0,5.0,,,,,Gasoline,0.014280947323644,0.010833822107592001
+2023,Kia,Forte,Mid-size,170,6.0,7.0,,,,,Gasoline,0.013460203224584,0.00984892918872
+2023,Kia,Forte 5,Full-size,190,6.0,5.0,,,,,Gasoline,0.014609244963268004,0.011326268567028001
+2023,Kia,Forte 5,Full-size,182,6.0,7.0,,,,,Gasoline,0.014116798503831999,0.01066967328778
+2023,Kia,K5,Full-size,207,5.0,5.0,,,,,Gasoline,0.016250733161388,0.011982863846276
+2023,Kia,K5 AWD,Full-size,196,6.0,5.0,,,,,Gasoline,0.015265840242516003,0.01149041738684
+2023,Kia,Niro,Station wagon: Small,112,8.0,7.0,,,,,Gasoline,0.0073866968915400006,0.008535738630224003
+2023,Kia,Niro FE,Station wagon: Small,104,9.0,7.0,,,,,Gasoline,0.0073866968915400006,0.007222548071728002
+2023,Kia,Rio,Compact,160,7.0,3.0,,,,,Gasoline,0.011818715026464002,0.010013078008532001
+2023,Kia,Rio,Compact,166,6.0,3.0,,,,,Gasoline,0.012639459125524001,0.010013078008532001
+2023,Kia,Seltos,Sport utility vehicle: Small,182,6.0,5.0,,,,,Gasoline,0.013460203224584,0.011654566206652001
+2023,Kia,Seltos AWD,Sport utility vehicle: Small,205,5.0,5.0,,,,,Gasoline,0.015429989062328002,0.012967756765148001
+2023,Kia,Seltos AWD,Sport utility vehicle: Small,195,6.0,5.0,,,,,Gasoline,0.014445096143456003,0.012475310305712
+2023,Kia,Sorento AWD,Sport utility vehicle: Small,234,5.0,5.0,,,,,Gasoline,0.017892221359508003,0.014280947323644
+2023,Kia,Sorento AWD,Sport utility vehicle: Small,227,5.0,5.0,,,,,Gasoline,0.016579030801011998,0.015101691422704
+2023,Kia,Sorento Hybrid AWD,Sport utility vehicle: Small,157,7.0,7.0,,,,,Gasoline,0.010505524467968002,0.01149041738684
+2023,Kia,Soul,Station wagon: Small,187,6.0,7.0,,,,,Gasoline,0.013952649684020001,0.01149041738684
+2023,Kia,Sportage,Sport utility vehicle: Small,198,6.0,5.0,,,,,Gasoline,0.015265840242516003,0.012147012666088001
+2023,Kia,Sportage AWD,Sport utility vehicle: Small,224,5.0,5.0,,,,,Gasoline,0.017071477260448005,0.013952649684020001
+2023,Kia,Sportage Hybrid AWD,Sport utility vehicle: Small,145,7.0,7.0,,,,,Gasoline,0.010013078008532001,0.010341375648156001
+2023,Kia,Stinger AWD,Mid-size,280,4.0,3.0,,,,,Gasoline,0.022488388314244,0.015758286701952
+2023,Kia,Telluride AWD,Sport utility vehicle: Small,269,4.0,5.0,,,,,Gasoline,0.021011048935936003,0.016086584341576
+2023,Lamborghini,Huracán EVO Coupe,Two-seater,368,2.0,1.0,,,,,Gasoline,0.029546787566160002,0.021503495395372
+2023,Lamborghini,Huracán EVO Coupe AWD,Two-seater,370,2.0,1.0,,,,,Gasoline,0.029875085205784004,0.021667644215184002
+2023,Lamborghini,Huracán EVO Spyder,Two-seater,368,2.0,1.0,,,,,Gasoline,0.029546787566160002,0.021503495395372
+2023,Lamborghini,Huracán EVO Spyder AWD,Two-seater,370,2.0,1.0,,,,,Gasoline,0.029875085205784004,0.021667644215184002
+2023,Lamborghini,Urus Performante,Sport utility vehicle: Standard,345,3.0,3.0,,,,,Gasoline,0.027248704088792004,0.020518602476500003
+2023,Lamborghini,Urus S,Sport utility vehicle: Standard,345,3.0,3.0,,,,,Gasoline,0.027248704088792004,0.020518602476500003
+2023,Land Rover,Defender 90 P300,Sport utility vehicle: Standard,289,4.0,7.0,,,,,Gasoline,0.021667644215184002,0.018548816638756002
+2023,Land Rover,Defender 90 P400,Sport utility vehicle: Standard,276,4.0,7.0,,,,,Gasoline,0.021175197755748002,0.017071477260448005
+2023,Land Rover,Defender 90 5.0L V8,Sport utility vehicle: Standard,339,3.0,3.0,,,,,Gasoline,0.025935513530296002,0.020354453656688
+2023,Land Rover,Defender 110 P300,Sport utility vehicle: Standard,306,4.0,7.0,,,,,Gasoline,0.023309132413304002,0.019205411918003998
+2023,Land Rover,Defender 110 P400,Sport utility vehicle: Standard,276,4.0,7.0,,,,,Gasoline,0.021175197755748002,0.017071477260448005
+2023,Land Rover,Defender 110 5.0L V8,Sport utility vehicle: Standard,350,3.0,3.0,,,,,Gasoline,0.026920406449168,0.020846900116124
+2023,Land Rover,Discovery P300,Sport utility vehicle: Standard,271,4.0,7.0,,,,,Gasoline,0.020026156017064003,0.017399774900072003
+2023,Land Rover,Discovery P360,Sport utility vehicle: Standard,258,4.0,7.0,,,,,Gasoline,0.019862007197252,0.015265840242516003
+2023,Land Rover,Discovery Sport P250,Sport utility vehicle: Small,271,4.0,7.0,,,,,Gasoline,0.020846900116124,0.016414881981200002
+2023,Land Rover,Range Rover P400,Sport utility vehicle: Standard,265,4.0,7.0,,,,,Gasoline,0.021503495395372,0.014937542602892002
+2023,Land Rover,Range Rover P400 LWB,Sport utility vehicle: Standard,265,4.0,7.0,,,,,Gasoline,0.021503495395372,0.014937542602892002
+2023,Land Rover,Range Rover P530,Sport utility vehicle: Standard,316,4.0,5.0,,,,,Gasoline,0.024786471791612003,0.018220518999132
+2023,Land Rover,Range Rover P530 LWB,Sport utility vehicle: Standard,314,4.0,5.0,,,,,Gasoline,0.024950620611424,0.018056370179320002
+2023,Land Rover,Range Rover Sport P360,Sport utility vehicle: Standard,254,5.0,7.0,,,,,Gasoline,0.020190304836876,0.014773393783080001
+2023,Land Rover,Range Rover Sport HST P400,Sport utility vehicle: Standard,265,4.0,7.0,,,,,Gasoline,0.021503495395372,0.014937542602892002
+2023,Land Rover,Range Rover Sport P530,Sport utility vehicle: Standard,316,4.0,5.0,,,,,Gasoline,0.024786471791612003,0.018220518999132
+2023,Land Rover,Range Rover Evoque P250,Sport utility vehicle: Small,247,5.0,7.0,,,,,Gasoline,0.019533709557628003,0.014445096143456003
+2023,Land Rover,Range Rover Evoque P300,Sport utility vehicle: Small,244,5.0,7.0,,,,,Gasoline,0.018548816638756002,0.014937542602892002
+2023,Land Rover,Range Rover Velar P250,Sport utility vehicle: Small,244,5.0,7.0,,,,,Gasoline,0.01887711427838,0.014773393783080001
+2023,Land Rover,Range Rover Velar P340,Sport utility vehicle: Small,248,5.0,7.0,,,,,Gasoline,0.019369560737816,0.014773393783080001
+2023,Land Rover,Range Rover Velar P400,Sport utility vehicle: Small,265,4.0,7.0,,,,,Gasoline,0.020682751296312002,0.015594137882140001
+2023,Lexus,ES 250 AWD,Mid-size,195,6.0,6.0,,,,,Gasoline,0.015594137882140001,0.01149041738684
+2023,Lexus,ES 300h,Mid-size,124,8.0,7.0,,,,,Gasoline,0.009028185089660001,0.008535738630224003
+2023,Lexus,ES 350,Mid-size,214,5.0,5.0,,,,,Gasoline,0.017563923719884002,0.011982863846276
+2023,Lexus,ES 350 F SPORT,Mid-size,219,5.0,5.0,,,,,Gasoline,0.017892221359508003,0.012311161485900002
+2023,Lexus,GX 460,Sport utility vehicle: Standard,337,3.0,3.0,,,,,Gasoline,0.026592108809544,0.020190304836876
+2023,Lexus,IS 300,Compact,221,5.0,5.0,,,,,Gasoline,0.018056370179320002,0.012475310305712
+2023,Lexus,IS 300 AWD,Compact,253,5.0,5.0,,,,,Gasoline,0.020026156017064003,0.014773393783080001
+2023,Lexus,IS 350 AWD,Compact,253,5.0,5.0,,,,,Gasoline,0.020026156017064003,0.014773393783080001
+2023,Lexus,IS 500,Compact,280,4.0,5.0,,,,,Gasoline,0.023144983593492003,0.015265840242516003
+2023,Lexus,LC 500,Subcompact,294,4.0,5.0,,,,,Gasoline,0.024786471791612003,0.015758286701952
+2023,Lexus,LC 500 Convertible,Minicompact,304,4.0,5.0,,,,,Gasoline,0.026263811169920003,0.015594137882140001
+2023,Lexus,LC 500h,Subcompact,189,6.0,7.0,,,,,Gasoline,0.014773393783080001,0.011654566206652001
+2023,Lexus,LS 500 AWD,Mid-size,270,4.0,5.0,,,,,Gasoline,0.022652537134056003,0.014280947323644
+2023,Lexus,LS 500h AWD,Mid-size,217,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.013296054404772
+2023,Lexus,LX 600,Sport utility vehicle: Standard,298,4.0,5.0,,,,,Gasoline,0.023309132413304002,0.017728072539696004
+2023,Lexus,NX 250 AWD,Sport utility vehicle: Small,198,6.0,6.0,,,,,Gasoline,0.015429989062328002,0.012147012666088001
+2023,Lexus,NX 350 AWD,Sport utility vehicle: Small,221,5.0,7.0,,,,,Gasoline,0.01723562608026,0.013624352044396002
+2023,Lexus,NX 350 AWD F SPORT,Sport utility vehicle: Small,222,5.0,7.0,,,,,Gasoline,0.01723562608026,0.013788500864208
+2023,Lexus,NX 350h AWD,Sport utility vehicle: Small,139,7.0,7.0,,,,,Gasoline,0.009356482729284,0.010505524467968002
+2023,Lexus,RC 300 AWD,Subcompact,253,5.0,5.0,,,,,Gasoline,0.020026156017064003,0.014773393783080001
+2023,Lexus,RC 350 AWD,Subcompact,253,5.0,5.0,,,,,Gasoline,0.020026156017064003,0.014773393783080001
+2023,Lexus,RC F,Subcompact,285,4.0,5.0,,,,,Gasoline,0.023637430052928003,0.015758286701952
+2023,Lexus,RX 350 AWD,Sport utility vehicle: Small,231,5.0,7.0,,,,,Gasoline,0.018384667818944,0.013788500864208
+2023,Lexus,RX 350h AWD,Sport utility vehicle: Small,151,7.0,7.0,,,,,Gasoline,0.010341375648156001,0.011162119747216
+2023,Lexus,RX 500h AWD,Sport utility vehicle: Small,199,6.0,7.0,,,,,Gasoline,0.014280947323644,0.013788500864208
+2023,Lexus,UX 250h AWD,Compact,140,7.0,7.0,,,,,Gasoline,0.009356482729284,0.010177226828344
+2023,Lincoln,Aviator AWD,Sport utility vehicle: Standard,280,4.0,5.0,,,,,Gasoline,0.022488388314244,0.015922435521764002
+2023,Lincoln,Aviator AWD (Without Stop-Start),Sport utility vehicle: Standard,292,4.0,5.0,,,,,Gasoline,0.024129876512363996,0.016086584341576
+2023,Lincoln,Corsair AWD,Sport utility vehicle: Small,232,5.0,7.0,,,,,Gasoline,0.018384667818944,0.013624352044396002
+2023,Lincoln,Nautilus AWD,Sport utility vehicle: Small,249,5.0,6.0,,,,,Gasoline,0.019041263098192002,0.015429989062328002
+2023,Lincoln,Nautilus AWD,Sport utility vehicle: Small,249,5.0,6.0,,,,,Gasoline,0.01887711427838,0.015429989062328002
+2023,Lincoln,Nautilus AWD,Sport utility vehicle: Small,262,4.0,6.0,,,,,Gasoline,0.020846900116124,0.015265840242516003
+2023,Lincoln,Navigator 4X4,Sport utility vehicle: Standard,310,4.0,6.0,,,,,Gasoline,0.024950620611424,0.017728072539696004
+2023,Lincoln,Navigator 4X4 (Without Stop-Start),Sport utility vehicle: Standard,320,3.0,6.0,,,,,Gasoline,0.025771364710484003,0.018220518999132
+2023,Maserati,Ghibli GT,Mid-size,271,4.0,3.0,,,,,Gasoline,0.021995941854808,0.015429989062328002
+2023,Maserati,Ghibli Modena,Mid-size,271,4.0,3.0,,,,,Gasoline,0.021995941854808,0.015429989062328002
+2023,Maserati,Ghibli Modena AWD,Mid-size,284,4.0,3.0,,,,,Gasoline,0.023144983593492003,0.015594137882140001
+2023,Maserati,Ghibli Trofeo,Mid-size,348,3.0,1.0,,,,,Gasoline,0.028561894647288,0.019533709557628003
+2023,Maserati,Grecale GT,Sport utility vehicle: Small,218,5.0,5.0,,,,,Gasoline,0.017399774900072003,0.013131905584960002
+2023,Maserati,Grecale Modena,Sport utility vehicle: Small,218,5.0,5.0,,,,,Gasoline,0.017399774900072003,0.013131905584960002
+2023,Maserati,Grecale Trofeo,Sport utility vehicle: Small,268,4.0,5.0,,,,,Gasoline,0.021831793034996,0.015594137882140001
+2023,Maserati,Levante GT,Sport utility vehicle: Standard,308,4.0,3.0,,,,,Gasoline,0.024786471791612003,0.017892221359508003
+2023,Maserati,Levante Modena,Sport utility vehicle: Standard,308,4.0,3.0,,,,,Gasoline,0.024786471791612003,0.017892221359508003
+2023,Maserati,Levante Modena V8,Sport utility vehicle: Standard,349,3.0,1.0,,,,,Gasoline,0.028561894647288,0.01969785837744
+2023,Maserati,Levante Trofeo,Sport utility vehicle: Standard,349,3.0,1.0,,,,,Gasoline,0.028561894647288,0.01969785837744
+2023,Maserati,MC20,Two-seater,295,4.0,5.0,,,,,Gasoline,0.025278918251048003,0.015594137882140001
+2023,Maserati,MC20 Spyder,Two-seater,299,4.0,5.0,,,,,Gasoline,0.025607215890672,0.015429989062328002
+2023,Maserati,Quattroporte GT,Full-size,281,4.0,3.0,,,,,Gasoline,0.023637430052928003,0.015265840242516003
+2023,Maserati,Quattroporte Modena,Full-size,281,4.0,3.0,,,,,Gasoline,0.023637430052928003,0.015265840242516003
+2023,Maserati,Quattroporte Modena AWD,Full-size,284,4.0,3.0,,,,,Gasoline,0.023144983593492003,0.015594137882140001
+2023,Maserati,Quattroporte Trofeo,Full-size,348,3.0,1.0,,,,,Gasoline,0.028561894647288,0.019533709557628003
+2023,Mazda,CX-30 4WD,Sport utility vehicle: Small,202,5.0,7.0,,,,,Gasoline,0.015429989062328002,0.012639459125524001
+2023,Mazda,CX-30 4WD,Sport utility vehicle: Small,192,6.0,7.0,,,,,Gasoline,0.014773393783080001,0.011654566206652001
+2023,Mazda,CX-30 Turbo 4WD,Sport utility vehicle: Small,220,5.0,5.0,,,,,Gasoline,0.01723562608026,0.012967756765148001
+2023,Mazda,CX-5 4WD,Sport utility vehicle: Small,209,5.0,6.0,,,,,Gasoline,0.016086584341576,0.012967756765148001
+2023,Mazda,CX-5 Turbo 4WD,Sport utility vehicle: Small,230,5.0,5.0,,,,,Gasoline,0.017728072539696004,0.014280947323644
+2023,Mazda,CX-50 4WD,Sport utility vehicle: Small,209,5.0,7.0,,,,,Gasoline,0.015922435521764002,0.012967756765148001
+2023,Mazda,CX-50 Turbo 4WD,Sport utility vehicle: Small,220,5.0,3.0,,,,,Gasoline,0.017071477260448005,0.013296054404772
+2023,Mazda,CX-9 4WD,Sport utility vehicle: Small,245,5.0,5.0,,,,,Gasoline,0.019041263098192002,0.014937542602892002
+2023,Mazda,Mazda3 4-Door,Compact,178,6.0,7.0,,,,,Gasoline,0.013788500864208,0.010833822107592001
+2023,Mazda,Mazda3 4-Door (SIL),Compact,180,6.0,7.0,,,,,Gasoline,0.014280947323644,0.010505524467968002
+2023,Mazda,Mazda3 4-Door,Compact,179,6.0,7.0,,,,,Gasoline,0.014116798503831999,0.010505524467968002
+2023,Mazda,Mazda3 4-Door 4WD,Compact,185,6.0,7.0,,,,,Gasoline,0.014445096143456003,0.010833822107592001
+2023,Mazda,Mazda3 4-Door Turbo 4WD,Compact,207,5.0,5.0,,,,,Gasoline,0.016579030801011998,0.011982863846276
+2023,Mazda,Mazda3 5-Door,Mid-size,181,6.0,7.0,,,,,Gasoline,0.014116798503831999,0.010997970927404
+2023,Mazda,Mazda3 5-Door (SIL),Mid-size,181,6.0,7.0,,,,,Gasoline,0.014280947323644,0.010833822107592001
+2023,Mazda,Mazda3 5-Door,Mid-size,183,6.0,7.0,,,,,Gasoline,0.014280947323644,0.010997970927404
+2023,Mazda,Mazda3 5-Door (SIL),Mid-size,184,6.0,7.0,,,,,Gasoline,0.014773393783080001,0.010505524467968002
+2023,Mazda,Mazda3 5-Door 4WD,Mid-size,190,6.0,7.0,,,,,Gasoline,0.014773393783080001,0.01149041738684
+2023,Mazda,Mazda3 5-Door Turbo 4WD,Mid-size,209,5.0,5.0,,,,,Gasoline,0.016579030801011998,0.012311161485900002
+2023,Mazda,MX-5,Two-seater,186,6.0,3.0,,,,,Gasoline,0.014773393783080001,0.010833822107592001
+2023,Mazda,MX-5 (SIL),Two-seater,189,6.0,3.0,,,,,Gasoline,0.014773393783080001,0.01149041738684
+2023,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,268,4.0,5.0,,,,,Gasoline,0.021831793034996,0.015101691422704
+2023,Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,257,5.0,5.0,,,,,Gasoline,0.021175197755748002,0.014280947323644
+2023,Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,251,5.0,6.0,,,,,Gasoline,0.019862007197252,0.014773393783080001
+2023,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,232,5.0,5.0,,,,,Gasoline,0.018712965458568,0.013296054404772
+2023,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Compact,241,5.0,3.0,,,,,Gasoline,0.01969785837744,0.013624352044396002
+2023,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,241,5.0,6.0,,,,,Gasoline,0.019041263098192002,0.014445096143456003
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Mid-size,227,5.0,6.0,,,,,Gasoline,0.018056370179320002,0.013296054404772
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,242,5.0,6.0,,,,,Gasoline,0.019041263098192002,0.014280947323644
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,238,5.0,6.0,,,,,Gasoline,0.01887711427838,0.013952649684020001
+2023,Mercedes-Benz,AMG E 63 4MATIC+ All-Terrain Wagon,Station wagon: Mid-size,312,4.0,5.0,,,,,Gasoline,0.025607215890672,0.013788500864208
+2023,Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,Mid-size,296,4.0,5.0,,,,,Gasoline,0.024294025332176002,0.016250733161388
+2023,Mercedes-Benz,AMG G 63 SUV,Sport utility vehicle: Standard,415,1.0,3.0,,,,,Gasoline,0.03200901986334,0.02544306707086
+2023,Mercedes-Benz,AMG G 63 4x4 Squared SUV,Sport utility vehicle: Standard,508,1.0,3.0,,,,,Gasoline,0.03857497265582,0.031844871043528004
+2023,Mercedes-Benz,AMG GLA 35 4MATIC SUV,Station wagon: Small,222,5.0,5.0,,,,,Gasoline,0.017563923719884002,0.013131905584960002
+2023,Mercedes-Benz,AMG GLA 45 4MATIC SUV,Station wagon: Small,256,5.0,3.0,,,,,Gasoline,0.020026156017064003,0.015265840242516003
+2023,Mercedes-Benz,AMG GLB 35 4MATIC SUV,Station wagon: Mid-size,238,5.0,5.0,,,,,Gasoline,0.018548816638756002,0.014280947323644
+2023,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Sport utility vehicle: Small,274,4.0,5.0,,,,,Gasoline,0.022160090674620003,0.015922435521764002
+2023,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Sport utility vehicle: Standard,284,4.0,6.0,,,,,Gasoline,0.021995941854808,0.017563923719884002
+2023,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Sport utility vehicle: Standard,277,4.0,6.0,,,,,Gasoline,0.021503495395372,0.017071477260448005
+2023,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,Sport utility vehicle: Standard,343,3.0,5.0,,,,,Gasoline,0.026756257629356003,0.020682751296312002
+2023,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,Sport utility vehicle: Standard,347,3.0,5.0,,,,,Gasoline,0.02708455526898,0.021011048935936003
+2023,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,Sport utility vehicle: Standard,354,3.0,5.0,,,,,Gasoline,0.027248704088792004,0.021667644215184002
+2023,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,262,4.0,6.0,,,,,Gasoline,0.020190304836876,0.016086584341576
+2023,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Compact,329,3.0,5.0,,,,,Gasoline,0.026427959989732002,0.018712965458568
+2023,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,Compact,329,3.0,5.0,,,,,Gasoline,0.026427959989732002,0.018712965458568
+2023,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Minicompact,360,2.0,5.0,,,,,Gasoline,0.029875085205784004,0.019369560737816
+2023,Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,223,5.0,6.0,,,,,Gasoline,0.018056370179320002,0.012803607945336
+2023,Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,218,5.0,6.0,,,,,Gasoline,0.017563923719884002,0.012475310305712
+2023,Mercedes-Benz,C 300 4MATIC Sedan,Compact,201,6.0,7.0,,,,,Gasoline,0.016086584341576,0.011654566206652001
+2023,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,200,6.0,5.0,,,,,Gasoline,0.016086584341576,0.01149041738684
+2023,Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,229,5.0,6.0,,,,,Gasoline,0.018056370179320002,0.013460203224584
+2023,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,228,5.0,6.0,,,,,Gasoline,0.018384667818944,0.013131905584960002
+2023,Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,233,5.0,6.0,,,,,Gasoline,0.018384667818944,0.013788500864208
+2023,Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,225,5.0,6.0,,,,,Gasoline,0.018056370179320002,0.013131905584960002
+2023,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,219,5.0,6.0,,,,,Gasoline,0.017399774900072003,0.012803607945336
+2023,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,233,5.0,6.0,,,,,Gasoline,0.018712965458568,0.013624352044396002
+2023,Mercedes-Benz,G 550 SUV,Sport utility vehicle: Standard,383,2.0,3.0,,,,,Gasoline,0.029382638746347996,0.023637430052928003
+2023,Mercedes-Benz,GLA 250 4MATIC SUV,Sport utility vehicle: Small,210,5.0,5.0,,,,,Gasoline,0.016907328440636003,0.011982863846276
+2023,Mercedes-Benz,GLB 250 4MATIC SUV,Sport utility vehicle: Small,221,5.0,5.0,,,,,Gasoline,0.017563923719884002,0.012967756765148001
+2023,Mercedes-Benz,GLC 300 4MATIC SUV,Sport utility vehicle: Small,229,5.0,7.0,,,,,Gasoline,0.017071477260448005,0.014937542602892002
+2023,Mercedes-Benz,GLC 300 4MATIC Coupe,Sport utility vehicle: Small,253,5.0,6.0,,,,,Gasoline,0.020026156017064003,0.015101691422704
+2023,Mercedes-Benz,GLE 350 4MATIC SUV,Sport utility vehicle: Standard,257,5.0,5.0,,,,,Gasoline,0.019862007197252,0.015758286701952
+2023,Mercedes-Benz,GLE 450 4MATIC SUV,Sport utility vehicle: Standard,245,5.0,6.0,,,,,Gasoline,0.01887711427838,0.015265840242516003
+2023,Mercedes-Benz,GLE 450 4MATIC Coupe,Sport utility vehicle: Standard,247,5.0,6.0,,,,,Gasoline,0.019205411918003998,0.015101691422704
+2023,Mercedes-Benz,GLS 450 4MATIC SUV,Sport utility vehicle: Standard,270,4.0,6.0,,,,,Gasoline,0.020846900116124,0.016579030801011998
+2023,Mercedes-Benz,GLS 580 4MATIC SUV,Sport utility vehicle: Standard,310,4.0,5.0,,,,,Gasoline,0.024458174151988,0.018384667818944
+2023,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,Sport utility vehicle: Standard,346,3.0,5.0,,,,,Gasoline,0.027577001728416,0.020354453656688
+2023,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,305,4.0,5.0,,,,,Gasoline,0.026099662350108,0.015758286701952
+2023,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,384,2.0,3.0,,,,,Gasoline,0.033650508061460006,0.01887711427838
+2023,Mercedes-Benz,Metris Cargo Van,Special purpose vehicle,271,4.0,6.0,,,,,Gasoline,0.020682751296312002,0.017071477260448005
+2023,Mercedes-Benz,Metris Cargo Van LWB,Special purpose vehicle,271,4.0,6.0,,,,,Gasoline,0.020682751296312002,0.017071477260448005
+2023,Mercedes-Benz,Metris Passenger Van,Special purpose vehicle,285,4.0,6.0,,,,,Gasoline,0.021995941854808,0.017728072539696004
+2023,Mercedes-Benz,S 500 4MATIC Sedan,Full-size,242,5.0,6.0,,,,,Gasoline,0.01969785837744,0.013788500864208
+2023,Mercedes-Benz,S 580 4MATIC Sedan,Full-size,285,4.0,5.0,,,,,Gasoline,0.023473281233116,0.015594137882140001
+2023,MINI,Cooper 3 Door,Subcompact,170,6.0,7.0,,,,,Gasoline,0.013460203224584,0.010177226828344
+2023,MINI,Cooper 3 Door,Subcompact,177,6.0,7.0,,,,,Gasoline,0.014116798503831999,0.010341375648156001
+2023,MINI,Cooper 5 Door,Subcompact,170,6.0,7.0,,,,,Gasoline,0.013460203224584,0.010177226828344
+2023,MINI,Cooper 5 Door,Subcompact,177,6.0,7.0,,,,,Gasoline,0.014116798503831999,0.010341375648156001
+2023,MINI,Cooper Clubman ALL4,Mid-size,199,6.0,7.0,,,,,Gasoline,0.015758286701952,0.011654566206652001
+2023,MINI,Cooper Convertible,Minicompact,170,6.0,7.0,,,,,Gasoline,0.013460203224584,0.010177226828344
+2023,MINI,Cooper Convertible,Minicompact,177,6.0,7.0,,,,,Gasoline,0.014116798503831999,0.010341375648156001
+2023,MINI,Cooper Countryman,Mid-size,194,6.0,7.0,,,,,Gasoline,0.014937542602892002,0.011982863846276
+2023,MINI,Cooper Countryman ALL4,Mid-size,209,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.012475310305712
+2023,MINI,Cooper S 3 Door,Subcompact,174,6.0,7.0,,,,,Gasoline,0.013952649684020001,0.010177226828344
+2023,MINI,Cooper S 3 Door,Subcompact,205,5.0,7.0,,,,,Gasoline,0.016907328440636003,0.01149041738684
+2023,MINI,Cooper S 5 Door,Subcompact,174,6.0,7.0,,,,,Gasoline,0.013952649684020001,0.010177226828344
+2023,MINI,Cooper S 5 Door,Subcompact,205,5.0,7.0,,,,,Gasoline,0.016907328440636003,0.01149041738684
+2023,MINI,Cooper S Clubman,Mid-size,191,6.0,7.0,,,,,Gasoline,0.015265840242516003,0.011162119747216
+2023,MINI,Cooper S Clubman,Mid-size,217,5.0,7.0,,,,,Gasoline,0.017892221359508003,0.012147012666088001
+2023,MINI,Cooper S Clubman ALL4,Mid-size,206,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.011982863846276
+2023,MINI,Cooper S Convertible,Minicompact,182,6.0,7.0,,,,,Gasoline,0.014445096143456003,0.01066967328778
+2023,MINI,Cooper S Convertible,Minicompact,205,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.011654566206652001
+2023,MINI,Cooper S Countryman,Mid-size,199,6.0,7.0,,,,,Gasoline,0.015922435521764002,0.011818715026464002
+2023,MINI,Cooper S Countryman ALL4,Mid-size,212,5.0,7.0,,,,,Gasoline,0.017071477260448005,0.012311161485900002
+2023,MINI,John Cooper Works 3 Door,Subcompact,191,6.0,7.0,,,,,Gasoline,0.015265840242516003,0.011326268567028001
+2023,MINI,John Cooper Works 3 Door,Subcompact,216,5.0,7.0,,,,,Gasoline,0.017563923719884002,0.012311161485900002
+2023,MINI,John Cooper Works Clubman ALL4,Mid-size,210,5.0,3.0,,,,,Gasoline,0.016579030801011998,0.012475310305712
+2023,MINI,John Cooper Works Convertible,Minicompact,200,6.0,7.0,,,,,Gasoline,0.015922435521764002,0.011818715026464002
+2023,MINI,John Cooper Works Countryman ALL4,Mid-size,210,5.0,3.0,,,,,Gasoline,0.016414881981200002,0.012803607945336
+2023,Mitsubishi,Eclipse Cross 4WD,Sport utility vehicle: Small,216,5.0,5.0,,,,,Gasoline,0.015758286701952,0.014609244963268004
+2023,Mitsubishi,Mirage,Compact,143,7.0,5.0,,,,,Gasoline,0.010833822107592001,0.009192333909472
+2023,Mitsubishi,Mirage,Compact,151,7.0,5.0,,,,,Gasoline,0.011654566206652001,0.009520631549096001
+2023,Mitsubishi,Outlander 4WD,Sport utility vehicle: Small,208,5.0,6.0,,,,,Gasoline,0.015922435521764002,0.012967756765148001
+2023,Mitsubishi,RVR,Sport utility vehicle: Small,207,5.0,5.0,,,,,Gasoline,0.015922435521764002,0.012803607945336
+2023,Mitsubishi,RVR 4WD,Sport utility vehicle: Small,213,5.0,5.0,,,,,Gasoline,0.016414881981200002,0.013296054404772
+2023,Mitsubishi,RVR 4WD,Sport utility vehicle: Small,218,5.0,5.0,,,,,Gasoline,0.016907328440636003,0.013624352044396002
+2023,Nissan,Altima AWD,Mid-size,187,6.0,7.0,,,,,Gasoline,0.014937542602892002,0.01066967328778
+2023,Nissan,Altima AWD SR/Platinum,Mid-size,191,6.0,7.0,,,,,Gasoline,0.015265840242516003,0.010997970927404
+2023,Nissan,Armada 4WD,Sport utility vehicle: Standard,362,2.0,3.0,,,,,Gasoline,0.028726043467100008,0.021175197755748002
+2023,Nissan,Frontier,Pickup truck: Standard,260,4.0,5.0,,,,,Gasoline,0.020518602476500003,0.015265840242516003
+2023,Nissan,Frontier 4WD,Pickup truck: Standard,273,4.0,5.0,,,,,Gasoline,0.021011048935936003,0.016743179620824
+2023,Nissan,Frontier 4WD Pro-4X,Pickup truck: Standard,283,4.0,5.0,,,,,Gasoline,0.021831793034996,0.01723562608026
+2023,Nissan,GT-R,Subcompact,300,4.0,3.0,,,,,Gasoline,0.023637430052928003,0.017892221359508003
+2023,Nissan,Kicks,Mid-size,169,6.0,7.0,,,,,Gasoline,0.012639459125524001,0.010833822107592001
+2023,Nissan,Maxima,Mid-size,233,5.0,3.0,,,,,Gasoline,0.019041263098192002,0.012967756765148001
+2023,Nissan,Murano AWD,Station wagon: Mid-size,245,5.0,5.0,,,,,Gasoline,0.01969785837744,0.013952649684020001
+2023,Nissan,Pathfinder 4WD,Sport utility vehicle: Small,246,5.0,5.0,,,,,Gasoline,0.019041263098192002,0.015101691422704
+2023,Nissan,Pathfinder 4WD Rock Creek,Sport utility vehicle: Small,260,4.0,5.0,,,,,Gasoline,0.019533709557628003,0.016414881981200002
+2023,Nissan,Qashqai,Station wagon: Small,188,6.0,6.0,,,,,Gasoline,0.014116798503831999,0.011982863846276
+2023,Nissan,Qashqai AWD,Station wagon: Small,196,6.0,6.0,,,,,Gasoline,0.014773393783080001,0.012311161485900002
+2023,Nissan,Rogue,Sport utility vehicle: Small,170,6.0,6.0,,,,,Gasoline,0.012803607945336,0.01066967328778
+2023,Nissan,Rogue,Sport utility vehicle: Small,190,6.0,7.0,,,,,Gasoline,0.014773393783080001,0.011654566206652001
+2023,Nissan,Rogue AWD,Sport utility vehicle: Small,179,6.0,6.0,,,,,Gasoline,0.013788500864208,0.010997970927404
+2023,Nissan,Rogue AWD SL/Platinum,Sport utility vehicle: Small,181,6.0,6.0,,,,,Gasoline,0.013788500864208,0.011162119747216
+2023,Nissan,Rogue AWD,Sport utility vehicle: Small,195,6.0,7.0,,,,,Gasoline,0.015101691422704,0.011818715026464002
+2023,Nissan,Sentra,Mid-size,167,6.0,7.0,,,,,Gasoline,0.013131905584960002,0.00984892918872
+2023,Nissan,Sentra SR,Mid-size,171,6.0,7.0,,,,,Gasoline,0.013460203224584,0.010013078008532001
+2023,Nissan,Sentra,Mid-size,185,6.0,7.0,,,,,Gasoline,0.015101691422704,0.010177226828344
+2023,Nissan,Sentra SR,Mid-size,189,6.0,7.0,,,,,Gasoline,0.015429989062328002,0.010505524467968002
+2023,Nissan,Versa,Compact,158,7.0,7.0,,,,,Gasoline,0.012147012666088001,0.009684780368908
+2023,Nissan,Versa,Compact,181,6.0,7.0,,,,,Gasoline,0.014116798503831999,0.010997970927404
+2023,Nissan,Z,Two-seater,249,5.0,5.0,,,,,Gasoline,0.020190304836876,0.014116798503831999
+2023,Nissan,Z,Two-seater,280,4.0,5.0,,,,,Gasoline,0.021995941854808,0.016414881981200002
+2023,Porsche,911 Carrera,Minicompact,275,4.0,5.0,,,,,Gasoline,0.021503495395372,0.016086584341576
+2023,Porsche,911 Carrera Cabriolet,Minicompact,275,4.0,5.0,,,,,Gasoline,0.021503495395372,0.016086584341576
+2023,Porsche,911 Carrera S,Minicompact,274,4.0,5.0,,,,,Gasoline,0.021175197755748002,0.016743179620824
+2023,Porsche,911 Carrera S,Minicompact,264,4.0,5.0,,,,,Gasoline,0.021011048935936003,0.015429989062328002
+2023,Porsche,911 Carrera S Cabriolet,Minicompact,273,4.0,5.0,,,,,Gasoline,0.021175197755748002,0.016743179620824
+2023,Porsche,911 Carrera S Cabriolet,Minicompact,275,4.0,5.0,,,,,Gasoline,0.022652537134056003,0.015429989062328002
+2023,Ram,1500 eTorque,Pickup truck: Standard,253,5.0,7.0,,,,,Gasoline,0.019533709557628003,0.015429989062328002
+2023,Ram,1500 eTorque,Pickup truck: Standard,275,4.0,5.0,,,,,Gasoline,0.02133934657556,0.016414881981200002
+2023,Ram,1500 4X4 EcoDiesel,Pickup truck: Standard,260,4.0,1.0,,,,,Gasoline,0.018220518999132,0.013131905584960002
+2023,Ram,1500 4X4 eTorque,Pickup truck: Standard,259,4.0,7.0,,,,,Gasoline,0.019862007197252,0.015922435521764002
+2023,Ram,1500 4X4,Pickup truck: Standard,325,3.0,5.0,,,,,Gasoline,0.026427959989732002,0.018056370179320002
+2023,Ram,1500 4X4 eTorque,Pickup truck: Standard,284,4.0,5.0,,,,,Gasoline,0.022160090674620003,0.01723562608026
+2023,Ram,1500 4X4 TRX,Pickup truck: Standard,465,1.0,1.0,,,,,Gasoline,0.036769335637888,0.02708455526898
+2023,Ram,1500 Classic,Pickup truck: Standard,276,4.0,7.0,,,,,Gasoline,0.022324239494432,0.015594137882140001
+2023,Ram,1500 Classic,Pickup truck: Standard,322,3.0,5.0,,,,,Gasoline,0.026427959989732002,0.018220518999132
+2023,Ram,1500 Classic 4X4,Pickup truck: Standard,294,4.0,7.0,,,,,Gasoline,0.023801578872740002,0.016579030801011998
+2023,Ram,1500 Classic 4X4,Pickup truck: Standard,330,3.0,5.0,,,,,Gasoline,0.026592108809544,0.019041263098192002
+2023,Rolls-Royce,Cullinan,Station wagon: Mid-size,389,2.0,3.0,,,,,Gasoline,0.032993912782212004,0.020354453656688
+2023,Rolls-Royce,Cullinan Black Badge,Station wagon: Mid-size,389,2.0,3.0,,,,,Gasoline,0.032993912782212004,0.020354453656688
+2023,Rolls-Royce,Ghost,Full-size,388,2.0,3.0,,,,,Gasoline,0.032665615142588,0.020846900116124
+2023,Rolls-Royce,Ghost Black Badge,Full-size,388,2.0,3.0,,,,,Gasoline,0.032665615142588,0.020846900116124
+2023,Rolls-Royce,Ghost Extended,Full-size,388,2.0,3.0,,,,,Gasoline,0.032665615142588,0.020846900116124
+2023,Rolls-Royce,Phantom,Full-size,397,2.0,3.0,,,,,Gasoline,0.033158061602023996,0.021503495395372
+2023,Rolls-Royce,Phantom Extended,Full-size,397,2.0,3.0,,,,,Gasoline,0.033158061602023996,0.021503495395372
+2023,Subaru,Ascent AWD,Sport utility vehicle: Standard,256,5.0,5.0,,,,,Gasoline,0.020190304836876,0.015429989062328002
+2023,Subaru,BRZ,Minicompact,224,5.0,3.0,,,,,Gasoline,0.018056370179320002,0.012639459125524001
+2023,Subaru,BRZ,Minicompact,247,5.0,3.0,,,,,Gasoline,0.01969785837744,0.014445096143456003
+2023,Subaru,Crosstrek AWD,Sport utility vehicle: Small,184,6.0,7.0,,,,,Gasoline,0.013952649684020001,0.01149041738684
+2023,Subaru,Crosstrek AWD,Sport utility vehicle: Small,220,5.0,7.0,,,,,Gasoline,0.01723562608026,0.013296054404772
+2023,Subaru,Crosstrek AWD,Sport utility vehicle: Small,187,6.0,7.0,,,,,Gasoline,0.014445096143456003,0.01149041738684
+2023,Subaru,Forester AWD,Sport utility vehicle: Small,192,6.0,7.0,,,,,Gasoline,0.014773393783080001,0.011818715026464002
+2023,Subaru,Forester Wilderness AWD,Sport utility vehicle: Small,210,5.0,7.0,,,,,Gasoline,0.015594137882140001,0.013624352044396002
+2023,Subaru,Impreza 5-Door AWD,Station wagon: Small,178,6.0,7.0,,,,,Gasoline,0.013788500864208,0.010833822107592001
+2023,Subaru,Impreza 5-Door AWD,Station wagon: Small,211,5.0,7.0,,,,,Gasoline,0.016579030801011998,0.012639459125524001
+2023,Subaru,Legacy AWD,Full-size,209,5.0,6.0,,,,,Gasoline,0.016579030801011998,0.012311161485900002
+2023,Subaru,Legacy AWD,Full-size,183,6.0,7.0,,,,,Gasoline,0.014280947323644,0.010997970927404
+2023,Subaru,Outback AWD,Sport utility vehicle: Small,221,5.0,6.0,,,,,Gasoline,0.017399774900072003,0.013296054404772
+2023,Subaru,Outback AWD,Sport utility vehicle: Small,195,6.0,7.0,,,,,Gasoline,0.015101691422704,0.011982863846276
+2023,Subaru,Outback Wilderness AWD,Sport utility vehicle: Small,235,5.0,6.0,,,,,Gasoline,0.018056370179320002,0.014773393783080001
+2023,Subaru,WRX AWD,Mid-size,262,4.0,3.0,,,,,Gasoline,0.020846900116124,0.015429989062328002
+2023,Subaru,WRX AWD,Mid-size,254,5.0,3.0,,,,,Gasoline,0.020190304836876,0.014773393783080001
+2023,Toyota,4Runner 4WD,Sport utility vehicle: Standard,323,3.0,5.0,,,,,Gasoline,0.024458174151988,0.020682751296312002
+2023,Toyota,4Runner 4WD (Part-Time 4WD),Sport utility vehicle: Standard,320,3.0,5.0,,,,,Gasoline,0.024294025332176002,0.020518602476500003
+2023,Toyota,Camry SE,Mid-size,174,6.0,7.0,,,,,Gasoline,0.013952649684020001,0.010013078008532001
+2023,Toyota,Camry XSE V6/TRD,Mid-size,220,5.0,5.0,,,,,Gasoline,0.017728072539696004,0.012475310305712
+2023,Toyota,Camry AWD SE,Mid-size,192,6.0,6.0,,,,,Gasoline,0.015429989062328002,0.011162119747216
+2023,Toyota,Camry AWD XSE,Mid-size,195,6.0,6.0,,,,,Gasoline,0.015594137882140001,0.01149041738684
+2023,Toyota,Camry Hybrid LE,Mid-size,113,8.0,7.0,,,,,Gasoline,0.008043292170788,0.007879143350976
+2023,Toyota,Camry Hybrid SE/XLE/XSE,Mid-size,121,8.0,7.0,,,,,Gasoline,0.008699887450036001,0.008207440990600001
+2023,Toyota,Corolla (1-mode),Compact,158,7.0,7.0,,,,,Gasoline,0.012147012666088001,0.009356482729284
+2023,Toyota,Corolla (3-mode),Compact,160,7.0,7.0,,,,,Gasoline,0.012475310305712,0.009684780368908
+2023,Toyota,Corolla Hatchback,Compact,159,7.0,7.0,,,,,Gasoline,0.012311161485900002,0.009684780368908
+2023,Toyota,Corolla Hybrid,Compact,110,8.0,7.0,,,,,Gasoline,0.007222548071728002,0.008371589810412
+2023,Toyota,Corolla Hybrid AWD (2-mode),Compact,115,8.0,7.0,,,,,Gasoline,0.007550845711352,0.008699887450036001
+2023,Toyota,Corolla Hybrid AWD (3-mode),Compact,124,8.0,7.0,,,,,Gasoline,0.008207440990600001,0.009356482729284
+2023,Toyota,Corolla Cross,Sport utility vehicle: Small,171,6.0,7.0,,,,,Gasoline,0.012475310305712,0.01149041738684
+2023,Toyota,Corolla Cross AWD,Sport utility vehicle: Small,182,6.0,7.0,,,,,Gasoline,0.013296054404772,0.012147012666088001
+2023,Toyota,Corolla Cross Hybrid AWD,Sport utility vehicle: Small,130,8.0,7.0,,,,,Gasoline,0.008535738630224003,0.010177226828344
+2023,Toyota,Crown AWD,Mid-size,182,6.0,7.0,,,,,Gasoline,0.013296054404772,0.011982863846276
+2023,Toyota,Crown AWD,Mid-size,133,8.0,7.0,,,,,Gasoline,0.009192333909472,0.009356482729284
+2023,Toyota,GR Corolla,Subcompact,229,5.0,5.0,,,,,Gasoline,0.018220518999132,0.013624352044396002
+2023,Toyota,GR Supra 2.0,Two-seater,200,6.0,7.0,,,,,Gasoline,0.015265840242516003,0.012639459125524001
+2023,Toyota,GR Supra 3.0,Two-seater,212,5.0,5.0,,,,,Gasoline,0.016743179620824,0.012639459125524001
+2023,Toyota,GR Supra 3.0,Two-seater,255,5.0,5.0,,,,,Gasoline,0.020846900116124,0.014445096143456003
+2023,Toyota,GR86,Minicompact,225,5.0,3.0,,,,,Gasoline,0.018220518999132,0.012639459125524001
+2023,Toyota,GR86,Minicompact,247,5.0,3.0,,,,,Gasoline,0.019533709557628003,0.014280947323644
+2023,Toyota,Highlander AWD,Sport utility vehicle: Small,231,5.0,7.0,,,,,Gasoline,0.018056370179320002,0.013788500864208
+2023,Toyota,Highlander Hybrid AWD,Sport utility vehicle: Standard,158,7.0,7.0,,,,,Gasoline,0.010997970927404,0.011162119747216
+2023,Toyota,Highlander Hybrid AWD Limited/Platinum,Sport utility vehicle: Standard,156,7.0,7.0,,,,,Gasoline,0.010833822107592001,0.011162119747216
+2023,Toyota,Prius AWD,Mid-size,111,8.0,7.0,,,,,Gasoline,0.007879143350976,0.007714994531164001
+2023,Toyota,RAV4,Sport utility vehicle: Small,184,6.0,7.0,,,,,Gasoline,0.014445096143456003,0.011162119747216
+2023,Toyota,RAV4 AWD,Sport utility vehicle: Small,199,6.0,6.0,,,,,Gasoline,0.015594137882140001,0.011818715026464002
+2023,Toyota,RAV4 AWD (Stop/Start),Sport utility vehicle: Small,187,6.0,6.0,,,,,Gasoline,0.014445096143456003,0.011654566206652001
+2023,Toyota,RAV4 AWD LE,Sport utility vehicle: Small,184,6.0,6.0,,,,,Gasoline,0.014280947323644,0.011326268567028001
+2023,Toyota,RAV4 Hybrid AWD,Sport utility vehicle: Small,141,7.0,7.0,,,,,Gasoline,0.009520631549096001,0.010341375648156001
+2023,Toyota,Sequoia 4WD,Sport utility vehicle: Standard,273,4.0,5.0,,,,,Gasoline,0.020682751296312002,0.01723562608026
+2023,Toyota,Sienna,Minivan,154,7.0,7.0,,,,,Gasoline,0.010833822107592001,0.01066967328778
+2023,Toyota,Sienna AWD,Minivan,158,7.0,7.0,,,,,Gasoline,0.011162119747216,0.010833822107592001
+2023,Toyota,Tacoma 4WD,Pickup truck: Small,278,4.0,5.0,,,,,Gasoline,0.02133934657556,0.01723562608026
+2023,Toyota,Tacoma 4WD,Pickup truck: Small,299,4.0,5.0,,,,,Gasoline,0.022652537134056003,0.018712965458568
+2023,Toyota,Tacoma 4WD D-Cab TRD Off-Road/PRO,Pickup truck: Small,300,4.0,5.0,,,,,Gasoline,0.022652537134056003,0.019205411918003998
+2023,Toyota,Tundra,Pickup truck: Standard,277,4.0,5.0,,,,,Gasoline,0.021503495395372,0.016579030801011998
+2023,Toyota,Tundra 4WD,Pickup truck: Standard,285,4.0,5.0,,,,,Gasoline,0.022324239494432,0.017071477260448005
+2023,Toyota,Tundra 4WD TRD,Pickup truck: Standard,286,4.0,5.0,,,,,Gasoline,0.022160090674620003,0.017399774900072003
+2023,Toyota,Tundra Hybrid 4WD,Pickup truck: Standard,274,4.0,5.0,,,,,Gasoline,0.020846900116124,0.01723562608026
+2023,Toyota,Tundra Hybrid 4WD TRD PRO,Pickup truck: Standard,287,4.0,5.0,,,,,Gasoline,0.021175197755748002,0.019041263098192002
+2023,Toyota,Venza AWD,Sport utility vehicle: Small,142,7.0,7.0,,,,,Gasoline,0.009684780368908,0.010505524467968002
+2023,Volkswagen,Atlas,Sport utility vehicle: Small,240,5.0,3.0,,,,,Gasoline,0.018056370179320002,0.015265840242516003
+2023,Volkswagen,Atlas 4MOTION,Sport utility vehicle: Small,255,5.0,3.0,,,,,Gasoline,0.019369560737816,0.016086584341576
+2023,Volkswagen,Atlas 4MOTION,Sport utility vehicle: Small,279,4.0,5.0,,,,,Gasoline,0.021995941854808,0.016579030801011998
+2023,Volkswagen,Atlas Cross Sport,Sport utility vehicle: Small,243,5.0,3.0,,,,,Gasoline,0.018056370179320002,0.015758286701952
+2023,Volkswagen,Atlas Cross Sport 4MOTION,Sport utility vehicle: Small,256,5.0,3.0,,,,,Gasoline,0.019369560737816,0.016086584341576
+2023,Volkswagen,Atlas Cross Sport 4MOTION,Sport utility vehicle: Small,275,4.0,5.0,,,,,Gasoline,0.021503495395372,0.016414881981200002
+2023,Volkswagen,Golf GTI,Compact,198,6.0,5.0,,,,,Gasoline,0.015922435521764002,0.01149041738684
+2023,Volkswagen,Golf GTI,Compact,205,5.0,5.0,,,,,Gasoline,0.016414881981200002,0.011982863846276
+2023,Volkswagen,Golf R,Compact,213,5.0,5.0,,,,,Gasoline,0.016907328440636003,0.012639459125524001
+2023,Volkswagen,Golf R,Compact,237,5.0,5.0,,,,,Gasoline,0.019369560737816,0.013624352044396002
+2023,Volkswagen,Jetta,Compact,159,7.0,7.0,,,,,Gasoline,0.012639459125524001,0.009356482729284
+2023,Volkswagen,Jetta Comfortline/Highline,Compact,167,6.0,7.0,,,,,Gasoline,0.013296054404772,0.009520631549096001
+2023,Volkswagen,Jetta,Compact,165,7.0,7.0,,,,,Gasoline,0.013460203224584,0.009192333909472
+2023,Volkswagen,Jetta GLI,Compact,185,6.0,7.0,,,,,Gasoline,0.014773393783080001,0.01066967328778
+2023,Volkswagen,Jetta GLI,Compact,186,6.0,7.0,,,,,Gasoline,0.014937542602892002,0.010505524467968002
+2023,Volkswagen,Taos,Sport utility vehicle: Small,178,6.0,7.0,,,,,Gasoline,0.013788500864208,0.010833822107592001
+2023,Volkswagen,Taos 4MOTION,Sport utility vehicle: Small,200,6.0,7.0,,,,,Gasoline,0.015594137882140001,0.011982863846276
+2023,Volkswagen,Tiguan 4MOTION,Sport utility vehicle: Small,222,5.0,7.0,,,,,Gasoline,0.017399774900072003,0.013131905584960002
+2023,Volkswagen,Tiguan R-Line 4MOTION,Sport utility vehicle: Small,229,5.0,7.0,,,,,Gasoline,0.018056370179320002,0.013624352044396002
+2023,Volvo,S60 B5,Compact,186,6.0,5.0,,,,,Gasoline,0.014773393783080001,0.010997970927404
+2023,Volvo,S60 B5 AWD,Compact,193,6.0,5.0,,,,,Gasoline,0.015429989062328002,0.011326268567028001
+2023,Volvo,S90 B6 AWD,Mid-size,211,5.0,7.0,,,,,Gasoline,0.016907328440636003,0.012311161485900002
+2023,Volvo,V60 B6 AWD,Station wagon: Small,212,5.0,7.0,,,,,Gasoline,0.016907328440636003,0.012475310305712
+2023,Volvo,V60 CC B5 AWD,Station wagon: Small,211,5.0,5.0,,,,,Gasoline,0.016579030801011998,0.012639459125524001
+2023,Volvo,V90 CC B6 AWD,Station wagon: Mid-size,227,5.0,7.0,,,,,Gasoline,0.017892221359508003,0.013624352044396002
+2023,Volvo,XC40 B4 AWD,Sport utility vehicle: Small,208,5.0,5.0,,,,,Gasoline,0.016414881981200002,0.012475310305712
+2023,Volvo,XC40 B5 AWD,Sport utility vehicle: Small,215,5.0,5.0,,,,,Gasoline,0.016743179620824,0.012967756765148001
+2023,Volvo,XC60 B5 AWD,Sport utility vehicle: Small,218,5.0,5.0,,,,,Gasoline,0.016907328440636003,0.013460203224584
+2023,Volvo,XC60 B6 AWD,Sport utility vehicle: Small,233,5.0,7.0,,,,,Gasoline,0.018220518999132,0.014280947323644
+2023,Volvo,XC90 B5 AWD,Sport utility vehicle: Standard,223,5.0,5.0,,,,,Gasoline,0.01723562608026,0.013788500864208
+2023,Volvo,XC90 B6 AWD,Sport utility vehicle: Standard,249,5.0,7.0,,,,,Gasoline,0.019533709557628003,0.014937542602892002
+2023,Audi,e-tron 55 quattro,Sport utility vehicle: Standard,0,10.0,10.0,43.130312,42.64751,226.179044,10.0,Electric,0.00492446459436,0.00492446459436
+2023,Audi,e-tron Sportback 55 quattro,Sport utility vehicle: Standard,0,10.0,10.0,43.934982,42.164708,224.936302,10.0,Electric,0.005088613414172,0.004760315774548001
+2023,Audi,e-tron GT,Mid-size,0,10.0,10.0,41.681906,40.716302,237.985093,10.5,Electric,0.004760315774548001,0.004596166954736
+2023,Audi,RS e-tron GT,Mid-size,0,10.0,10.0,42.486576,41.03817,231.77138300000001,10.5,Electric,0.00492446459436,0.004760315774548001
+2023,Audi,Q4 50 e-tron quattro,Sport utility vehicle: Small,0,10.0,10.0,34.60081,38.62416,236.12098,9.0,Electric,0.003939571675488,0.004432018134924001
+2023,Audi,Q4 Sportback 50 e-tron quattro,Sport utility vehicle: Small,0,10.0,10.0,33.79614,37.658556,241.713319,9.0,Electric,0.003939571675488,0.004267869315112001
+2023,BMW,"i4 eDrive35 Gran Coupe (18"" Wheels)",Subcompact,0,10.0,10.0,29.289987999999997,30.416525999999998,256.004852,8.0,Electric,0.0032829763962400004,0.003447125216052
+2023,BMW,"i4 eDrive35 Gran Coupe (19"" Wheels)",Subcompact,0,10.0,10.0,31.543064,32.99147,234.878238,8.0,Electric,0.003611274035864001,0.003775422855676
+2023,BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",Subcompact,0,10.0,10.0,30.738394000000003,31.060262,300.743564,10.0,Electric,0.003447125216052,0.003611274035864001
+2023,BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",Subcompact,0,10.0,10.0,33.635206,34.278942,282.102434,10.0,Electric,0.003775422855676,0.003939571675488
+2023,BMW,"i4 M50 Gran Coupe (19"" Wheels)",Subcompact,0,10.0,10.0,35.888282000000004,34.439876,270.917756,10.0,Electric,0.004103720495300001,0.003939571675488
+2023,BMW,"i4 M50 Gran Coupe (20"" Wheels)",Subcompact,0,10.0,10.0,42.486576,42.003774,226.80041500000002,10.0,Electric,0.00492446459436,0.004760315774548001
+2023,BMW,"i7 xDrive60 (19"" Wheels)",Full-size,0,10.0,10.0,38.62416,36.853885999999996,318.141952,12.0,Electric,0.004432018134924001,0.004267869315112001
+2023,BMW,"i7 xDrive60 (20"" Wheels)",Full-size,0,10.0,10.0,41.520972,39.42883,295.772596,12.0,Electric,0.004760315774548001,0.004596166954736
+2023,BMW,"i7 xDrive60 (21"" Wheels)",Full-size,0,10.0,10.0,39.42883,37.81949,308.200016,12.0,Electric,0.004596166954736,0.004267869315112001
+2023,BMW,"iX xDrive40 (20"" Wheels) ",Sport utility vehicle: Standard,0,10.0,10.0,40.394434000000004,41.199104000000005,200.08146200000002,8.0,Electric,0.004596166954736,0.004760315774548001
+2023,BMW,"iX xDrive40 (21"" Wheels) ",Sport utility vehicle: Standard,0,10.0,10.0,39.750698,41.681906,200.08146200000002,8.0,Electric,0.004596166954736,0.004760315774548001
+2023,BMW,"iX xDrive40 (22"" Wheels) ",Sport utility vehicle: Standard,0,10.0,10.0,39.911632000000004,41.681906,198.83872,8.0,Electric,0.004596166954736,0.004760315774548001
+2023,BMW,"iX xDrive50 (20"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,39.106962,38.946028,323.734291,12.0,Electric,0.004432018134924001,0.004432018134924001
+2023,BMW,"iX xDrive50 (21"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,40.877235999999996,40.394434000000004,308.200016,12.0,Electric,0.004760315774548001,0.004596166954736
+2023,BMW,"iX xDrive50 (22"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,39.106962,39.42883,318.141952,12.0,Electric,0.004432018134924001,0.004596166954736
+2023,BMW,"iX M60 (21"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,44.417784000000005,42.325642,287.694773,12.0,Electric,0.005088613414172,0.00492446459436
+2023,BMW,"iX M60 (22"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,43.934982,41.84284,274.024611,12.0,Electric,0.005088613414172,0.004760315774548001
+2023,Cadillac,LYRIQ,Sport utility vehicle: Small,0,10.0,10.0,34.761744,41.199104000000005,311.928242,6.5,Electric,0.003939571675488,0.004760315774548001
+2023,Cadillac,LYRIQ AWD,Sport utility vehicle: Small,0,10.0,10.0,35.083612,41.520972,306.957274,10.7,Electric,0.003939571675488,0.004760315774548001
+2023,Chevrolet,Bolt EUV,Station wagon: Small,0,10.0,10.0,27.036912,32.347734,246.684287,7.5,Electric,0.003118827576428,0.003775422855676
+2023,Chevrolet,Bolt EV,Station wagon: Small,0,10.0,10.0,25.74944,30.899327999999997,259.111707,7.5,Electric,0.0029546787566160004,0.003611274035864001
+2023,Fisker,Ocean Extreme/One,Sport utility vehicle: Standard,0,10.0,10.0,34.118007999999996,40.072565999999995,359.773809,18.0,Electric,0.003939571675488,0.004596166954736
+2023,Fisker,Ocean Ultra,Sport utility vehicle: Standard,0,10.0,10.0,35.083612,41.199104000000005,349.83187300000003,18.0,Electric,0.004103720495300001,0.004760315774548001
+2023,Ford,F-150 Lightning Standard Range,Pickup truck: Standard,0,10.0,10.0,44.25685,55.361295999999996,239.849206,11.9,Electric,0.005088613414172,0.006401803972668
+2023,Ford,F-150 Lightning Extended Range,Pickup truck: Standard,0,10.0,10.0,43.291246,53.591021999999995,320.006065,10.1,Electric,0.00492446459436,0.006073506333044001
+2023,Ford,F-150 Lightning Platinum,Pickup truck: Standard,0,10.0,10.0,46.188058,56.3269,300.122193,9.3,Electric,0.005252762233984001,0.006401803972668
+2023,Ford,Mustang Mach-E Standard Range,Sport utility vehicle: Small,0,10.0,10.0,30.57746,35.244546,246.684287,8.1,Electric,0.003447125216052,0.004103720495300001
+2023,Ford,Mustang Mach-E Standard Range (LFP),Sport utility vehicle: Small,0,10.0,10.0,31.543064,35.40548,249.791142,7.4,Electric,0.003611274035864001,0.004103720495300001
+2023,Ford,Mustang Mach-E Standard Range AWD,Sport utility vehicle: Small,0,10.0,10.0,33.957074,39.106962,223.69356,8.0,Electric,0.003939571675488,0.004432018134924001
+2023,Ford,Mustang Mach-E Standard Range AWD (LFP),Sport utility vehicle: Small,0,10.0,10.0,34.60081,38.62416,229.90727,7.4,Electric,0.003939571675488,0.004432018134924001
+2023,Ford,Mustang Mach-E Extended Range,Sport utility vehicle: Small,0,10.0,10.0,32.025866,36.532018,310.6855,10.2,Electric,0.003611274035864001,0.004103720495300001
+2023,Ford,Mustang Mach-E Extended Range AWD,Sport utility vehicle: Small,0,10.0,10.0,34.60081,39.42883,290.180257,10.0,Electric,0.003939571675488,0.004596166954736
+2023,Ford,Mustang Mach-E California Route 1 AWD,Sport utility vehicle: Small,0,10.0,10.0,32.1868,36.853885999999996,311.928242,10.1,Electric,0.003775422855676,0.004267869315112001
+2023,Ford,Mustang Mach-E GT Performance Edition,Sport utility vehicle: Small,0,10.0,10.0,38.302292,44.739652,259.733078,10.1,Electric,0.004432018134924001,0.005088613414172
+2023,Genesis,Electrified G80,Full-size,0,10.0,10.0,32.025866,37.980424,282.102434,9.0,Electric,0.003611274035864001,0.004267869315112001
+2023,Genesis,GV60 Advanced AWD,Full-size,0,10.0,10.0,32.669602,38.946028,247.927029,7.2,Electric,0.003775422855676,0.004432018134924001
+2023,Genesis,GV60 Performance AWD,Full-size,0,10.0,10.0,34.922678,41.03817,234.878238,7.2,Electric,0.003939571675488,0.004760315774548001
+2023,Genesis,Electrified GV70,Sport utility vehicle: Small,0,10.0,10.0,34.278942,40.394434000000004,237.985093,7.9,Electric,0.003939571675488,0.004596166954736
+2023,Hyundai,IONIQ 5 Standard Range,Full-size,0,10.0,10.0,26.071308,36.049215999999994,219.965334,6.3,Electric,0.003118827576428,0.004103720495300001
+2023,Hyundai,IONIQ 5 Long Range,Full-size,0,10.0,10.0,24.94477,34.922678,303.229048,8.5,Electric,0.0029546787566160004,0.003939571675488
+2023,Hyundai,IONIQ 5 Long Range AWD,Full-size,0,10.0,10.0,30.416525999999998,37.81949,265.946788,8.5,Electric,0.003447125216052,0.004267869315112001
+2023,Hyundai,IONIQ 6 Standard Range,Mid-size,0,10.0,10.0,22.047957999999998,28.002515999999996,239.849206,6.1,Electric,0.0026263811169920004,0.0032829763962400004
+2023,Hyundai,IONIQ 6 Long Range (18'' Wheels),Mid-size,0,10.0,10.0,22.047957999999998,26.071308,361.016551,7.5,Electric,0.00246223229718,0.003118827576428
+2023,Hyundai,IONIQ 6 Long Range AWD (18'' Wheels),Mid-size,0,10.0,10.0,26.071308,29.933724,316.27783900000003,7.5,Electric,0.0029546787566160004,0.003447125216052
+2023,Hyundai,IONIQ 6 Long Range AWD (20'' Wheels),Mid-size,0,10.0,10.0,30.255592,36.049215999999994,270.296385,7.5,Electric,0.003447125216052,0.004103720495300001
+2023,Hyundai,Kona Electric,Sport utility vehicle: Small,0,10.0,10.0,24.94477,32.025866,257.868965,9.5,Electric,0.0029546787566160004,0.003611274035864001
+2023,Jaguar,I-PACE,Sport utility vehicle: Small,0,10.0,10.0,39.42883,42.969378,236.742351,13.0,Electric,0.004432018134924001,0.00492446459436
+2023,Kia,EV6 Standard Range,Station wagon: Small,0,10.0,10.0,24.94477,33.957074,231.77138300000001,6.3,Electric,0.002790529936804,0.003939571675488
+2023,Kia,EV6 Long Range,Station wagon: Small,0,10.0,10.0,24.94477,32.99147,310.064129,8.7,Electric,0.0029546787566160004,0.003775422855676
+2023,Kia,"EV6 Long Range AWD (19"" Wheels)",Station wagon: Small,0,10.0,10.0,28.16345,34.60081,282.102434,8.4,Electric,0.0032829763962400004,0.003939571675488
+2023,Kia,"EV6 Long Range AWD (20"" Wheels)",Station wagon: Small,0,10.0,10.0,32.025866,38.946028,252.276626,8.4,Electric,0.003611274035864001,0.004432018134924001
+2023,Kia,EV6 GT AWD,Station wagon: Small,0,10.0,10.0,39.750698,45.705256,206.295172,8.9,Electric,0.004596166954736,0.005252762233984001
+2023,Kia,Niro EV,Station wagon: Small,0,10.0,10.0,27.036912,32.99147,252.897997,7.5,Electric,0.003118827576428,0.003775422855676
+2023,Kia,Soul EV (120 Ah),Station wagon: Small,0,10.0,10.0,25.105704,32.830535999999995,154.100008,6.0,Electric,0.0029546787566160004,0.003775422855676
+2023,Kia,Soul EV (180 Ah),Station wagon: Small,0,10.0,10.0,27.197846,33.79614,237.985093,9.5,Electric,0.003118827576428,0.003939571675488
+2023,Lexus,"RZ 450e AWD (18"" Wheels)",Sport utility vehicle: Small,0,10.0,10.0,29.129054000000004,34.439876,219.965334,10.0,Electric,0.0032829763962400004,0.003939571675488
+2023,Lexus,"RZ 450e AWD (20"" Wheels)",Sport utility vehicle: Small,0,10.0,10.0,32.669602,38.785094,195.731865,10.0,Electric,0.003775422855676,0.004432018134924001
+2023,Lucid,"Air Grand Touring XR (19"" Wheels)",Full-size,0,10.0,10.0,25.910374,25.427572,515.73793,13.0,Electric,0.0029546787566160004,0.0029546787566160004
+2023,Lucid,"Air Grand Touring XR (20"" Wheels)",Full-size,0,10.0,10.0,28.002515999999996,27.519714,469.135105,13.0,Electric,0.0032829763962400004,0.003118827576428
+2023,Lucid,"Air Grand Touring XR (21"" Wheels)",Full-size,0,10.0,10.0,28.002515999999996,27.519714,469.135105,13.0,Electric,0.0032829763962400004,0.003118827576428
+2023,Lucid,"Air Grand Touring Performance (21"" Wheels)",Full-size,0,10.0,10.0,30.57746,30.255592,446.144378,13.0,Electric,0.003447125216052,0.003447125216052
+2023,Lucid,"Air Pure (19"" Wheels)",Full-size,0,10.0,10.0,23.979166,23.979166,410.10486000000003,10.0,Electric,0.002790529936804,0.002790529936804
+2023,Lucid,"Air Pure (20"" Wheels)",Full-size,0,10.0,10.0,27.680647999999998,28.002515999999996,384.007278,10.0,Electric,0.003118827576428,0.0032829763962400004
+2023,Lucid,"Air Touring (19"" Wheels)",Full-size,0,10.0,10.0,23.979166,23.979166,425.017764,10.0,Electric,0.002790529936804,0.002790529936804
+2023,Lucid,"Air Touring (20"" Wheels)",Full-size,0,10.0,10.0,27.680647999999998,28.002515999999996,384.007278,10.0,Electric,0.003118827576428,0.0032829763962400004
+2023,Lucid,"Air Touring (21"" Wheels)",Full-size,0,10.0,10.0,27.680647999999998,28.002515999999996,384.007278,10.0,Electric,0.003118827576428,0.0032829763962400004
+2023,Mazda,MX-30,Mid-size,0,10.0,10.0,34.439876,39.589764,100.04073100000001,5.3,Electric,0.003939571675488,0.004596166954736
+2023,Mercedes-Benz,AMG EQE 4MATIC+ Sedan,Mid-size,0,10.0,10.0,45.222454,45.86619,224.936302,9.5,Electric,0.005252762233984001,0.005252762233984001
+2023,Mercedes-Benz,AMG EQS 4MATIC+ Sedan,Full-size,0,10.0,10.0,45.705256,44.095915999999995,277.131466,11.25,Electric,0.005252762233984001,0.005088613414172
+2023,Mercedes-Benz,EQB 250+,Sport utility vehicle: Small,0,10.0,10.0,29.77279,34.761744,244.820174,7.75,Electric,0.003447125216052,0.003939571675488
+2023,Mercedes-Benz,EQB 350 4MATIC SUV,Sport utility vehicle: Small,0,10.0,10.0,34.439876,35.40548,221.208076,6.25,Electric,0.003939571675488,0.004103720495300001
+2023,Mercedes-Benz,EQE 350 4MATIC Sedan,Mid-size,0,10.0,10.0,38.946028,38.946028,259.733078,8.25,Electric,0.004432018134924001,0.004432018134924001
+2023,Mercedes-Benz,EQE 350 4MATIC SUV,Sport utility vehicle: Standard,0,10.0,10.0,40.877235999999996,42.486576,252.897997,9.5,Electric,0.004760315774548001,0.00492446459436
+2023,Mercedes-Benz,EQE 500 4MATIC Sedan,Mid-size,0,10.0,10.0,40.2335,41.03817,259.733078,9.5,Electric,0.004596166954736,0.004760315774548001
+2023,Mercedes-Benz,EQE 500 4MATIC SUV,Sport utility vehicle: Standard,0,10.0,10.0,37.01482,39.42883,269.053643,9.5,Electric,0.004267869315112001,0.004432018134924001
+2023,Mercedes-Benz,EQS 450 4MATIC Sedan,Full-size,0,10.0,10.0,33.313338,32.025866,339.88993700000003,11.5,Electric,0.003775422855676,0.003611274035864001
+2023,Mercedes-Benz,EQS 450 4MATIC SUV,Sport utility vehicle: Standard,0,10.0,10.0,42.969378,43.934982,285.209289,11.5,Electric,0.00492446459436,0.005088613414172
+2023,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,0,10.0,10.0,37.497622,36.532018,339.88993700000003,11.25,Electric,0.004267869315112001,0.004103720495300001
+2023,Mercedes-Benz,EQS 580 4MATIC SUV,Sport utility vehicle: Standard,0,10.0,10.0,42.003774,45.06152,285.209289,11.5,Electric,0.00492446459436,0.005252762233984001
+2023,MINI,Cooper SE 3 Door,Subcompact,0,10.0,10.0,28.324384000000002,33.635206,113.710893,4.0,Electric,0.0032829763962400004,0.003775422855676
+2023,Polestar,2 Single Motor,Mid-size,0,10.0,10.0,29.77279,33.635206,270.296385,8.0,Electric,0.003447125216052,0.003775422855676
+2023,Polestar,2 Dual Motor,Mid-size,0,10.0,10.0,32.1868,35.244546,259.733078,8.0,Electric,0.003775422855676,0.004103720495300001
+2023,Polestar,2 Dual Motor Performance Pack,Mid-size,0,10.0,10.0,32.1868,35.244546,259.733078,8.0,Electric,0.003775422855676,0.004103720495300001
+2023,Polestar,2 BST Edition,Mid-size,0,10.0,10.0,34.278942,37.175754000000005,246.684287,8.0,Electric,0.003939571675488,0.004267869315112001
+2023,Porsche,Taycan 4S (Performance Battery),Compact,0,10.0,10.0,41.03817,41.03817,206.295172,9.5,Electric,0.004760315774548001,0.004760315774548001
+2023,Porsche,Taycan 4S (Performance Battery Plus),Compact,0,10.0,10.0,42.64751,41.84284,234.878238,10.5,Electric,0.00492446459436,0.004760315774548001
+2023,Porsche,Taycan 4S Cross Turismo,Mid-size,0,10.0,10.0,42.969378,42.969378,229.90727,10.5,Electric,0.00492446459436,0.00492446459436
+2023,Porsche,Taycan GTS,Compact,0,10.0,10.0,40.394434000000004,41.03817,246.062916,10.5,Electric,0.004596166954736,0.004760315774548001
+2023,Porsche,Taycan GTS Sport Turismo,Compact,0,10.0,10.0,42.003774,42.164708,200.08146200000002,10.5,Electric,0.004760315774548001,0.004760315774548001
+2023,Porsche,Taycan Turbo,Compact,0,10.0,10.0,41.360037999999996,42.325642,237.985093,10.5,Electric,0.004760315774548001,0.00492446459436
+2023,Porsche,Taycan Turbo Cross Turismo,Mid-size,0,10.0,10.0,42.003774,43.45218,233.014125,10.5,Electric,0.004760315774548001,0.00492446459436
+2023,Porsche,Taycan Turbo S,Compact,0,10.0,10.0,43.934982,46.027124,221.82944700000002,10.5,Electric,0.005088613414172,0.005252762233984001
+2023,Porsche,Taycan Turbo S Cross Turismo,Mid-size,0,10.0,10.0,43.934982,46.027124,221.82944700000002,10.5,Electric,0.005088613414172,0.005252762233984001
+2023,Rivian,"R1S (20"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,49.08487,56.487834,288.937515,13.0,Electric,0.005581059873608,0.006401803972668
+2023,Rivian,"R1S (20"" Wheels) All-Terrain",Sport utility vehicle: Standard,0,10.0,10.0,51.49888,56.3269,274.024611,13.0,Electric,0.005909357513232001,0.006401803972668
+2023,Rivian,"R1S (20"" Wheels) AT Dual Large",Sport utility vehicle: Standard,0,10.0,10.0,46.67086,52.30355,306.957274,13.0,Electric,0.005416911053796001,0.005909357513232001
+2023,Rivian,"R1S (20"" Wheels) AT Performance Dual Large",Sport utility vehicle: Standard,0,10.0,10.0,46.67086,52.30355,306.957274,13.0,Electric,0.005416911053796001,0.005909357513232001
+2023,Rivian,"R1S (20"" Wheels) AT Dual Max",Sport utility vehicle: Standard,0,10.0,10.0,42.969378,50.050474,354.802841,13.0,Electric,0.00492446459436,0.00574520869342
+2023,Rivian,"R1S (20"" Wheels) AT Performance Dual Max",Sport utility vehicle: Standard,0,10.0,10.0,42.969378,50.050474,354.802841,13.0,Electric,0.00492446459436,0.00574520869342
+2023,Rivian,"R1S (21"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,44.739652,50.69421,321.248807,13.0,Electric,0.005088613414172,0.00574520869342
+2023,Rivian,"R1S (21"" Wheels) Dual Large",Sport utility vehicle: Standard,0,10.0,10.0,41.199104000000005,45.705256,351.695986,13.0,Electric,0.004760315774548001,0.005252762233984001
+2023,Rivian,"R1S (21"" Wheels) Performance Dual Large",Sport utility vehicle: Standard,0,10.0,10.0,41.199104000000005,45.705256,351.695986,13.0,Electric,0.004760315774548001,0.005252762233984001
+2023,Rivian,"R1S (21"" Wheels) Dual Max",Sport utility vehicle: Standard,0,10.0,10.0,37.81949,44.578718,400.16292400000003,13.0,Electric,0.004267869315112001,0.005088613414172
+2023,Rivian,"R1S (21"" Wheels) Performance Dual Max",Sport utility vehicle: Standard,0,10.0,10.0,37.81949,44.578718,400.16292400000003,13.0,Electric,0.004267869315112001,0.005088613414172
+2023,Rivian,"R1S (22"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,46.188058,53.269154,303.229048,13.0,Electric,0.005252762233984001,0.006073506333044001
+2023,Rivian,"R1S (22"" Wheels) Dual Large",Sport utility vehicle: Standard,0,10.0,10.0,42.325642,47.636464000000004,341.132679,13.0,Electric,0.00492446459436,0.005416911053796001
+2023,Rivian,"R1S (22"" Wheels) Performance Dual Large",Sport utility vehicle: Standard,0,10.0,10.0,42.325642,47.636464000000004,341.132679,13.0,Electric,0.00492446459436,0.005416911053796001
+2023,Rivian,"R1S (22"" Wheels) Dual Max",Sport utility vehicle: Standard,0,10.0,10.0,40.2335,47.153662000000004,380.279052,13.0,Electric,0.004596166954736,0.005416911053796001
+2023,Rivian,"R1S (22"" Wheels) Performance Dual Max",Sport utility vehicle: Standard,0,10.0,10.0,40.2335,47.153662000000004,380.279052,13.0,Electric,0.004596166954736,0.005416911053796001
+2023,Rivian,"R1T (20"" Wheels)",Pickup truck: Standard,0,10.0,10.0,49.08487,56.487834,288.937515,13.0,Electric,0.005581059873608,0.006401803972668
+2023,Rivian,"R1T (20"" Wheels) All-Terrain",Pickup truck: Standard,0,10.0,10.0,51.49888,56.3269,274.024611,13.0,Electric,0.005909357513232001,0.006401803972668
+2023,Rivian,"R1T (20"" Wheels) AT Dual Large",Pickup truck: Standard,0,10.0,10.0,46.67086,52.30355,306.957274,13.0,Electric,0.005416911053796001,0.005909357513232001
+2023,Rivian,"R1T (20"" Wheels) AT Performance Dual Large",Pickup truck: Standard,0,10.0,10.0,46.67086,52.30355,306.957274,13.0,Electric,0.005416911053796001,0.005909357513232001
+2023,Rivian,"R1T (20"" Wheels) AT Dual Max",Pickup truck: Standard,0,10.0,10.0,42.969378,50.050474,354.802841,13.0,Electric,0.00492446459436,0.00574520869342
+2023,Rivian,"R1T (20"" Wheels) AT Performance Dual Max",Pickup truck: Standard,0,10.0,10.0,42.969378,50.050474,354.802841,13.0,Electric,0.00492446459436,0.00574520869342
+2023,Rivian,"R1T (21"" Wheels)",Pickup truck: Standard,0,10.0,10.0,44.095915999999995,48.602067999999996,328.083888,13.0,Electric,0.005088613414172,0.005581059873608
+2023,Rivian,"R1T (21"" Wheels) Dual Large",Pickup truck: Standard,0,10.0,10.0,41.199104000000005,45.705256,351.695986,13.0,Electric,0.004760315774548001,0.005252762233984001
+2023,Rivian,"R1T (21"" Wheels) Performance Dual Large",Pickup truck: Standard,0,10.0,10.0,41.199104000000005,45.705256,351.695986,13.0,Electric,0.004760315774548001,0.005252762233984001
+2023,Rivian,"R1T (21"" Wheels) Dual Max",Pickup truck: Standard,0,10.0,10.0,37.01482,43.45218,410.726231,13.0,Electric,0.004267869315112001,0.00492446459436
+2023,Rivian,"R1T (21"" Wheels) Performance Dual Max",Pickup truck: Standard,0,10.0,10.0,37.01482,43.45218,410.726231,13.0,Electric,0.004267869315112001,0.00492446459436
+2023,Rivian,"R1T (22"" Wheels)",Pickup truck: Standard,0,10.0,10.0,46.188058,53.269154,303.229048,13.0,Electric,0.005252762233984001,0.006073506333044001
+2023,Rivian,"R1T (22"" Wheels) Dual Large",Pickup truck: Standard,0,10.0,10.0,42.003774,47.47553,341.132679,13.0,Electric,0.004760315774548001,0.005416911053796001
+2023,Rivian,"R1T (22"" Wheels) Performance Dual Large",Pickup truck: Standard,0,10.0,10.0,42.003774,47.47553,341.132679,13.0,Electric,0.004760315774548001,0.005416911053796001
+2023,Rivian,"R1T (22"" Wheels) Dual Max",Pickup truck: Standard,0,10.0,10.0,40.2335,47.153662000000004,380.279052,13.0,Electric,0.004596166954736,0.005416911053796001
+2023,Rivian,"R1T (22"" Wheels) Performance Dual Max",Pickup truck: Standard,0,10.0,10.0,40.2335,47.153662000000004,380.279052,13.0,Electric,0.004596166954736,0.005416911053796001
+2023,Subaru,Solterra AWD,Sport utility vehicle: Small,0,10.0,10.0,29.933724,36.049215999999994,223.69356,11.0,Electric,0.003447125216052,0.004103720495300001
+2023,Tesla,Model 3 RWD,Mid-size,0,10.0,10.0,24.461968,26.715044000000002,272.160498,8.5,Electric,0.002790529936804,0.003118827576428
+2023,Tesla,Model 3 Long Range AWD (pre-1/10/23),Mid-size,0,10.0,10.0,25.105704,26.715044000000002,357.909696,10.0,Electric,0.0029546787566160004,0.003118827576428
+2023,Tesla,Model 3 Long Range AWD,Mid-size,0,10.0,10.0,25.74944,27.841582000000002,333.05485600000003,10.0,Electric,0.0029546787566160004,0.003118827576428
+2023,Tesla,Model 3 Long Range AWD (Import),Mid-size,0,10.0,10.0,25.74944,27.841582000000002,331.812114,10.0,Electric,0.0029546787566160004,0.003118827576428
+2023,Tesla,Model 3 Performance,Mid-size,0,10.0,10.0,28.646252,31.543064,315.035097,10.0,Electric,0.0032829763962400004,0.003611274035864001
+2023,Tesla,Model S,Full-size,0,10.0,10.0,27.197846,29.450922000000002,405.133892,15.0,Electric,0.003118827576428,0.003447125216052
+2023,Tesla,"Model S Plaid (19"" Wheels)",Full-size,0,10.0,10.0,28.324384000000002,30.094658,395.813327,15.0,Electric,0.0032829763962400004,0.003447125216052
+2023,Tesla,"Model S Plaid (21"" Wheels)",Full-size,0,10.0,10.0,32.830535999999995,34.118007999999996,347.96776,15.0,Electric,0.003775422855676,0.003939571675488
+2023,Tesla,Model X,Sport utility vehicle: Standard,0,10.0,10.0,31.703998,34.922678,347.96776,14.0,Electric,0.003611274035864001,0.003939571675488
+2023,Tesla,"Model X Plaid (20"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,32.830535999999995,36.21015,333.05485600000003,14.0,Electric,0.003775422855676,0.004103720495300001
+2023,Tesla,"Model X Plaid (22"" Wheels)",Sport utility vehicle: Standard,0,10.0,10.0,35.888282000000004,38.302292,310.6855,14.0,Electric,0.004103720495300001,0.004432018134924001
+2023,Tesla,Model Y RWD,Sport utility vehicle: Small,0,10.0,10.0,26.715044000000002,29.129054000000004,244.820174,8.0,Electric,0.003118827576428,0.0032829763962400004
+2023,Tesla,Model Y AWD,Sport utility vehicle: Small,0,10.0,10.0,26.232242,29.129054000000004,278.995579,9.0,Electric,0.0029546787566160004,0.0032829763962400004
+2023,Tesla,Model Y Long Range AWD,Sport utility vehicle: Small,0,10.0,10.0,26.55411,28.807185999999998,329.948001,10.0,Electric,0.003118827576428,0.0032829763962400004
+2023,Tesla,Model Y Long Range AWD (Import),Sport utility vehicle: Small,0,10.0,10.0,28.002515999999996,29.289987999999997,308.821387,10.0,Electric,0.0032829763962400004,0.0032829763962400004
+2023,Tesla,Model Y Performance,Sport utility vehicle: Small,0,10.0,10.0,29.289987999999997,31.864932,303.229048,10.0,Electric,0.0032829763962400004,0.003611274035864001
+2023,Tesla,Model Y Performance (Import),Sport utility vehicle: Small,0,10.0,10.0,29.450922000000002,32.830535999999995,285.209289,10.0,Electric,0.003447125216052,0.003775422855676
+2023,Toyota,bZ4X,Sport utility vehicle: Small,0,10.0,10.0,25.74944,31.38213,252.276626,11.0,Electric,0.0029546787566160004,0.003611274035864001
+2023,Toyota,bZ4X AWD,Sport utility vehicle: Small,0,10.0,10.0,29.611855999999996,35.888282000000004,228.043157,11.0,Electric,0.003447125216052,0.004103720495300001
+2023,VinFast,VF8 ECO,Sport utility vehicle: Small,0,10.0,10.0,42.486576,47.47553,264.082675,12.0,Electric,0.00492446459436,0.005416911053796001
+2023,VinFast,VF8 PLUS,Sport utility vehicle: Small,0,10.0,10.0,51.98168199999999,55.200362,219.965334,12.0,Electric,0.005909357513232001,0.006237655152856
+2023,VinFast,VF8 PLUS Performance,Sport utility vehicle: Small,0,10.0,10.0,70.489092,77.892056,242.956061,12.0,Electric,0.008043292170788,0.008864036269848002
+2023,Volkswagen,ID.4,Sport utility vehicle: Small,0,10.0,10.0,29.289987999999997,34.118007999999996,208.780656,6.0,Electric,0.0032829763962400004,0.003939571675488
+2023,Volkswagen,ID.4 Pro,Sport utility vehicle: Small,0,10.0,10.0,29.289987999999997,34.278942,275.267353,7.5,Electric,0.0032829763962400004,0.003939571675488
+2023,Volkswagen,ID.4 AWD Pro,Sport utility vehicle: Small,0,10.0,10.0,32.347734,36.371084,254.76211,7.5,Electric,0.003775422855676,0.004103720495300001
+2023,Volvo,C40 Recharge Twin,Sport utility vehicle: Small,0,10.0,10.0,35.727348,42.003774,226.179044,8.0,Electric,0.004103720495300001,0.004760315774548001
+2023,Volvo,XC40 Recharge Twin,Sport utility vehicle: Small,0,10.0,10.0,36.692952,42.808444,223.072189,8.0,Electric,0.004267869315112001,0.00492446459436
