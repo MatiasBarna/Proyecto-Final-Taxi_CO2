@@ -1,4 +1,5 @@
 # GreenMobility Analytics
+![Portada](img/img1.jpg)
 
 ## Sprint I: Inicio del Proyecto y Trabajo con Datos
 
