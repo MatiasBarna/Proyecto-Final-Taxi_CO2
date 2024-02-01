@@ -38,7 +38,7 @@ Este alcance proporciona un marco completo para abordar los objetivos del proyec
 
    Horario de Daylis: Lunes – Viernes (9:00 – 11:00 / 16:00 – 18:00) HR ARG.
 
-II. **Equipo de Trabajo. Roles y Responsabilidades**
+### VII. Equipo de Trabajo. Roles y Responsabilidades
 
    - Data Analysts: Joyce Ruiz, Marco Delgado y Jovanni Escamilla.
    - Data Engineers: Joyce Ruiz, Jovanni Escamilla, Lucas Salzotto, Matias Barna.
