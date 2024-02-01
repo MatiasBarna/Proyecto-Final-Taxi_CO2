@@ -1,32 +1,75 @@
-# PF_Taxi_CO2
+# GreenMobility Analytics
 
-### Proyecto final de Soy henry, análisis de datos sobre los viajes de taxis en New York City
+## Sprint #1: Inicio del Proyecto y Trabajo con Datos
 
-![5fa901c4e5b47](https://github.com/rescamillah/PF_TaxisNYC/assets/134313088/c4cfcedf-a82a-4ce7-8ad5-2d4d788317d7)
+### I. Introducción
 
-## Análisis del proyecto
+En el dinámico entorno urbano de la ciudad de Nueva York, los servicios de taxis y viajes compartidos han revolucionado la forma en que las personas se movilizan. Estos servicios no solo ofrecen una alternativa conveniente al transporte público y al alquiler de automóviles, sino que también generan vastas cantidades de datos que ofrecen una ventana única hacia los patrones de movilidad y la demanda de transporte en la ciudad.
 
-La ciudad de Nueva York, es una de las ciudades con mayor movilidad vial en el mundo, actualmente existen múltiples medios de transporte de pasajeros que permiten a los usuarios arribar a sus destinos, sin embargo, el colapso vial, aunado a la contaminación ambiental están obligando al sector a buscar soluciones de mejora que permitan elevar la eficiencia en el transporte, reduciendo costos y aumentando utilidades sin descuidar el cuidado al medio ambiente.
+Sin embargo, este avance en la movilidad no está exento de preocupaciones ambientales. El cambio climático, acelerado por la dependencia de combustibles fósiles, ha planteado la urgente necesidad de reducir las emisiones de carbono y mejorar la calidad del aire en las áreas urbanas. En este contexto, una empresa de servicios de transporte de pasajeros, con una visión orientada hacia un futuro más sostenible, busca incursionar en el sector de taxis y viajes compartidos en automóviles, considerando la posibilidad de integrar vehículos eléctricos a su flota.
 
-Nuestro proyecto se enfoca en este sector del transporte de pasajeros, con la intención de proponer estrategias que permitan a una empresa privada realizar una fuerte inversión para entrar a este mercado, analizando sus tendencias, escenario actual, fortalezas y debilidades, de tal forma que, permitan ejecutar un plan de acción que brinde los mejores resultados posibles.
+Nuestro equipo ha sido contratado para acompañar este proceso de toma de decisiones, utilizando un enfoque basado en datos para analizar la relación entre los medios de transporte particulares y la calidad del aire en la ciudad de Nueva York. A través de la recopilación, depuración y análisis de datos provenientes de diversas fuentes, así como el desarrollo de modelos de machine learning, buscamos proporcionar información valiosa que respalde la evaluación de la viabilidad y los impactos potenciales de la transición hacia una flota de vehículos eléctricos.
 
-Para ello, abordaremos la información desde un panorama general, donde se extraerá información de aquellos medios de transporte de pasajeros existentes en la ciudad, se analizarán las rutas actuales, el consumo que realizan los usuarios de estos servicios, utilidades generadas, horas picos de solicitudes, zonas y puntos estratégicos de inicio y fin de viajes, la huella de carbono generada por los automóviles de combustión, uso de autos eléctricos, entre otros.
+En este proyecto, nos sumergiremos en el rico conjunto de datos disponibles, explorando las interconexiones entre el movimiento de los taxis, la calidad del aire y la contaminación sonora. A través de un enfoque multidisciplinario que combina análisis de datos, conocimientos en ciencias ambientales y técnicas de machine learning, aspiramos a ofrecer una visión integral que oriente las decisiones estratégicas de nuestro cliente hacia un futuro más limpio y sostenible para la movilidad urbana en Nueva York.
 
-Con dicha información analizada, se buscará brindar a la empresa que desea realizar la inversión, los Insights necesarios que le permitan tomar la mejores decisiones para su entrada a mercado.
+### II. Objetivos
+
+- Recopilar, depurar y organizar datos relevantes.
+- Desarrollar un Dashboard Interactivo para una mejor visualización y comprensión de los datos.
+- Evaluar y comparar los costos y beneficios de los vehículos de combustión y eléctricos.
+
+### III. Alcance
+
+Este alcance proporciona un marco completo para abordar los objetivos del proyecto y ayudará a la empresa de servicios de transporte en su proceso de toma de decisiones relacionadas con la implementación de vehículos eléctricos en su flota.
+
+### IV. Planteamiento de KPI´s
+
+- Aumentar las ventas promedio en un 5% respecto al mes anterior.
+- Incrementar los ingresos en un 10% respecto al semestre anterior.
+- Reducir las emisiones de CO2 en un 40% anual en el servicio de taxis.
+- Disminuir el gasto de combustible en un 10% anual.
+
+### V. Solución Propuesta
+
+1. **Metodología de Trabajo**
+   
+   Adoptaremos una metodología ágil tipo Scrum, utilizando Trello como herramienta central para la organización y seguimiento de tareas.
+
+   Horario de Daylis: Lunes – Viernes (9:00 – 11:00 / 16:00 – 18:00) HR ARG.
+
+2. **Equipo de Trabajo. Roles y Responsabilidades**
+
+   - Data Analysts: Joyce Ruiz, Marco Delgado y Jovanni Escamilla.
+   - Data Engineers: Joyce Ruiz, Jovanni Escamilla, Lucas Salzotto, Matias Barna.
+   - Especialistas en Machine Learning: Matias Barna, Marco Delgado, Lucas Salzotto.
+
+3. **Cronograma General de Actividades – Gantt**
+![Diagrama de Gantt](img/gantt.png)
+
+4. **Stack Tecnológico**
+
+   - Python: Para análisis de datos y Machine Learning.
+   - Pandas, Numpy, Matplotlib: Manipulación y visualización de datos.
+   - Seaborn, Folium: Visualización de datos geoespaciales.
+   - Trello: Plataforma de gestión de tareas.
+   - GitHub: Para creación y actualización del repositorio.
+
+5. **Flujo de Trabajo (WorkFlow)**
+![Diagrama de flujo del proyecto](img/workflow.png)
 
 
-### Objetivos
+6. **Informe de Análisis de los Datos**
 
-#### Recopilar, depurar y disponibilizar la información.
-En primer lugar, nos enfocaremos en la recopilación y depuración de datos de diversas fuentes. Esto incluirá información sobre la operación de taxis en la ciudad de Nueva York, las emisiones de CO2 asociadas a diferentes modelos de automóviles, la disponibilidad de estaciones de carga para vehículos eléctricos y otros conjuntos de datos relevantes.
+   - Fuentes y confiabilidad de los datos
+   - Empresa ficticia: GreenMobility Analytics
 
-#### Desarrollar y presentar un Dashboard Interactivo para mejorar la visualización y comprensión de datos.
-Presentaremos un Dashboard interactivo que permitirá a los interesados visualizar el análisis de valor en función de los KPI (Indicadores Clave de Desempeño) que hemos propuesto.
+### VI. Conclusiones
 
-#### Comparar los costos y ganancias obtenidos por los autos de combustión y los autos eléctricos.
+1. **Comprender el Impacto Ambiental:** Nuestro análisis proporcionará una visión detallada de cómo la introducción de vehículos particulares afectará la calidad del aire y la contaminación sonora en las áreas urbanas. Esto permitirá a la empresa de transporte evaluar el impacto ambiental de su expansión y tomar medidas para reducir su huella ambiental.
 
-Realizaremos una comparación minuciosa de los costos y ganancias asociados a los automóviles de combustión interna y los automóviles eléctricos. Con la finalidad de entender y evaluar los aspectos económicos de ambos tipos de Autos, considerando factores clave que impactan los costos operativos y las ganancias potenciales.
+2. **Validar la Visión de Futuro:** Al corroborar la relación entre los medios de transporte particulares y la calidad del aire, nuestra investigación respaldará la visión de la empresa de un futuro menos contaminado y se alineará con las tendencias de mercado actuales hacia la sostenibilidad y la responsabilidad ambiental.
 
-#### Estudiar la contaminación de CO2 de los Boroughs de la ciudad de New York.
-Realizaremos un estudio exhaustivo sobre la contaminación de dióxido de carbono (CO2) en los diferentes Boroughs (distritos) de la Ciudad de Nueva York. El objetivo principal es comprender la magnitud y la distribución de las emisiones de CO2 en cada distrito, identificando fuentes potenciales y evaluando el impacto ambiental en la calidad del aire.
+3. **Informar Decisiones Fundamentadas:** Con el análisis preliminar del movimiento de los taxis en la ciudad de Nueva York, proporcionaremos un marco de referencia sólido para que la empresa tome decisiones bien fundamentadas sobre la implementación de vehículos eléctricos en su flota. Esto incluirá insights sobre patrones de movilidad, áreas de alta demanda y posibles impactos en la calidad del aire y la contaminación sonora.
+
+4. **Optimizar Recursos:** Al utilizar datos de alta calidad y cruzarlos con otros conjuntos de datos relevantes, nuestro enfoque integral permitirá a la empresa optimizar sus recursos y maximizar el impacto de sus inversiones en la movilidad urbana sostenible.
 
