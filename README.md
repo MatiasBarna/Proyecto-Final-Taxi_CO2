@@ -68,12 +68,12 @@ Este alcance proporciona un marco completo para abordar los objetivos del proyec
 
 ### XII. Conclusiones
 
--**Comprender el Impacto Ambiental:** Nuestro análisis proporcionará una visión detallada de cómo la introducción de vehículos particulares afectará la calidad del aire y la contaminación sonora en las áreas urbanas. Esto permitirá a la empresa de transporte evaluar el impacto ambiental de su expansión y tomar medidas para reducir su huella ambiental.
+- Comprender el Impacto Ambiental: Nuestro análisis proporcionará una visión detallada de cómo la introducción de vehículos particulares afectará la calidad del aire y la contaminación sonora en las áreas urbanas. Esto permitirá a la empresa de transporte evaluar el impacto ambiental de su expansión y tomar medidas para reducir su huella ambiental.
 
--**Validar la Visión de Futuro:** Al corroborar la relación entre los medios de transporte particulares y la calidad del aire, nuestra investigación respaldará la visión de la empresa de un futuro menos contaminado y se alineará con las tendencias de mercado actuales hacia la sostenibilidad y la responsabilidad ambiental.
+- Validar la Visión de Futuro: Al corroborar la relación entre los medios de transporte particulares y la calidad del aire, nuestra investigación respaldará la visión de la empresa de un futuro menos contaminado y se alineará con las tendencias de mercado actuales hacia la sostenibilidad y la responsabilidad ambiental.
 
--**Informar Decisiones Fundamentadas:** Con el análisis preliminar del movimiento de los taxis en la ciudad de Nueva York, proporcionaremos un marco de referencia sólido para que la empresa tome decisiones bien fundamentadas sobre la implementación de vehículos eléctricos en su flota. Esto incluirá insights sobre patrones de movilidad, áreas de alta demanda y posibles impactos en la calidad del aire y la contaminación sonora.
+- Informar Decisiones Fundamentadas: Con el análisis preliminar del movimiento de los taxis en la ciudad de Nueva York, proporcionaremos un marco de referencia sólido para que la empresa tome decisiones bien fundamentadas sobre la implementación de vehículos eléctricos en su flota. Esto incluirá insights sobre patrones de movilidad, áreas de alta demanda y posibles impactos en la calidad del aire y la contaminación sonora.
 
--**Optimizar Recursos:** Al utilizar datos de alta calidad y cruzarlos con otros conjuntos de datos relevantes, nuestro enfoque integral permitirá a la empresa optimizar sus recursos y maximizar el impacto de sus inversiones en la movilidad urbana sostenible.
+- Optimizar Recursos: Al utilizar datos de alta calidad y cruzarlos con otros conjuntos de datos relevantes, nuestro enfoque integral permitirá a la empresa optimizar sus recursos y maximizar el impacto de sus inversiones en la movilidad urbana sostenible.
 
 
