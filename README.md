@@ -1,6 +1,6 @@
 # GreenMobility Analytics
 
-## Sprint #1: Inicio del Proyecto y Trabajo con Datos
+## Sprint I: Inicio del Proyecto y Trabajo con Datos
 
 ### I. Introducción
 
@@ -31,22 +31,22 @@ Este alcance proporciona un marco completo para abordar los objetivos del proyec
 
 ### V. Solución Propuesta
 
-1. **Metodología de Trabajo**
+### VI. Metodología de Trabajo
    
    Adoptaremos una metodología ágil tipo Scrum, utilizando Trello como herramienta central para la organización y seguimiento de tareas.
 
    Horario de Daylis: Lunes – Viernes (9:00 – 11:00 / 16:00 – 18:00) HR ARG.
 
-2. **Equipo de Trabajo. Roles y Responsabilidades**
+II. **Equipo de Trabajo. Roles y Responsabilidades**
 
    - Data Analysts: Joyce Ruiz, Marco Delgado y Jovanni Escamilla.
    - Data Engineers: Joyce Ruiz, Jovanni Escamilla, Lucas Salzotto, Matias Barna.
    - Especialistas en Machine Learning: Matias Barna, Marco Delgado, Lucas Salzotto.
 
-3. **Cronograma General de Actividades – Gantt**
-![Diagrama de Gantt](img/gantt.png)
+III. **Cronograma General de Actividades – Gantt**
+   ![Diagrama de Gantt](img/gantt.png)
 
-4. **Stack Tecnológico**
+IV. **Stack Tecnológico**
 
    - Python: Para análisis de datos y Machine Learning.
    - Pandas, Numpy, Matplotlib: Manipulación y visualización de datos.
@@ -54,22 +54,24 @@ Este alcance proporciona un marco completo para abordar los objetivos del proyec
    - Trello: Plataforma de gestión de tareas.
    - GitHub: Para creación y actualización del repositorio.
 
-5. **Flujo de Trabajo (WorkFlow)**
-![Diagrama de flujo del proyecto](img/workflow.png)
+V. **Flujo de Trabajo (WorkFlow)**
+   ![Diagrama de flujo del proyecto](img/workflow.png)
 
 
-6. **Informe de Análisis de los Datos**
+VI. **Informe de Análisis de los Datos**
 
    - Fuentes y confiabilidad de los datos
    - Empresa ficticia: GreenMobility Analytics
 
 ### VI. Conclusiones
 
-1. **Comprender el Impacto Ambiental:** Nuestro análisis proporcionará una visión detallada de cómo la introducción de vehículos particulares afectará la calidad del aire y la contaminación sonora en las áreas urbanas. Esto permitirá a la empresa de transporte evaluar el impacto ambiental de su expansión y tomar medidas para reducir su huella ambiental.
+I. **Comprender el Impacto Ambiental:** Nuestro análisis proporcionará una visión detallada de cómo la introducción de vehículos particulares afectará la calidad del aire y la contaminación sonora en las áreas urbanas. Esto permitirá a la empresa de transporte evaluar el impacto ambiental de su expansión y tomar medidas para reducir su huella ambiental.
 
-2. **Validar la Visión de Futuro:** Al corroborar la relación entre los medios de transporte particulares y la calidad del aire, nuestra investigación respaldará la visión de la empresa de un futuro menos contaminado y se alineará con las tendencias de mercado actuales hacia la sostenibilidad y la responsabilidad ambiental.
+II. **Validar la Visión de Futuro:** Al corroborar la relación entre los medios de transporte particulares y la calidad del aire, nuestra investigación respaldará la visión de la empresa de un futuro menos contaminado y se alineará con las tendencias de mercado actuales hacia la sostenibilidad y la responsabilidad ambiental.
 
-3. **Informar Decisiones Fundamentadas:** Con el análisis preliminar del movimiento de los taxis en la ciudad de Nueva York, proporcionaremos un marco de referencia sólido para que la empresa tome decisiones bien fundamentadas sobre la implementación de vehículos eléctricos en su flota. Esto incluirá insights sobre patrones de movilidad, áreas de alta demanda y posibles impactos en la calidad del aire y la contaminación sonora.
+III. **Informar Decisiones Fundamentadas:** Con el análisis preliminar del movimiento de los taxis en la ciudad de Nueva York, proporcionaremos un marco de referencia sólido para que la empresa tome decisiones bien fundamentadas sobre la implementación de vehículos eléctricos en su flota. Esto incluirá insights sobre patrones de movilidad, áreas de alta demanda y posibles impactos en la calidad del aire y la contaminación sonora.
+
+IV. **Optimizar Recursos:** Al utilizar datos de alta calidad y cruzarlos con otros conjuntos de datos relevantes, nuestro enfoque integral permitirá a la empresa optimizar sus recursos y maximizar el impacto de sus inversiones en la movilidad urbana sostenible.
 
 4. **Optimizar Recursos:** Al utilizar datos de alta calidad y cruzarlos con otros conjuntos de datos relevantes, nuestro enfoque integral permitirá a la empresa optimizar sus recursos y maximizar el impacto de sus inversiones en la movilidad urbana sostenible.
 
