@@ -25,10 +25,10 @@ Este alcance proporciona un marco completo para abordar los objetivos del proyec
 
 ### IV. Planteamiento de KPI´s
 
-- Aumentar las ventas promedio en un 5% respecto al mes anterior.
-- Incrementar los ingresos en un 10% respecto al semestre anterior.
-- Reducir las emisiones de CO2 en un 40% anual en el servicio de taxis.
-- Disminuir el gasto de combustible en un 10% anual.
+- Aumentar las ventas promedio en un 10% respecto al mes anterior.
+- Incrementar el número de viajes en un 5% respecto al mes anterior.
+- Reducir la contaminación acústica en un 40% anual en el servicio de taxis dentro del Distrito de Manhattan.
+
 
 ### V. Solución Propuesta
 
