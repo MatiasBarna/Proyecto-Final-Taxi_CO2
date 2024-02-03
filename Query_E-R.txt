@@ -1,7 +1,6 @@
 ETL TAXI FUEL:
 
--- Tabla Vehículo
-CREATE TABLE Vehiculo (
+-- CREATE TABLE Vehiculo (
     id INT PRIMARY KEY AUTO_INCREMENT,
     YEAR INT,
     Manufacturer VARCHAR(255),
@@ -22,9 +21,9 @@ CREATE TABLE Vehiculo (
     mfrCode VARCHAR(255),
     c240Dscr VARCHAR(255),
     c240bDscr VARCHAR(255),
+    startStop VARCHAR(255),
     createdOn DATE,
-    modifiedOn DATE,
-    startStop VARCHAR(255)
+    modifiedOn DATE
 );
 
 -- Tabla Consumo de Combustible
@@ -80,7 +79,7 @@ CREATE TABLE Emisiones (
 CREATE TABLE RangoConduccion (
     id INT PRIMARY KEY AUTO_INCREMENT,
     vehiculo_id INT,
-    RANGE FLOAT,
+    Range_ FLOAT,
     rangeCity FLOAT,
     rangeCityA FLOAT,
     rangeHwy FLOAT,
@@ -107,6 +106,14 @@ CREATE TABLE CostosCapacidad (
 
 ETL TAXI 2023:
 
+-- Tabla TaxiZone (Zona de Taxi)
+CREATE TABLE TaxiZone (
+    PULocationID INT PRIMARY KEY,
+    Borough VARCHAR(255),
+    Zone VARCHAR(255),
+    Service_Zone VARCHAR(255)
+);
+
 -- Tabla TaxiTrip (Viaje de Taxi)
 CREATE TABLE TaxiTrip (
     trip_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -125,15 +132,11 @@ CREATE TABLE TaxiTrip (
     FOREIGN KEY (DOLocationID) REFERENCES TaxiZone(PULocationID)
 );
 
--- Tabla TaxiZone (Zona de Taxi)
-CREATE TABLE TaxiZone (
-    PULocationID INT PRIMARY KEY,
-    Borough VARCHAR(255),
-    Zone VARCHAR(255),
-    Service_Zone VARCHAR(255)
-);
-
 ETL ELECTRICO VS GASOLINA:
+
+CREATE TABLE EV_Pricing_Detail (
+    EV_Price VARCHAR(50) PRIMARY KEY
+);
 
 CREATE TABLE Station (
     ID INT PRIMARY KEY AUTO_INCREMENT,
@@ -149,9 +152,6 @@ CREATE TABLE Station (
     FOREIGN KEY (EV_Price) REFERENCES EV_Pricing_Detail(EV_Price)
 );
 
-CREATE TABLE EV_Pricing_Detail (
-    EV_Price VARCHAR(50) PRIMARY KEY
-);
 
 ETL CONTAMINACION:
 -- Tabla para Contaminantes
@@ -192,3 +192,4 @@ CREATE TABLE Mediciones (
     FOREIGN KEY (GeoPlaceID) REFERENCES LugaresGeograficos(GeoPlaceID),
     FOREIGN KEY (YearID) REFERENCES Anios(YearID)
 );
+
