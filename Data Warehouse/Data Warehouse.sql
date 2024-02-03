@@ -2,29 +2,36 @@ DROP DATABASE IF EXISTS taxi_co2;
 CREATE DATABASE IF NOT EXISTS taxi_co2;
 USE taxi_co2;
 
--- Tabla Vehiculo
 DROP TABLE IF EXISTS `Vehiculo`;
-CREATE TABLE IF NOT EXISTS `Vehiculo` (
+CREATE TABLE IF NOT EXISTS `Vehiculo`(
     id INT PRIMARY KEY AUTO_INCREMENT,
-    YEAR_ INT,
+    YEAR INT,
     Manufacturer VARCHAR(255),
     Model VARCHAR(255),
-    CO2(p/milla) FLOAT,
-    MilesPerGallon(mpg) FLOAT,
-    Ef_X_Comb FLOAT,
-    Comb_X_Year FLOAT,
-    Score_Ghg FLOAT,
-    Ef_X_Comb_City FLOAT,
-    YouSaveSpend FLOAT,
-    Fuel VARCHAR(255),
-    AlternativeFuel VARCHAR(255),
+    cylinders INT,
+    displ FLOAT,
+    drive VARCHAR(255),
+    engId INT,
+    eng_dscr VARCHAR(255),
+    fuelType VARCHAR(255),
+    fuelType1 VARCHAR(255),
+    fuelType2 VARCHAR(255),
+    trany VARCHAR(255),
+    tCharger VARCHAR(255),
+    sCharger VARCHAR(255),
+    atvType VARCHAR(255),
+    evMotor VARCHAR(255),
+    mfrCode VARCHAR(255),
+    c240Dscr VARCHAR(255),
+    c240bDscr VARCHAR(255),
+    startStop VARCHAR(255),
     createdOn DATE,
-    modifiedOn DATE,
+    modifiedOn DATE
 );
 
 -- Tabla Consumo de Combustible
 DROP TABLE IF EXISTS `ConsumoCombustible`;
-CREATE TABLE IF NOT EXISTS ConsumoCombustible (
+CREATE TABLE IF NOT EXISTS ConsumoCombustible(
     id INT PRIMARY KEY AUTO_INCREMENT,
     vehiculo_id INT,
     barrels08 FLOAT,
@@ -58,8 +65,6 @@ CREATE TABLE IF NOT EXISTS ConsumoCombustible (
     FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
 );
 
--- Tabla Emisiones
-
 DROP TABLE IF EXISTS `Emisiones`;
 CREATE TABLE IF NOT EXISTS Emisiones (
     id INT PRIMARY KEY AUTO_INCREMENT,
@@ -79,7 +84,7 @@ DROP TABLE IF EXISTS `RangoConduccion`;
 CREATE TABLE IF NOT EXISTS RangoConduccion (
     id INT PRIMARY KEY AUTO_INCREMENT,
     vehiculo_id INT,
-    RANGE_ FLOAT,
+    Range_ FLOAT,
     rangeCity FLOAT,
     rangeCityA FLOAT,
     rangeHwy FLOAT,
@@ -195,3 +200,17 @@ CREATE TABLE IF NOT EXISTS Mediciones (
     FOREIGN KEY (GeoPlaceID) REFERENCES LugaresGeograficos(GeoPlaceID),
     FOREIGN KEY (YearID) REFERENCES Anios(YearID)
 );
+
+CREATE INDEX idx_Manufacturer ON Vehiculo (Manufacturer);
+CREATE INDEX idx_Model ON Vehiculo (Model);
+CREATE INDEX idx_vehiculo_id_consumo ON ConsumoCombustible (vehiculo_id);
+CREATE INDEX idx_vehiculo_id_emisiones ON Emisiones (vehiculo_id);
+CREATE INDEX idx_vehiculo_id_rango ON RangoConduccion (vehiculo_id);
+CREATE INDEX idx_vehiculo_id_costos ON CostosCapacidad (vehiculo_id);
+CREATE INDEX idx_PULocationID ON TaxiTrip (PULocationID);
+CREATE INDEX idx_DOLocationID ON TaxiTrip (DOLocationID);
+CREATE INDEX idx_EV_Price ON Station (EV_Price);
+CREATE INDEX idx_ContaminanteID ON Mediciones (ContaminanteID);
+CREATE INDEX idx_MeasureInfoID ON Mediciones (MeasureInfoID);
+CREATE INDEX idx_GeoPlaceID ON Mediciones (GeoPlaceID);
+CREATE INDEX idx_YearID ON Mediciones (YearID);
