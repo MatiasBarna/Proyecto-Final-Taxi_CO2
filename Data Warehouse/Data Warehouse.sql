@@ -1,216 +1,127 @@
-DROP DATABASE IF EXISTS taxi_co2;
-CREATE DATABASE IF NOT EXISTS taxi_co2;
-USE taxi_co2;
+DROP DATABASE IF EXISTS taxi2_co2;
+CREATE DATABASE IF NOT EXISTS taxi2_co2;
+USE taxi2_co2;
 
-DROP TABLE IF EXISTS `Vehiculo`;
-CREATE TABLE IF NOT EXISTS `Vehiculo`(
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    YEAR INT,
-    Manufacturer VARCHAR(255),
-    Model VARCHAR(255),
-    cylinders INT,
-    displ FLOAT,
-    drive VARCHAR(255),
-    engId INT,
-    eng_dscr VARCHAR(255),
-    fuelType VARCHAR(255),
-    fuelType1 VARCHAR(255),
-    fuelType2 VARCHAR(255),
-    trany VARCHAR(255),
-    tCharger VARCHAR(255),
-    sCharger VARCHAR(255),
-    atvType VARCHAR(255),
-    evMotor VARCHAR(255),
-    mfrCode VARCHAR(255),
-    c240Dscr VARCHAR(255),
-    c240bDscr VARCHAR(255),
-    startStop VARCHAR(255),
-    createdOn DATE,
-    modifiedOn DATE
+DROP TABLE IF EXISTS tipocontaminante;
+CREATE TABLE IF NOT EXISTS tipocontaminante(
+Contaminante_Id INT AUTO_INCREMENT PRIMARY KEY,
+Tipo VARCHAR (50) NOT NULL
 );
 
--- Tabla Consumo de Combustible
-DROP TABLE IF EXISTS `ConsumoCombustible`;
-CREATE TABLE IF NOT EXISTS ConsumoCombustible(
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    vehiculo_id INT,
-    barrels08 FLOAT,
-    barrelsA08 FLOAT,
-    city08 FLOAT,
-    city08U FLOAT,
-    cityA08 FLOAT,
-    cityA08U FLOAT,
-    cityCD FLOAT,
-    cityE FLOAT,
-    cityUF FLOAT,
-    comb08 FLOAT,
-    comb08U FLOAT,
-    combA08 FLOAT,
-    combA08U FLOAT,
-    combE FLOAT,
-    combinedCD FLOAT,
-    combinedUF FLOAT,
-    highway08 FLOAT,
-    highway08U FLOAT,
-    highwayA08 FLOAT,
-    highwayA08U FLOAT,
-    highwayCD FLOAT,
-    highwayE FLOAT,
-    highwayUF FLOAT,
-    UCity FLOAT,
-    UCityA FLOAT,
-    UHighway FLOAT,
-    UHighwayA FLOAT,
-    youSaveSpend FLOAT,
-    FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
+DROP TABLE IF EXISTS aire;
+CREATE TABLE IF NOT EXISTS aire (
+    Aire_Id INT AUTO_INCREMENT PRIMARY KEY,
+    Pollutant VARCHAR(50) NOT NULL,
+    MeasureInfo VARCHAR(50) NOT NULL,
+    GeoPlaceName VARCHAR(50) NOT NULL,
+    Year INT NOT NULL,
+    DataValue DECIMAL(10, 2) NOT NULL, 
+    Contaminante_Id INT,
+    FOREIGN KEY (Contaminante_Id) REFERENCES tipocontaminante(Contaminante_Id)
 );
 
-DROP TABLE IF EXISTS `Emisiones`;
-CREATE TABLE IF NOT EXISTS Emisiones (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    vehiculo_id INT,
-    co2 FLOAT,
-    co2A FLOAT,
-    co2TailpipeAGpm FLOAT,
-    co2TailpipeGpm FLOAT,
-    ghgScore FLOAT,
-    ghgScoreA FLOAT,
-    phevCity FLOAT,
-    FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
+DROP TABLE IF EXISTS emisiones;
+CREATE TABLE IF NOT EXISTS emisiones (
+    Emision_Id INT AUTO_INCREMENT PRIMARY KEY,
+    ModelYear INT NOT NULL,
+    Make VARCHAR(50) NOT NULL,
+    Model VARCHAR(50) NOT NULL,
+    VehicleClass VARCHAR(50) NOT NULL,
+    CO2Emissions DECIMAL(10, 2) NOT NULL,
+    CO2Rating INT NOT NULL,
+    SmogRating INT NOT NULL,
+    CityKWhPer100Mi DECIMAL(10, 2) NOT NULL,
+    HighwayKWhPer100Mi DECIMAL(10, 2) NOT NULL,
+    RangeMi INT NOT NULL,
+    RechargeTimeH INT NOT NULL,
+    TypeCar VARCHAR(50) NOT NULL,
+    CityGalPerMi DECIMAL(10, 2) NOT NULL,
+    HighwayGalPerMi DECIMAL(10, 2) NOT NULL
 );
 
--- Tabla Rango de Conducción
-DROP TABLE IF EXISTS `RangoConduccion`;
-CREATE TABLE IF NOT EXISTS RangoConduccion (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    vehiculo_id INT,
-    Range_ FLOAT,
-    rangeCity FLOAT,
-    rangeCityA FLOAT,
-    rangeHwy FLOAT,
-    rangeHwyA FLOAT,
-    rangeA FLOAT,
-    FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
+DROP TABLE IF EXISTS estaciones;
+CREATE TABLE IF NOT EXISTS estaciones (
+    Estacion_Id INT AUTO_INCREMENT PRIMARY KEY,
+    StationName VARCHAR(50) NOT NULL,
+    StreetAddress VARCHAR(50) NOT NULL,
+    City VARCHAR(50) NOT NULL,
+    State VARCHAR(50) NOT NULL,
+    ZIP VARCHAR(10) NOT NULL,
+    StationPhone VARCHAR(15) NOT NULL,
+    Latitude DECIMAL(10, 6) NOT NULL,
+    Longitude DECIMAL(10, 6) NOT NULL,
+    ID INT NOT NULL,
+    EVPricingDetail VARCHAR(50) NOT NULL,
+    EVPrice DECIMAL(10, 2) NOT NULL
 );
 
--- Tabla Costos y Capacidad
-DROP TABLE IF EXISTS `CostosCapacidad`;
-CREATE TABLE IF NOT EXISTS CostosCapacidad (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    vehiculo_id INT,
-    fuelCost08 FLOAT,
-    fuelCostA08 FLOAT,
-    hlv FLOAT,
-    hpv FLOAT,
-    lv2 FLOAT,
-    lv4 FLOAT,
-    mpgData VARCHAR(255),
-    guzzler VARCHAR(255),
-    FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
-);
+DROP TABLE IF EXISTS borough;
+CREATE TABLE IF NOT EXISTS borough (
+	Borough_Id INT AUTO_INCREMENT PRIMARY KEY,
+    Borough VARCHAR (50)
+    );	
 
--- Tabla TaxiZone (Zona de Taxi)
-DROP TABLE IF EXISTS `TaxiZone`;
-CREATE TABLE IF NOT EXISTS TaxiZone (
+DROP TABLE IF EXISTS zona;
+CREATE TABLE IF NOT EXISTS zona (
     PULocationID INT PRIMARY KEY,
-    Borough VARCHAR(255),
-    Zone VARCHAR(255),
-    Service_Zone VARCHAR(255)
+    Borough_Id INT,
+	Zone VARCHAR(50),
+    Service_Zone VARCHAR(50),
+	FOREIGN KEY (Borough_Id) REFERENCES borough(Borough_Id)
 );
 
--- Tabla TaxiTrip (Viaje de Taxi)
-DROP TABLE IF EXISTS `TaxiTrip`;
-CREATE TABLE IF NOT EXISTS TaxiTrip (
-    trip_id INT PRIMARY KEY AUTO_INCREMENT,
-    PULocationID INT,
-    DOLocationID INT,
-    Passenger_Count INT,
-    Trip_Distance FLOAT,
-    RatecodeID INT,
-    Store_and_fwd_flag VARCHAR(255),
-    Total_Amount FLOAT,
-    Date_pickup DATE,
-    Time_pickup TIME,
-    Date_dropoff DATE,
-    Time_dropoff TIME,
-    FOREIGN KEY (PULocationID) REFERENCES TaxiZone(PULocationID),
-    FOREIGN KEY (DOLocationID) REFERENCES TaxiZone(PULocationID)
+DROP TABLE IF EXISTS viajes_taxi;
+CREATE TABLE IF NOT EXISTS viajes_taxi (
+    Viaje_Id INT AUTO_INCREMENT PRIMARY KEY,
+    PULocationID INT NOT NULL,
+    Borough VARCHAR(50) NOT NULL,
+    Zone VARCHAR(50) NOT NULL,
+    ServiceZone VARCHAR(50) NOT NULL,
+    PassengerCount INT NOT NULL,
+    TripDistance DECIMAL(10, 2) NOT NULL,
+    DOLocationID INT NOT NULL,
+    RatecodeID INT NOT NULL,
+    StoreAndFwdFlag VARCHAR(1) NOT NULL,
+    TotalAmount DECIMAL(10, 2) NOT NULL,
+    DatePickup DATE NOT NULL,
+    TimePickup TIME NOT NULL,
+    DateDropoff DATE NOT NULL,
+    TimeDropoff TIME NOT NULL
 );
 
-DROP TABLE IF EXISTS `EV_Pricing_Detail`;
-CREATE TABLE IF NOT EXISTS EV_Pricing_Detail (
-    EV_Price VARCHAR(50) PRIMARY KEY
+DROP TABLE IF EXISTS tipocombustible;
+CREATE TABLE IF NOT EXISTS tipocombustible (
+	Combustible_Id INT AUTO_INCREMENT PRIMARY KEY,
+    Combustible VARCHAR (50)
+    );
+
+DROP TABLE IF EXISTS consumo_combustible;
+CREATE TABLE IF NOT EXISTS consumo_combustible (
+    Consumo_Id INT AUTO_INCREMENT PRIMARY KEY,
+    Manufacturer VARCHAR(50) NOT NULL,
+    Model VARCHAR(50) NOT NULL,
+    CO2PerMile DECIMAL(10, 2) NOT NULL,
+    MilesPerGallon DECIMAL(10, 2) NOT NULL,
+    EfficiencyTimesCombustible DECIMAL(10, 2) NOT NULL,
+    CombustibleTimesYear DECIMAL(10, 2) NOT NULL,
+    Fuel VARCHAR(50) NOT NULL,
+    ScoreGHG DECIMAL(10, 2) NOT NULL,
+    EfficiencyTimesCombustibleCity DECIMAL(10, 2) NOT NULL,
+    YouSaveSpend DECIMAL(10, 2) NOT NULL,
+    AlternativeFuel VARCHAR(50) NOT NULL,
+    Combustible_Id INT, 
+    FOREIGN KEY (Combustible_Id) REFERENCES tipocombustible(Combustible_Id)
 );
 
-DROP TABLE IF EXISTS `Station`;
-CREATE TABLE IF NOT EXISTS Station (
-    ID INT PRIMARY KEY AUTO_INCREMENT,
-    Station_Name VARCHAR(255),
-    Street_Address VARCHAR(255),
-    City VARCHAR(255),
-    State VARCHAR(255),
-    ZIP VARCHAR(10),
-    Station_Phone VARCHAR(20),
-    Latitude DECIMAL(10, 8),
-    Longitude DECIMAL(11, 8),
-    EV_Price VARCHAR(50),
-    FOREIGN KEY (EV_Price) REFERENCES EV_Pricing_Detail(EV_Price)
+DROP TABLE IF EXISTS sonido;
+CREATE TABLE IF NOT EXISTS sonido (
+    Sonido_Id INT AUTO_INCREMENT PRIMARY KEY,
+    Borough_Id INT,
+    Latitude DECIMAL(10, 6) NOT NULL,
+    Longitude DECIMAL(10, 6) NOT NULL,
+    Year INT NOT NULL,
+    Day INT NOT NULL,
+    Hour INT NOT NULL,
+    EngineSound VARCHAR(50) NOT NULL, 
+	FOREIGN KEY (Borough_Id) REFERENCES borough(Borough_Id)
 );
-
--- Tabla para Contaminantes
-DROP TABLE IF EXISTS `Contaminantes`;
-CREATE TABLE IF NOT EXISTS Contaminantes (
-    PollutantID INT PRIMARY KEY,
-    Name VARCHAR(255),
-    Description VARCHAR(255)
-);
-
--- Tabla para Unidad de Medida
-DROP TABLE IF EXISTS `UnidadMedida`;
-CREATE TABLE IF NOT EXISTS UnidadMedida (
-    MeasureInfoID INT PRIMARY KEY,
-    Unit VARCHAR(50)
-);
-
--- Tabla para Lugares Geográficos
-DROP TABLE IF EXISTS `LugaresGeograficos`;
-CREATE TABLE IF NOT EXISTS LugaresGeograficos (
-    GeoPlaceID INT PRIMARY KEY,
-    Name VARCHAR(255)
-);
-
--- Tabla para Años
-DROP TABLE IF EXISTS `Anios`;
-CREATE TABLE IF NOT EXISTS Anios (
-    YearID INT PRIMARY KEY,
-    Year INT
-);
-
--- Tabla para Mediciones
-DROP TABLE IF EXISTS `Mediciones`;
-CREATE TABLE IF NOT EXISTS Mediciones (
-    MeasurementID INT PRIMARY KEY,
-    ContaminanteID INT,
-    MeasureInfoID INT,
-    GeoPlaceID INT,
-    YearID INT,
-    Value FLOAT,
-    FOREIGN KEY (ContaminanteID) REFERENCES Contaminantes(PollutantID),
-    FOREIGN KEY (MeasureInfoID) REFERENCES UnidadMedida(MeasureInfoID),
-    FOREIGN KEY (GeoPlaceID) REFERENCES LugaresGeograficos(GeoPlaceID),
-    FOREIGN KEY (YearID) REFERENCES Anios(YearID)
-);
-
-CREATE INDEX idx_Manufacturer ON Vehiculo (Manufacturer);
-CREATE INDEX idx_Model ON Vehiculo (Model);
-CREATE INDEX idx_vehiculo_id_consumo ON ConsumoCombustible (vehiculo_id);
-CREATE INDEX idx_vehiculo_id_emisiones ON Emisiones (vehiculo_id);
-CREATE INDEX idx_vehiculo_id_rango ON RangoConduccion (vehiculo_id);
-CREATE INDEX idx_vehiculo_id_costos ON CostosCapacidad (vehiculo_id);
-CREATE INDEX idx_PULocationID ON TaxiTrip (PULocationID);
-CREATE INDEX idx_DOLocationID ON TaxiTrip (DOLocationID);
-CREATE INDEX idx_EV_Price ON Station (EV_Price);
-CREATE INDEX idx_ContaminanteID ON Mediciones (ContaminanteID);
-CREATE INDEX idx_MeasureInfoID ON Mediciones (MeasureInfoID);
-CREATE INDEX idx_GeoPlaceID ON Mediciones (GeoPlaceID);
-CREATE INDEX idx_YearID ON Mediciones (YearID);
