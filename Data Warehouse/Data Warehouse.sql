@@ -37,8 +37,8 @@ CREATE TABLE IF NOT EXISTS emisiones (
     TypeCar VARCHAR(50) NOT NULL,
     CityGalPerMi DECIMAL(10, 2) NOT NULL,
     HighwayGalPerMi DECIMAL(10, 2) NOT NULL
-    Modelo_id INT,
-    FOREIGN KEY (Modelo_id) REFERENCES tipomodeloauto(Modelo_id)
+    Modelo_Id INT,
+    FOREIGN KEY (Modelo_Id) REFERENCES tipomodeloauto(Modelo_Id)
 );
 
 DROP TABLE IF EXISTS estaciones;
@@ -98,7 +98,7 @@ CREATE TABLE IF NOT EXISTS tipocombustible (
     );
 DROP TABLE IF EXISTS tipomodeloauto;
 CREATE TABLE IF NOT EXISTS tipomodeloauto (
-	Modelo_id INT AUTO_INCREMENT PRIMARY KEY,
+	Modelo_Id INT AUTO_INCREMENT PRIMARY KEY,
     Modelo VARCHAR (120)
     );
 
@@ -116,10 +116,10 @@ CREATE TABLE IF NOT EXISTS consumo_combustible (
     EfficiencyTimesCombustibleCity DECIMAL(10, 2) NOT NULL,
     YouSaveSpend DECIMAL(10, 2) NOT NULL,
     AlternativeFuel VARCHAR(50) NOT NULL,
-    Modelo_id INT,
+    Modelo_Id INT,
     Combustible_Id INT,
     FOREIGN KEY (Combustible_Id) REFERENCES tipocombustible(Combustible_Id)
-    FOREIGN KEY (Modelo_id) REFERENCES tipomodeloauto(Modelo_id)
+    FOREIGN KEY (Modelo_Id) REFERENCES tipomodeloauto(Modelo_Id)
 );
 
 DROP TABLE IF EXISTS sonido;
