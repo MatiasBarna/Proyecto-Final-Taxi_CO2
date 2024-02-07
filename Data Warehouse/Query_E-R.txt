@@ -1,195 +1,70 @@
-ETL TAXI FUEL:
+DROP DATABASE IF EXISTS taxi2_co2;
+CREATE DATABASE IF NOT EXISTS taxi2_co2;
+USE taxi2_co2;
 
--- CREATE TABLE Vehiculo (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    YEAR INT,
-    Manufacturer VARCHAR(255),
-    Model VARCHAR(255),
-    cylinders INT,
-    displ FLOAT,
-    drive VARCHAR(255),
-    engId INT,
-    eng_dscr VARCHAR(255),
-    fuelType VARCHAR(255),
-    fuelType1 VARCHAR(255),
-    fuelType2 VARCHAR(255),
-    trany VARCHAR(255),
-    tCharger VARCHAR(255),
-    sCharger VARCHAR(255),
-    atvType VARCHAR(255),
-    evMotor VARCHAR(255),
-    mfrCode VARCHAR(255),
-    c240Dscr VARCHAR(255),
-    c240bDscr VARCHAR(255),
-    startStop VARCHAR(255),
-    createdOn DATE,
-    modifiedOn DATE
+CREATE TABLE IF NOT EXISTS Zona(
+PULocationID INT AUTO_INCREMENT PRIMARY KEY ,
+Zone VARCHAR(150) NOT NULL
 );
 
--- Tabla Consumo de Combustible
-CREATE TABLE ConsumoCombustible (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    vehiculo_id INT,
-    barrels08 FLOAT,
-    barrelsA08 FLOAT,
-    city08 FLOAT,
-    city08U FLOAT,
-    cityA08 FLOAT,
-    cityA08U FLOAT,
-    cityCD FLOAT,
-    cityE FLOAT,
-    cityUF FLOAT,
-    comb08 FLOAT,
-    comb08U FLOAT,
-    combA08 FLOAT,
-    combA08U FLOAT,
-    combE FLOAT,
-    combinedCD FLOAT,
-    combinedUF FLOAT,
-    highway08 FLOAT,
-    highway08U FLOAT,
-    highwayA08 FLOAT,
-    highwayA08U FLOAT,
-    highwayCD FLOAT,
-    highwayE FLOAT,
-    highwayUF FLOAT,
-    UCity FLOAT,
-    UCityA FLOAT,
-    UHighway FLOAT,
-    UHighwayA FLOAT,
-    youSaveSpend FLOAT,
-    FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
-);
-
--- Tabla Emisiones
-CREATE TABLE Emisiones (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    vehiculo_id INT,
-    co2 FLOAT,
-    co2A FLOAT,
-    co2TailpipeAGpm FLOAT,
-    co2TailpipeGpm FLOAT,
-    ghgScore FLOAT,
-    ghgScoreA FLOAT,
-    phevCity FLOAT,
-    FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
-);
-
--- Tabla Rango de Conducción
-CREATE TABLE RangoConduccion (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    vehiculo_id INT,
-    Range_ FLOAT,
-    rangeCity FLOAT,
-    rangeCityA FLOAT,
-    rangeHwy FLOAT,
-    rangeHwyA FLOAT,
-    rangeA FLOAT,
-    FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
-);
-
--- Tabla Costos y Capacidad
-CREATE TABLE CostosCapacidad (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    vehiculo_id INT,
-    fuelCost08 FLOAT,
-    fuelCostA08 FLOAT,
-    hlv FLOAT,
-    hpv FLOAT,
-    lv2 FLOAT,
-    lv4 FLOAT,
-    mpgData VARCHAR(255),
-    guzzler VARCHAR(255),
-    FOREIGN KEY (vehiculo_id) REFERENCES Vehiculo(id)
+DROP TABLE IF EXISTS viajes_taxi;
+CREATE TABLE IF NOT EXISTS viajes_taxi (
+    Viaje_Id INT AUTO_INCREMENT PRIMARY KEY,
+    Hour int not null,
+    PULocationID INT NOT null,
+    Dayofweek int not null,
+    Demanda DECIMAL(10,2) NOT NULL,
+    FOREIGN KEY (PULocationID) REFERENCES Zona(PULocationID)
 );
 
 
-ETL TAXI 2023:
-
--- Tabla TaxiZone (Zona de Taxi)
-CREATE TABLE TaxiZone (
-    PULocationID INT PRIMARY KEY,
-    Borough VARCHAR(255),
-    Zone VARCHAR(255),
-    Service_Zone VARCHAR(255)
+DROP TABLE IF EXISTS Electric_Car_Data;
+CREATE TABLE IF NOT EXISTS Electric_Car_Data (
+Car_Id INT AUTO_INCREMENT PRIMARY KEY,
+Brand VARCHAR(120) NOT NULL,
+Model VARCHAR(180) NOT NULL,
+FastCharge_miH DECIMAL(10,2) NOT NULL,
+Efficiency_Whmi INT NOT NULL,
+RapidCharge INT NOT NULL,
+Range_Miles DOUBLE NOT NULL,
+PriceDollar DOUBLE NOT NULL
 );
 
--- Tabla TaxiTrip (Viaje de Taxi)
-CREATE TABLE TaxiTrip (
-    trip_id INT PRIMARY KEY AUTO_INCREMENT,
-    PULocationID INT,
-    DOLocationID INT,
-    Passenger_Count INT,
-    Trip_Distance FLOAT,
-    RatecodeID INT,
-    Store_and_fwd_flag VARCHAR(255),
-    Total_Amount FLOAT,
-    Date_pickup DATE,
-    Time_pickup TIME,
-    Date_dropoff DATE,
-    Time_dropoff TIME,
-    FOREIGN KEY (PULocationID) REFERENCES TaxiZone(PULocationID),
-    FOREIGN KEY (DOLocationID) REFERENCES TaxiZone(PULocationID)
+CREATE TABLE IF NOT EXISTS Distrito(
+BoroughID INT AUTO_INCREMENT PRIMARY KEY ,
+Borough VARCHAR(150) NOT NULL
 );
 
-ETL ELECTRICO VS GASOLINA:
-
-CREATE TABLE EV_Pricing_Detail (
-    EV_Price VARCHAR(50) PRIMARY KEY
-);
-
-CREATE TABLE Station (
-    ID INT PRIMARY KEY AUTO_INCREMENT,
-    Station_Name VARCHAR(255),
-    Street_Address VARCHAR(255),
-    City VARCHAR(255),
-    State VARCHAR(255),
-    ZIP VARCHAR(10),
-    Station_Phone VARCHAR(20),
-    Latitude DECIMAL(10, 8),
-    Longitude DECIMAL(11, 8),
-    EV_Price VARCHAR(50),
-    FOREIGN KEY (EV_Price) REFERENCES EV_Pricing_Detail(EV_Price)
+DROP TABLE IF EXISTS Sonidos_Data;
+CREATE TABLE IF NOT EXISTS Sonidos_Data(
+ContaminacionID INT AUTO_INCREMENT PRIMARY KEY,
+BoroughID INT NOT NULL,
+Latitude DECIMAL(10,6) NOT NULL,
+Longitude DECIMAL (10,6) NOT NULL,
+Year INT NOT NULL,
+Day INT NOT NULL,
+Hour INT NOT NULL,
+Engine_Sound VARCHAR(20),
+FOREIGN KEY (BoroughID) REFERENCES Distrito(BoroughID)  
 );
 
 
-ETL CONTAMINACION:
--- Tabla para Contaminantes
-CREATE TABLE Contaminantes (
-    PollutantID INT PRIMARY KEY,
-    Name VARCHAR(255),
-    Description VARCHAR(255)
+DROP TABLE IF EXISTS Taxis_2023;
+CREATE TABLE IF NOT EXISTS Taxis_2023(
+TaxiID INT AUTO_INCREMENT PRIMARY KEY,
+PULocationID INT NOT NULL, 
+BoroughID INT NOT NULL,
+Service_Zone VARCHAR(80) NOT NULL,
+Passenger_Count INT NOT NULL,
+Trip_Distance DECIMAL(10,6) NOT NULL ,
+DOLocationID INT NOT NULL,
+RatecodeID INT NOT NULL,
+Store_and_fwd_flag BOOLEAN NOT NULL,
+Total_Amount DECIMAL(10,6) NOT NULL,
+Date_pickup DATE NOT NULL,
+Time_pickup TIME NOT NULL,
+Date_dropoff DATE NOT NULL,
+Time_dropoff TIME NOT NULL,
+FOREIGN KEY (PULocationID) REFERENCES Zona(PULocationID),
+FOREIGN KEY (BoroughID) REFERENCES Distrito(BoroughID)  
 );
-
--- Tabla para Unidad de Medida
-CREATE TABLE UnidadMedida (
-    MeasureInfoID INT PRIMARY KEY,
-    Unit VARCHAR(50)
-);
-
--- Tabla para Lugares Geográficos
-CREATE TABLE LugaresGeograficos (
-    GeoPlaceID INT PRIMARY KEY,
-    Name VARCHAR(255)
-);
-
--- Tabla para Años
-CREATE TABLE Anios (
-    YearID INT PRIMARY KEY,
-    Year INT
-);
-
--- Tabla para Mediciones
-CREATE TABLE Mediciones (
-    MeasurementID INT PRIMARY KEY,
-    ContaminanteID INT,
-    MeasureInfoID INT,
-    GeoPlaceID INT,
-    YearID INT,
-    Value FLOAT,
-    FOREIGN KEY (ContaminanteID) REFERENCES Contaminantes(PollutantID),
-    FOREIGN KEY (MeasureInfoID) REFERENCES UnidadMedida(MeasureInfoID),
-    FOREIGN KEY (GeoPlaceID) REFERENCES LugaresGeograficos(GeoPlaceID),
-    FOREIGN KEY (YearID) REFERENCES Anios(YearID)
-);
-
