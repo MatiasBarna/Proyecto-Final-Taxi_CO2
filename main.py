@@ -13,8 +13,7 @@ app = FastAPI()
 def start():
     return {'Mensaje': 'Proyecto final - Modelo de predicción'}
 
-df_taxi = pd.read_csv('C:/Users/User/Desktop/PF_NYC_CO2/Taxi/Taxi_ML.csv')
-
+df_taxi = pd.read_csv('Taxi_ML.csv')
 
 # Se seleccionan las características (X) y la variable objetivo (Y)
 caracteristicas = ['PULocationID', 'Dayofweek', 'Hour']

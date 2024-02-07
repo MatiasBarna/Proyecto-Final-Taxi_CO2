@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 
 # Se cargan los datos y se entrena el modelo
-df_taxi = pd.read_csv('C:/Users/User/Desktop/PF_NYC_CO2/Taxi/Taxi_ML.csv')
+df_taxi = pd.read_csv('Taxi_ML.csv')
 caracteristicas = ['PULocationID', 'Dayofweek', 'Hour']
 variable_objetivo = 'Demanda'
 X = df_taxi[caracteristicas]
