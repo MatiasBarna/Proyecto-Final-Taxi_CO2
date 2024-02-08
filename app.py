@@ -75,22 +75,30 @@ def zonas_mas_probables(rf_model, zona_actual, hora, dia_semana, top_n):
 
     return zonas_probables
 
-# Se usa Streamlit para crear widgets de entrada
-st.title('Modelo de predicción de demanda de taxis amarillos en Manhattan-Queens, NY')
-Id_Zona = st.number_input('Id de la zona', min_value=43, max_value=263, value=43)
-Dia_de_la_semana = st.number_input('Día de la semana', min_value=1, max_value=7, value=1)
-Hora = st.number_input('Hora del día', min_value=0, max_value=23, value=0)
+def main():
 
-# Se crea un botón que nos permita ejecutar la consulta 
-predecir = st.button("Predecir")
+    # Se usa Streamlit para crear widgets de entrada
+    st.title('Modelo de predicción de demanda de taxis amarillos en Manhattan-Queens, NY')
+    Id_Zona = st.number_input('Id de la zona', min_value=43, max_value=263, value=43)
+    Dia_de_la_semana = st.number_input('Día de la semana', min_value=1, max_value=7, value=1)
+    Hora = st.number_input('Hora del día', min_value=0, max_value=23, value=0)
+    resutaldo = {"probabilidad_en_zona": 0, "probabilidad_otras_zonas": 0} 
+    # Se crea un botón que nos permita ejecutar la consulta 
+    predecir = st.button("Predecir")
+    
+    # Al darle clic al botón, se llama a la función de predicción con los valores de los widgets de entrada
+    
+    if predecir:
+        resultado = prediccion(Id_Zona, Dia_de_la_semana, Hora)
+        if isinstance(resultado, dict):
+            if 'error' in resultado:
+                st.error(resultado['error'])
+            else:
+                st.success(f'La probabilidad de encontrar un viaje en la zona {Id_Zona} es {resultado["probabilidad_en_zona"]}')
+                st.write('Las zonas más probables son:')
+                st.table(pd.DataFrame(resultado['probabilidad_otras_zonas'], columns=['Zona', 'Probabilidad']))
+        else:
+            st.error("El resultado no es un diccionario válido.")
 
-# Al darle clic al botón, se llama a la función de predicción con los valores de los widgets de entrada
-if predecir:
-    resultado = prediccion(Id_Zona, Dia_de_la_semana, Hora)
-    # Muestra el resultado de la predicción
-    if 'error' in resultado:
-        st.error(resultado['error'])
-    else:
-        st.success(f'La probabilidad de encontrar un viaje en la zona {Id_Zona} es {resultado["probabilidad_en_zona"]}')
-        st.write('Las zonas más probables son:')
-        st.table(pd.DataFrame(resultado['probabilidad_otras_zonas'], columns=['Zona', 'Probabilidad']))
+if __name__ == '__main__':
+    main()
