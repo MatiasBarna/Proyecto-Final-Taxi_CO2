@@ -64,7 +64,7 @@ Este alcance proporciona un marco completo para abordar los objetivos del proyec
 
 ### Diseño Modelo ER
 
-  ![Pepline](img/imagen1.png)
+  ![Modelo ER](img/imagen1.png)
 
 Nuestro modelo de base de datos sigue un esquema relacional en forma de estrella, compuesto por una tabla de hechos y varias tablas de dimensiones.
 
